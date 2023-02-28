@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "851ac1f480aae0e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "40607bef8d5f1125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d556aa131fe4e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STA210/Learning R/Learning R.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52dae0233c9ee635",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 219.49091431765913,
+                  "y": 167.9385796635454,
+                  "zoom": 0.5555555216471354
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dc42d5325e816b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea935a5fd4238867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65a4f2e519be34e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b16bc42f1b142025",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b603e402a153cee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9431c1a2ecf4186d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b66be78edc6d6ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e791168f7a01492",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STA210/Learning R/Learning R.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d55c233be2b33e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STA210/Learning R/Learning R.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59ab6f4ea33ad3cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51dee09248efde3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STA210/Learning R/Learning R.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3d556aa131fe4e01",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Pasted image 20230228150443.png",
+    "STA210/Learning R/Learning R.md",
+    "Arduino/Display.canvas",
+    "Pasted image 20230227113911.png",
+    "STA210/Learning R",
+    "STA210",
+    "CPS 202/Learning C/Area of Circle in C.md",
+    "CPS 202/Learning C/Array in C.md",
+    "CPS 202/Learning C/Arrays Intro.md",
+    "CPS 202/Learning C/Functions.md",
+    "CPS 202/Learning C/Cube using Functions.md",
+    "CPS 202/Learning C/Fibonnacci Sequence.md",
+    "Untitled 1.canvas",
+    "Arduino/Pasted image 20230224201212.png",
+    "Arduino",
+    "Arduino/Pasted image 20230224201350.png",
+    "Arduino/Pasted image 20230224201539.png",
+    "CPS 202/Learning C/Factorial In C.md",
+    "CPS 202/Learning C/Even Numbers in C.md",
+    "CPS 202/Learning C/Unit Converstions.md",
+    "CPS 202/Learning C/Division.md",
+    "CPS 202/Learning C/If in C.md",
+    "CPS 202/Learning C/For Loop in C.md",
+    "CPS 202/Learning C/While Loop in C.md",
+    "CPS 202/Learning C/Volume of Sphere in C.md",
+    "CPS 202/Learning C/Sine & Cosine in C.md"
+  ]
+}
