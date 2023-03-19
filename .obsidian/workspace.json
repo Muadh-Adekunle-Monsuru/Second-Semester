@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "40607bef8d5f1125",
+        "id": "7932c9ae961c014b",
         "type": "tabs",
         "children": [
           {
-            "id": "3d556aa131fe4e01",
+            "id": "9955d118020a2f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA210/Learning R/Learning R.md",
+                "file": "For Loops on Object.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "52dae0233c9ee635",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 219.49091431765913,
-                  "y": 167.9385796635454,
-                  "zoom": 0.5555555216471354
-                }
               }
             }
           }
@@ -84,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9431c1a2ecf4186d",
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STA210/Learning R/Learning R.md",
+                "file": "For Loops on Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STA210/Learning R/Learning R.md",
+                "file": "For Loops on Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STA210/Learning R/Learning R.md"
+                "file": "For Loops on Object.md"
               }
             }
           }
@@ -162,22 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d556aa131fe4e01",
+  "active": "9955d118020a2f46",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Pasted image 20230228150443.png",
+    "STA210/Learning R/Pasted image 20230227113911.png",
+    "For Loops on Object.md",
+    "JavaScript",
+    "STA210/Learning R/Untitled.md",
+    "STA210/Learning R/Untitled.canvas",
+    "STA210/Learning R/Pasted image 20230301193606.png",
+    "STA210/Learning R/Pasted image 20230301193545.png",
+    "STA210/Learning R/Pasted image 20230228150443.png",
+    "CPS 202/Learning C/Pasted image 20230309113214.png",
+    "CPS 202/Learning C/C.canvas",
+    "CPS 202/Learning C/Area of Circle in C.md",
     "STA210/Learning R/Learning R.md",
     "Arduino/Display.canvas",
-    "Pasted image 20230227113911.png",
     "STA210/Learning R",
     "STA210",
-    "CPS 202/Learning C/Area of Circle in C.md",
     "CPS 202/Learning C/Array in C.md",
     "CPS 202/Learning C/Arrays Intro.md",
     "CPS 202/Learning C/Functions.md",
     "CPS 202/Learning C/Cube using Functions.md",
     "CPS 202/Learning C/Fibonnacci Sequence.md",
-    "Untitled 1.canvas",
     "Arduino/Pasted image 20230224201212.png",
     "Arduino",
     "Arduino/Pasted image 20230224201350.png",

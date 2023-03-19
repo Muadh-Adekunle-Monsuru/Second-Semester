@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "spellcheck": true,
+  "vimMode": true
 }
