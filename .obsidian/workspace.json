@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 202/Assignment 1 CPS 202.md",
+                "file": "CPS 202/Introduction to C.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 202/Assignment 1 CPS 202.md",
+                "file": "CPS 202/Introduction to C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 202/Assignment 1 CPS 202.md",
+                "file": "CPS 202/Introduction to C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 202/Assignment 1 CPS 202.md"
+                "file": "CPS 202/Introduction to C.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "da33e53febb0ebaf",
   "lastOpenFiles": [
+    "CPS 202/Assignment 1 CPS 202.md",
     "CPS 206/Assignment 1 CPS 206.md",
     "CPS 206/Operating System I.md",
-    "CPS 202/Assignment 1 CPS 202.md",
     "CPS 202/Introduction to C.md",
     "CPS 206/Untitled.md",
     "CPS 202/Process of Program Compilation.canvas",
