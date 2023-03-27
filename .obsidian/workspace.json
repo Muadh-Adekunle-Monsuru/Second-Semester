@@ -8,18 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9955d118020a2f46",
+            "id": "da33e53febb0ebaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "For Loops on Object.md",
+                "file": "CPS 202/Assignment 1 CPS 202.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "right": {
     "id": "9431c1a2ecf4186d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For Loops on Object.md",
+                "file": "CPS 202/Assignment 1 CPS 202.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "For Loops on Object.md",
+                "file": "CPS 202/Assignment 1 CPS 202.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "For Loops on Object.md"
+                "file": "CPS 202/Assignment 1 CPS 202.md"
               }
             }
           }
@@ -146,25 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9955d118020a2f46",
+  "active": "da33e53febb0ebaf",
   "lastOpenFiles": [
-    "STA210/Learning R/Pasted image 20230227113911.png",
-    "For Loops on Object.md",
-    "JavaScript",
+    "CPS 206/Assignment 1 CPS 206.md",
+    "CPS 206/Operating System I.md",
+    "CPS 202/Assignment 1 CPS 202.md",
+    "CPS 202/Introduction to C.md",
+    "CPS 206/Untitled.md",
+    "CPS 202/Process of Program Compilation.canvas",
+    "CPS 202/Class 1.md",
+    "CPS 202/Learning C/Learning C.md",
+    "CPS 202/Learning C/Area of Circle in C.md",
+    "CPS 206",
+    "JavaScript/DOM Manipulation.md",
+    "JavaScript/Untitled.md",
+    "JavaScript/For Loops on Object.md",
+    "JavaScript/Spread and Rest Operators.md",
+    "CPS 202/Learning C/Array in C.md",
+    "CPS 202/Learning C/Arrays Intro.md",
     "STA210/Learning R/Untitled.md",
     "STA210/Learning R/Untitled.canvas",
-    "STA210/Learning R/Pasted image 20230301193606.png",
-    "STA210/Learning R/Pasted image 20230301193545.png",
+    "STA210/Learning R/Pasted image 20230227113911.png",
     "STA210/Learning R/Pasted image 20230228150443.png",
+    "STA210/Learning R/Pasted image 20230301193545.png",
+    "STA210/Learning R/Pasted image 20230301193606.png",
+    "STA210/Learning R/Learning R.md",
+    "JavaScript",
     "CPS 202/Learning C/Pasted image 20230309113214.png",
     "CPS 202/Learning C/C.canvas",
-    "CPS 202/Learning C/Area of Circle in C.md",
-    "STA210/Learning R/Learning R.md",
     "Arduino/Display.canvas",
     "STA210/Learning R",
     "STA210",
-    "CPS 202/Learning C/Array in C.md",
-    "CPS 202/Learning C/Arrays Intro.md",
     "CPS 202/Learning C/Functions.md",
     "CPS 202/Learning C/Cube using Functions.md",
     "CPS 202/Learning C/Fibonnacci Sequence.md",
@@ -178,8 +191,6 @@
     "CPS 202/Learning C/Division.md",
     "CPS 202/Learning C/If in C.md",
     "CPS 202/Learning C/For Loop in C.md",
-    "CPS 202/Learning C/While Loop in C.md",
-    "CPS 202/Learning C/Volume of Sphere in C.md",
-    "CPS 202/Learning C/Sine & Cosine in C.md"
+    "CPS 202/Learning C/While Loop in C.md"
   ]
 }

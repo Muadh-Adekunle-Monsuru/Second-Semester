@@ -1,4 +1,4 @@
-Object.keys():*** Extracts all the keys in an object and placed them in 
+Object.keys():*** Extracts all the keys in an object and placed them in h 
 ```JavaScript
 const car2 = {
 

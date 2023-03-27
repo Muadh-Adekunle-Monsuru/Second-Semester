@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5bec4dd7029ea377","x":-120,"y":-60,"width":250,"height":130,"type":"text","text":"Translator\n\nLanguage Processors\n\nCompiler or interpreter"},
+		{"id":"2c30a4b97db19db0","x":200,"y":-50,"width":250,"height":110,"type":"text","text":"Object Code\n\nMachine Language Instructions\n"},
+		{"id":"1a2a66190623bea9","x":-440,"y":-50,"width":250,"height":110,"type":"text","text":" C language Commands\n\n\tsource code"}
+	],
+	"edges":[
+		{"id":"d54a5f074faec8e2","fromNode":"1a2a66190623bea9","fromSide":"right","toNode":"5bec4dd7029ea377","toSide":"left"},
+		{"id":"b8a7405e2021e555","fromNode":"5bec4dd7029ea377","fromSide":"right","toNode":"2c30a4b97db19db0","toSide":"left"}
+	]
+}

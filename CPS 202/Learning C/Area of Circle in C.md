@@ -15,8 +15,6 @@ int main(){
 
     area = pi * radius * radius;
 
-  
-
     printf("For the radius of %lf, the area is %lf",radius,area);
 
   
