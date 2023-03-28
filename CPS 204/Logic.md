@@ -1,0 +1,1 @@
+ The logic will meet our intuitions by setting down some constructs

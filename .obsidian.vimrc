@@ -2,6 +2,7 @@
 nmap j gj
 nmap k gk
 imap qq <Esc> 
+map q <Nop>
 " I like using H and L for beginning/end of line
 nmap H ^
 nmap L $

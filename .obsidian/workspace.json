@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7932c9ae961c014b",
+        "id": "65fad7ca0a04d1b0",
         "type": "tabs",
         "children": [
           {
-            "id": "da33e53febb0ebaf",
+            "id": "a18f2347de80a165",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CPS 202/Introduction to C.md",
-                "mode": "source",
-                "source": false
+                "file": "CPS 102/CPS102 Documents/Chapter 1.pdf"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 202/Introduction to C.md",
+                "file": "CPS 102/CPS102 Documents/Chapter 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 202/Introduction to C.md",
+                "file": "CPS 102/CPS102 Documents/Chapter 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 202/Introduction to C.md"
+                "file": "CPS 102/CPS102 Documents/Chapter 1.pdf"
               }
             }
           }
@@ -147,18 +145,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da33e53febb0ebaf",
+  "active": "a18f2347de80a165",
   "lastOpenFiles": [
+    "CPS 204/CPS 204.md",
+    "CPS 102/CPS102 Documents/Chapter 2.pdf",
+    "CPS 102/CPS102 Documents/Invitation To Comp Sci.pdf",
+    "CPS 102/CPS102 Documents/Section2.pdf",
+    "CPS 102/CPS102 Documents/Unconfirmed 961522.crdownload",
+    "CPS 102/CPS102 Documents/Chapter 1.pdf",
+    "CPS 102/CPS102 Documents/Unconfirmed 687262.crdownload",
+    "CPS 102/CPS102 Documents",
+    "CPS 102/New folder",
+    "CPS 102",
+    "New folder",
+    "CPS 204/Logic.md",
+    "CPS 106/Unit 1.md",
+    "CPS 106/CPS 106.md",
+    "CPS 106/Module 1.md",
+    "CPS 202/Introduction to C.md",
     "CPS 202/Assignment 1 CPS 202.md",
     "CPS 206/Assignment 1 CPS 206.md",
     "CPS 206/Operating System I.md",
-    "CPS 202/Introduction to C.md",
     "CPS 206/Untitled.md",
     "CPS 202/Process of Program Compilation.canvas",
     "CPS 202/Class 1.md",
     "CPS 202/Learning C/Learning C.md",
     "CPS 202/Learning C/Area of Circle in C.md",
-    "CPS 206",
     "JavaScript/DOM Manipulation.md",
     "JavaScript/Untitled.md",
     "JavaScript/For Loops on Object.md",
@@ -172,25 +184,15 @@
     "STA210/Learning R/Pasted image 20230301193545.png",
     "STA210/Learning R/Pasted image 20230301193606.png",
     "STA210/Learning R/Learning R.md",
-    "JavaScript",
     "CPS 202/Learning C/Pasted image 20230309113214.png",
     "CPS 202/Learning C/C.canvas",
     "Arduino/Display.canvas",
-    "STA210/Learning R",
-    "STA210",
     "CPS 202/Learning C/Functions.md",
     "CPS 202/Learning C/Cube using Functions.md",
     "CPS 202/Learning C/Fibonnacci Sequence.md",
     "Arduino/Pasted image 20230224201212.png",
-    "Arduino",
     "Arduino/Pasted image 20230224201350.png",
     "Arduino/Pasted image 20230224201539.png",
-    "CPS 202/Learning C/Factorial In C.md",
-    "CPS 202/Learning C/Even Numbers in C.md",
-    "CPS 202/Learning C/Unit Converstions.md",
-    "CPS 202/Learning C/Division.md",
-    "CPS 202/Learning C/If in C.md",
-    "CPS 202/Learning C/For Loop in C.md",
-    "CPS 202/Learning C/While Loop in C.md"
+    "CPS 202/Learning C/Factorial In C.md"
   ]
 }
