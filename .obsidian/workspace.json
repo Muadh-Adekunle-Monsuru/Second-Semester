@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "65fad7ca0a04d1b0",
+        "id": "3df9ec29948749c4",
         "type": "tabs",
         "children": [
           {
-            "id": "a18f2347de80a165",
+            "id": "6e09b790d73a77e2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CPS 102/CPS102 Documents/Chapter 1.pdf"
+                "file": "CPS 106/Unit 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "9431c1a2ecf4186d",
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 102/CPS102 Documents/Chapter 1.pdf",
+                "file": "CPS 106/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 102/CPS102 Documents/Chapter 1.pdf",
+                "file": "CPS 106/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 102/CPS102 Documents/Chapter 1.pdf"
+                "file": "CPS 106/Unit 1.md"
               }
             }
           }
@@ -145,54 +148,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a18f2347de80a165",
+  "active": "6e09b790d73a77e2",
   "lastOpenFiles": [
-    "CPS 204/CPS 204.md",
-    "CPS 102/CPS102 Documents/Chapter 2.pdf",
-    "CPS 102/CPS102 Documents/Invitation To Comp Sci.pdf",
-    "CPS 102/CPS102 Documents/Section2.pdf",
-    "CPS 102/CPS102 Documents/Unconfirmed 961522.crdownload",
-    "CPS 102/CPS102 Documents/Chapter 1.pdf",
-    "CPS 102/CPS102 Documents/Unconfirmed 687262.crdownload",
-    "CPS 102/CPS102 Documents",
-    "CPS 102/New folder",
-    "CPS 102",
-    "New folder",
-    "CPS 204/Logic.md",
-    "CPS 106/Unit 1.md",
     "CPS 106/CPS 106.md",
-    "CPS 106/Module 1.md",
+    "CPS 106/CPS 106 Documents/Unit 1.pdf",
+    "CPS 106/CPS 106 Documents/cps106.pdf",
+    "CPS 106/CPS 106 Documents/Unconfirmed 320267.crdownload",
+    "CPS 106/Assignment 1 CPS 106.md",
+    "CPS 108/CPS 108.md",
+    "CPS 202/Learning C/Area of Circle in C.md",
+    "CPS 108",
     "CPS 202/Introduction to C.md",
+    "CPS 202/Learning C/While Loop in C.md",
+    "JavaScript/Spread and Rest Operators.md",
+    "CPS 202/Header Files.md",
+    "CPS 202/Process of Program Compilation.canvas",
     "CPS 202/Assignment 1 CPS 202.md",
+    "CPS 206/cps206.pdf",
     "CPS 206/Assignment 1 CPS 206.md",
     "CPS 206/Operating System I.md",
-    "CPS 206/Untitled.md",
-    "CPS 202/Process of Program Compilation.canvas",
-    "CPS 202/Class 1.md",
-    "CPS 202/Learning C/Learning C.md",
-    "CPS 202/Learning C/Area of Circle in C.md",
-    "JavaScript/DOM Manipulation.md",
+    "CPS 206/OS_slides.pdf",
+    "CPS 206/Unconfirmed 636914.crdownload",
+    "CPS 206/Unconfirmed 92881.crdownload",
+    "STA210/sta 202 - Random variable.pdf",
+    "CPS 102/Assignment 1.md",
+    "CPS 102/Class 1.md",
+    "CPS 102/CPS 102.md",
     "JavaScript/Untitled.md",
     "JavaScript/For Loops on Object.md",
-    "JavaScript/Spread and Rest Operators.md",
-    "CPS 202/Learning C/Array in C.md",
-    "CPS 202/Learning C/Arrays Intro.md",
-    "STA210/Learning R/Untitled.md",
+    "JavaScript/DOM Manipulation.md",
+    "CPS 106/Unit 1.md",
+    "CPS 106/Module 1.md",
+    "CPS 208/Assignment 1.md",
+    "CPS 208/CPS 208.md",
+    "CPS 208",
+    "CPS 204/CPS 204.md",
+    "CPS 204/Logic.md",
+    "CPS 206/Untitled.md",
+    "CPS 202/Class 1.md",
     "STA210/Learning R/Untitled.canvas",
     "STA210/Learning R/Pasted image 20230227113911.png",
     "STA210/Learning R/Pasted image 20230228150443.png",
     "STA210/Learning R/Pasted image 20230301193545.png",
     "STA210/Learning R/Pasted image 20230301193606.png",
-    "STA210/Learning R/Learning R.md",
     "CPS 202/Learning C/Pasted image 20230309113214.png",
     "CPS 202/Learning C/C.canvas",
     "Arduino/Display.canvas",
-    "CPS 202/Learning C/Functions.md",
-    "CPS 202/Learning C/Cube using Functions.md",
-    "CPS 202/Learning C/Fibonnacci Sequence.md",
     "Arduino/Pasted image 20230224201212.png",
     "Arduino/Pasted image 20230224201350.png",
-    "Arduino/Pasted image 20230224201539.png",
-    "CPS 202/Learning C/Factorial In C.md"
+    "Arduino/Pasted image 20230224201539.png"
   ]
 }

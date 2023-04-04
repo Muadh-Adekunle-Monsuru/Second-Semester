@@ -2,7 +2,11 @@
 - It is very active and versatile
 - C came into existence in 1972
 - The syntax and the semantics of the language have similarities with Python
+- C is case sensitive
+```Java
+kjghi
 
+```
 
 ```C
 #include <stdio.h> // Called header files, which ends with .h
@@ -21,9 +25,11 @@ End;
 
 Data Type | Syntax 
 ----|----
-Integer | int x;
-Floating point | float x;  or Double x; //Double is more than 10 values
+Integer | int x; short integer = short; long integer = long
+Floating point | float x;  or 
 Character & String | Char x; or Char[35]
+Double |  //Double is floating point but more than 12 values
+constant | #define pi 3.1415926535
 
 write a c program that contains only declarative statements for 
 3 interger, character and floating point variables
@@ -51,3 +57,13 @@ or /* this
 
 
 ```
+Features of C
+- Readability
+- Portability
+- Simplicity 
+
+Examples of C compilers:
+- Quincy
+- Bloodshed
+- CodeBlock
+- MINGW
