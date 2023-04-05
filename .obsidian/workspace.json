@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 206/Operating System I.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 206/Operating System I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 206/Operating System I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 208/CPS 208.md"
+                "file": "CPS 206/Operating System I.md"
               }
             }
           }
@@ -150,18 +150,19 @@
   },
   "active": "88deabf12f8a4c79",
   "lastOpenFiles": [
-    "CPS 102/Class 2.md",
+    "CPS 206/CPS206 Document",
+    "CPS 206/CPS206 Document/cps206.pdf",
+    "CPS 206/Assignment 2.md",
+    "CPS 206/Assignment 1 CPS 206.md",
+    "CPS 206/Operating System I.md",
+    "CPS 204/CPS 204.md",
     "CPS 208/CPS 208.md",
+    "CPS 102/Class 2.md",
     "CPS 208/Computer Performance.canvas",
-    "Images/Pasted image 20230405101413.png",
+    "Images/Pasted.png",
     "CPS 208/Assignment 1.md",
     "Images",
-    "CPS 206/Operating System I.md",
-    "CPS 206/Assignment 2.md",
-    "CPS 206/cps206.pdf",
-    "CPS 206/Assignment 1 CPS 206.md",
     "CPS 102/CPS102 Documents/Chapter 2.pdf",
-    "CPS 204/CPS 204.md",
     "CPS 204/Logic.md",
     "CPS 204/CPS 204 Documents/chapter 2.pdf",
     "CPS 106/Module 1.md",
