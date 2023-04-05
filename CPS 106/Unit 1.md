@@ -22,5 +22,23 @@ Types of data processing systems:
 
 The method of processing data electronically is called electronic data processing systems.
 
-It is any computer automated process that converts raw facts i.e data into output i.e useful information. 
+It is any computer **automated** process that converts raw facts i.e data into output i.e useful information. 
 
+## Scope of data processing
+Looking at the areas data processing covers:
+- Algorithm deductions
+- Data capture
+- Data recording
+- Data sorting
+- Data verification
+- Statistical reports
+
+Basic operations of computer systems
+- Input
+- Processing
+- Output
+- Storage
+
+Assignment
+- Why is the content of the RAM Volatile
+- Describe the function of a register 

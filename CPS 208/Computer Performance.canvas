@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e5829cf43fce7bdb","x":-160,"y":-220,"width":250,"height":60,"type":"text","text":"Computer Performance"},
+		{"id":"c5a7a9a3bbc712c1","x":-320,"y":-60,"width":250,"height":140,"type":"text","text":"Users examine performance based on:\n\n- Response Time"},
+		{"type":"text","text":"System Manager examines the performance based on:\n\n- Throughput/ Bandwidth","id":"0f16ebab3f782ff3","x":0,"y":-60,"width":250,"height":140}
+	],
+	"edges":[
+		{"id":"00ddaa59ca08543c","fromNode":"e5829cf43fce7bdb","fromSide":"bottom","toNode":"c5a7a9a3bbc712c1","toSide":"top"},
+		{"id":"a4ee47c0dc013a4e","fromNode":"e5829cf43fce7bdb","fromSide":"bottom","toNode":"0f16ebab3f782ff3","toSide":"top"}
+	]
+}

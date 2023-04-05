@@ -9,5 +9,8 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 79
-  }
+  },
+  "attachmentFolderPath": "./images",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }
