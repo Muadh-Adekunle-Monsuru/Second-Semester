@@ -81,8 +81,22 @@ System View: The OS view
 
 **Kernel:** It is the Core Component of the OS, it contains all the managers i.e, device manager, file manager process scheduler. that perform all the functions of the OS,
 
+Components of the kernel:
+- Process Scheduler
+- Memory Manager
+- File system manager
+- Interprocess communication manager
+- I/O Manager
+
 ---
 General Overview of a computer system boot sequence
 
-POST: Power On Self Test
+1. POST on the ROM runs to check the system hardware to ensure functionality
+2. Stores the result in a special memory location
+3. Once the POST is succeful the softwaree loaded in ROM/BIOS will begin to activate computer's disk drives
+4. When the disk drive is activated it find the bootstrap loader
+5. The bootstrap loader loads the operating system into memory and allows it to begin operation. 
+6. It then turns the control over to the OS
 
+What is a bootstrap loader:
+It is a small program that sets up drivers that control various hardware subsystems of the computer, during a computer startup. It then hand over the control to the OS

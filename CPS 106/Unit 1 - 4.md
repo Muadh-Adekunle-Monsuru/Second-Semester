@@ -38,7 +38,3 @@ Basic operations of computer systems
 - Processing
 - Output
 - Storage
-
-Assignment
-- Why is the content of the RAM Volatile
-- Describe the function of a register 

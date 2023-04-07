@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0715ebc8cbd8b8d5",
+        "id": "fc2af19637ae0d70",
         "type": "tabs",
         "children": [
           {
-            "id": "88deabf12f8a4c79",
+            "id": "bb6a32022db8d2f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 206/Operating System I.md",
-                "mode": "source",
+                "file": "CPS 204/CPS 204.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "9431c1a2ecf4186d",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 206/Operating System I.md",
+                "file": "CPS 204/CPS 204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 206/Operating System I.md",
+                "file": "CPS 204/CPS 204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 206/Operating System I.md"
+                "file": "CPS 204/CPS 204.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,47 +148,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88deabf12f8a4c79",
+  "active": "bb6a32022db8d2f9",
   "lastOpenFiles": [
-    "CPS 206/CPS206 Document",
-    "CPS 206/CPS206 Document/cps206.pdf",
-    "CPS 206/Assignment 2.md",
-    "CPS 206/Assignment 1 CPS 206.md",
-    "CPS 206/Operating System I.md",
+    "CPS 204/CPS 204 Documents/chapter 2.pdf",
+    "CPS 204/CPS 204 Documents/Quick Overview.pdf",
+    "CPS 204/CPS 204 Documents/Past Question Mid-Term.pdf",
+    "CPS 204/CPS 204 Documents/chapter 5.pdf",
+    "CPS 204/CPS 204 Documents/chapter 4.pdf",
+    "CPS 204/CPS 204 Documents/chapter 3.pdf",
     "CPS 204/CPS 204.md",
+    "CPS 204/Logic.md",
+    "CPS 106/Assignment 2 CPS 106.md",
+    "CPS 106/Unit 1 - 4.md",
+    "CPS 106/CPS 106.md",
+    "CPS 106/Module 1.md",
+    "CPS 106/Assignment 1 CPS 106.md",
+    "CPS 108/CPS 108.md",
+    "CPS 202/Process of Program Compilation.canvas",
+    "CPS 202/Introduction to C.md",
+    "CPS 202/Header Files.md",
+    "CPS 202/Assignment 1 CPS 202.md",
+    "CPS 206/Operating System I.md",
+    "CPS 206/Assignment 1 CPS 206.md",
+    "CPS 206/Assignment 2.md",
+    "CPS 206/CPS206 Document/cps 206 - operating-systems-deitel-3rd-edition1pdf.pdf",
+    "CPS 206/CPS206 Document/Unconfirmed 194468.crdownload",
+    "CPS 206/CPS206 Document/cps206.pdf",
+    "CPS 206/CPS206 Document",
     "CPS 208/CPS 208.md",
     "CPS 102/Class 2.md",
     "CPS 208/Computer Performance.canvas",
     "Images/Pasted.png",
     "CPS 208/Assignment 1.md",
     "Images",
-    "CPS 102/CPS102 Documents/Chapter 2.pdf",
-    "CPS 204/Logic.md",
-    "CPS 204/CPS 204 Documents/chapter 2.pdf",
-    "CPS 106/Module 1.md",
-    "CPS 106/CPS 106.md",
-    "CPS 106/CPS 106 Documents/cps106.pdf",
-    "CPS 106/CPS 106 Documents/Unit 4.pdf",
-    "CPS 106/CPS 106 Documents/Unit 3.pdf",
-    "CPS 106/CPS 106 Documents/Unit 2.pdf",
-    "CPS 106/CPS 106 Documents/Unit 1.pdf",
-    "CPS 106/Unit 1.md",
-    "CPS 106/CPS 106 Documents/Unconfirmed 320267.crdownload",
-    "CPS 106/Assignment 1 CPS 106.md",
-    "CPS 108/CPS 108.md",
     "CPS 202/Learning C/Area of Circle in C.md",
-    "CPS 202/Introduction to C.md",
     "CPS 202/Learning C/While Loop in C.md",
     "JavaScript/Spread and Rest Operators.md",
-    "CPS 202/Header Files.md",
-    "CPS 202/Process of Program Compilation.canvas",
-    "CPS 202/Assignment 1 CPS 202.md",
     "CPS 102/Assignment 1.md",
     "CPS 102/Class 1.md",
     "CPS 102/CPS 102.md",
     "JavaScript/Untitled.md",
     "JavaScript/For Loops on Object.md",
-    "JavaScript/DOM Manipulation.md",
     "STA210/Learning R/Untitled.canvas",
     "STA210/Learning R/Pasted image 20230227113911.png",
     "STA210/Learning R/Pasted image 20230228150443.png",
