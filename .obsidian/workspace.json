@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2af19637ae0d70",
+        "id": "953485a4deb40b69",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6a32022db8d2f9",
+            "id": "e316cff55c9e8071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 204/CPS 204.md",
-                "mode": "preview",
+                "file": "CPS 208/CPS 208.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 204/CPS 204.md",
+                "file": "CPS 208/CPS 208.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 204/CPS 204.md",
+                "file": "CPS 208/CPS 208.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 204/CPS 204.md"
+                "file": "CPS 208/CPS 208.md"
               }
             }
           }
@@ -148,15 +148,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb6a32022db8d2f9",
+  "active": "e316cff55c9e8071",
   "lastOpenFiles": [
+    "CPS 208/Assignment 1.md",
+    "CPS 208/Computer Performance.canvas",
+    "CPS 102/Class 2.md",
+    "CPS 102/CPS102 Documents/Chapter 2.pdf",
+    "CPS 102/CPS102 Documents/Chapter 1.pdf",
+    "CPS 102/Class 1.md",
+    "CPS 102/CPS 102.md",
+    "CPS 102/Assignment 2.md",
+    "CPS 102/Assignment 1.md",
+    "CPS 204/CPS 204.md",
+    "CPS 202/Assignment 1 CPS 202.md",
+    "CPS 202/Instructions.md",
+    "CPS 202/images/Pasted image 20230407171653.png",
+    "CPS 202/images/Pasted image 20230407171544.png",
+    "CPS 202/images/Pasted image 20230407171153.png",
+    "CPS 202/images",
     "CPS 204/CPS 204 Documents/chapter 2.pdf",
     "CPS 204/CPS 204 Documents/Quick Overview.pdf",
     "CPS 204/CPS 204 Documents/Past Question Mid-Term.pdf",
     "CPS 204/CPS 204 Documents/chapter 5.pdf",
     "CPS 204/CPS 204 Documents/chapter 4.pdf",
     "CPS 204/CPS 204 Documents/chapter 3.pdf",
-    "CPS 204/CPS 204.md",
     "CPS 204/Logic.md",
     "CPS 106/Assignment 2 CPS 106.md",
     "CPS 106/Unit 1 - 4.md",
@@ -167,28 +182,15 @@
     "CPS 202/Process of Program Compilation.canvas",
     "CPS 202/Introduction to C.md",
     "CPS 202/Header Files.md",
-    "CPS 202/Assignment 1 CPS 202.md",
     "CPS 206/Operating System I.md",
     "CPS 206/Assignment 1 CPS 206.md",
     "CPS 206/Assignment 2.md",
     "CPS 206/CPS206 Document/cps 206 - operating-systems-deitel-3rd-edition1pdf.pdf",
-    "CPS 206/CPS206 Document/Unconfirmed 194468.crdownload",
-    "CPS 206/CPS206 Document/cps206.pdf",
-    "CPS 206/CPS206 Document",
     "CPS 208/CPS 208.md",
-    "CPS 102/Class 2.md",
-    "CPS 208/Computer Performance.canvas",
     "Images/Pasted.png",
-    "CPS 208/Assignment 1.md",
-    "Images",
     "CPS 202/Learning C/Area of Circle in C.md",
     "CPS 202/Learning C/While Loop in C.md",
     "JavaScript/Spread and Rest Operators.md",
-    "CPS 102/Assignment 1.md",
-    "CPS 102/Class 1.md",
-    "CPS 102/CPS 102.md",
-    "JavaScript/Untitled.md",
-    "JavaScript/For Loops on Object.md",
     "STA210/Learning R/Untitled.canvas",
     "STA210/Learning R/Pasted image 20230227113911.png",
     "STA210/Learning R/Pasted image 20230228150443.png",
@@ -197,8 +199,6 @@
     "CPS 202/Learning C/Pasted image 20230309113214.png",
     "CPS 202/Learning C/C.canvas",
     "Arduino/Display.canvas",
-    "Arduino/Pasted image 20230224201212.png",
-    "Arduino/Pasted image 20230224201350.png",
-    "Arduino/Pasted image 20230224201539.png"
+    "Arduino/Pasted image 20230224201212.png"
   ]
 }
