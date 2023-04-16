@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "953485a4deb40b69",
+        "id": "8428ca6732a3c4a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e316cff55c9e8071",
+            "id": "9682a34057c4cadd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 102/Assignment 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfb7864e209afea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 102/Assignment 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 102/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 102/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 208/CPS 208.md"
+                "file": "CPS 102/Assignment 3.md"
               }
             }
           }
@@ -148,49 +161,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e316cff55c9e8071",
+  "active": "cfb7864e209afea1",
   "lastOpenFiles": [
+    "CPS 102/Assignment 2.md",
+    "CPS 102/Assignment 3.md",
+    "CPS 102/Assignment 1.md",
+    "CPS 106/Assignment 3.md",
+    "CPS 106/CPS 106.md",
+    "CPS 106/Unit 1 - 4.md",
+    "CPS 106/CPS 106 Documents/Unit 3.pdf",
+    "CPS 106/CPS 106 Documents/Unit 4.pdf",
+    "CPS 106/CPS 106 Documents/cps106.pdf",
+    "CPS 204/CPS 204 Documents/UNIT7INTRODUCTION TO BASIC SQL.pdf",
+    "CPS 204/CPS 204 Documents/Unconfirmed 310447.crdownload",
+    "CPS 106/CPS 106 Documents/Unit 2.pdf",
+    "CPS 204/CPS 204 Documents/Assignment Two.pdf",
+    "CPS 204/Propositions.md",
+    "CPS 204/CPS 204 Documents/Unconfirmed 809465.crdownload",
+    "CPS 204/CPS 204 Documents/Assignment 1.pdf",
+    "CPS 204/CPS 204 Documents/Unconfirmed 559236.crdownload",
+    "CPS 202/Untitled.md",
+    "CPS 202/Assignment 1 CPS 202.md",
+    "CPS 208/CPS 208.md",
+    "CPS 208/Untitled.md",
+    "CPS 204/Tautology.md",
+    "CPS 206/Operating System I.md",
+    "CPS 206/Untitled.md",
+    "CPS 102/Class 3.md",
+    "CPS 102/Class 1.md",
+    "CPS 102/Class 2.md",
+    "Images/Pasted.png",
+    "CPS 102/CPS 102.md",
+    "CPS 106/images/Pasted image 20230411074222.png",
+    "CPS 106/Assignment 2 CPS 106.md",
+    "JavaScript/For Loops on Object.md",
+    "JavaScript/DOM Manipulation.md",
     "CPS 208/Assignment 1.md",
     "CPS 208/Computer Performance.canvas",
-    "CPS 102/Class 2.md",
-    "CPS 102/CPS102 Documents/Chapter 2.pdf",
-    "CPS 102/CPS102 Documents/Chapter 1.pdf",
-    "CPS 102/Class 1.md",
-    "CPS 102/CPS 102.md",
-    "CPS 102/Assignment 2.md",
-    "CPS 102/Assignment 1.md",
-    "CPS 204/CPS 204.md",
-    "CPS 202/Assignment 1 CPS 202.md",
     "CPS 202/Instructions.md",
     "CPS 202/images/Pasted image 20230407171653.png",
     "CPS 202/images/Pasted image 20230407171544.png",
     "CPS 202/images/Pasted image 20230407171153.png",
-    "CPS 202/images",
-    "CPS 204/CPS 204 Documents/chapter 2.pdf",
-    "CPS 204/CPS 204 Documents/Quick Overview.pdf",
-    "CPS 204/CPS 204 Documents/Past Question Mid-Term.pdf",
-    "CPS 204/CPS 204 Documents/chapter 5.pdf",
-    "CPS 204/CPS 204 Documents/chapter 4.pdf",
-    "CPS 204/CPS 204 Documents/chapter 3.pdf",
     "CPS 204/Logic.md",
-    "CPS 106/Assignment 2 CPS 106.md",
-    "CPS 106/Unit 1 - 4.md",
-    "CPS 106/CPS 106.md",
     "CPS 106/Module 1.md",
     "CPS 106/Assignment 1 CPS 106.md",
-    "CPS 108/CPS 108.md",
     "CPS 202/Process of Program Compilation.canvas",
-    "CPS 202/Introduction to C.md",
-    "CPS 202/Header Files.md",
-    "CPS 206/Operating System I.md",
-    "CPS 206/Assignment 1 CPS 206.md",
-    "CPS 206/Assignment 2.md",
-    "CPS 206/CPS206 Document/cps 206 - operating-systems-deitel-3rd-edition1pdf.pdf",
-    "CPS 208/CPS 208.md",
-    "Images/Pasted.png",
-    "CPS 202/Learning C/Area of Circle in C.md",
-    "CPS 202/Learning C/While Loop in C.md",
-    "JavaScript/Spread and Rest Operators.md",
     "STA210/Learning R/Untitled.canvas",
     "STA210/Learning R/Pasted image 20230227113911.png",
     "STA210/Learning R/Pasted image 20230228150443.png",
@@ -198,7 +213,6 @@
     "STA210/Learning R/Pasted image 20230301193606.png",
     "CPS 202/Learning C/Pasted image 20230309113214.png",
     "CPS 202/Learning C/C.canvas",
-    "Arduino/Display.canvas",
-    "Arduino/Pasted image 20230224201212.png"
+    "Arduino/Display.canvas"
   ]
 }

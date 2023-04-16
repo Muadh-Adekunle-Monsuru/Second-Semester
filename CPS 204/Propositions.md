@@ -20,8 +20,8 @@ The foundations of logic mimic our intuitions by down
 
 Axiomatic concepts in mathematics:
 - Equals
-- Oppposite
-- Truth and Falseshood
+- Opposite
+- Truth and Falsehood
 - Statement
 - Objects
 - Collections
@@ -82,6 +82,8 @@ F | F | F
 The lecturer is in the class and the student are in the hostel.
 The lecturer is in the class but the student are in the hostel.
 
+Whereas can be used as a conjuction, also however, although. 
+
 ---
 
 ### Disjunction/OR
@@ -126,12 +128,15 @@ p -> q : If p then q. p implies q. If p, q. p only if q. p is sufficient for q.
 
 Some of the ways reverse the order of p and q but have the same connotation: q if p. q whenever p. q is necessary for p. 
 
-To aid in remembering these, I suggest inserting “is true” after every variable: EG: “p is true only if q is true”
+p: I eat breakfast
+q: I dont eat lunch
+
+p -> q = If I eat breakfast then  I dont eat lunch. | I eat breakfast ==only if== I dont eat lunch. | whenever I eat breakfast I dont eat lunch. | That I eat breakfast implies that I dont eat lunch   
 
 ---
 ### Bi-Conditional 
 
-For p <-> q to be true, p and q must have the same truth value. Else, p <-> q is false. 
+For p <-> q to be true, p and q must both have the same truth value. Else, p <-> q is false. 
 
 P | Q | P <-> Q
 -|-|-
@@ -140,7 +145,8 @@ T | F | F
 F | T | F
 F | F | T
 
-
+If and only if I eat breakfast then I dont eat lunch
+I eat break breakfast if and only if I dont eat lunch
 
  The truth value is the truth(T) or falsity (F) of a proposition.
  A truth table is a table that summarizes the truth value of a proposition. 

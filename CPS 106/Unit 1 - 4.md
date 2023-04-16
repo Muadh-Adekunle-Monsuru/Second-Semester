@@ -1,5 +1,7 @@
 ### Introduction to Data Processing
 
+**I am number 26**
+
 The singular of data is **datum**
 
 **Data refers to the basic facts about an object and it exists in a variety of forms**.
@@ -38,3 +40,34 @@ Basic operations of computer systems
 - Processing
 - Output
 - Storage
+- Communication
+
+![](images/Pasted%20image%2020230411074222.png)
+
+---
+[11/04/2023]
+
+### Basic Software
+Two categories of software
+- System Software: Software that a computer system needs to for it to function. It includes the Operating System. It is used to manage the resources of the system, memory, files, processor and device.  System software provides the interface in which the user uses to communicate with the hardware
+	- Operating System: Most important, it manages system resources, such as available memory space in the primary and secondary memory. It is a resource allocator and manager. 
+	- Utility Software
+	- Language Software
+	 
+- Application Software:  They leverage on the system software to work
+	- Proprietary: One which is purchased
+	- Custom-made: 
+
+
+---
+### Data Capturing
+
+They are also called input devices. All data captured are converted into bits.
+
+Soft data entry device: scanners, ocr, omr, micr
+	- OCR: Optical Character Recognition
+	- OMR: Optical Mark Recognition
+	- MICR: Magnetic Ink Character Recognition
+
+
+
