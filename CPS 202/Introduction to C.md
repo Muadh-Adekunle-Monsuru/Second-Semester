@@ -63,8 +63,130 @@ Features of C
 - Simplicity 
 
 Examples of C compilers:
-- Quincy
+- Q<mark style="background: #CACFD9A6;"><mark style="background: #ADCCFFA6;">uincy</mark></mark>
 - Bloodshed
 - CodeBlock
 - MINGW
 ![](Process%20of%20Program%20Compilation.canvas)
+
+---
+### Types of Input
+```C
+getchar(): input a single character
+putchar(): output a single character
+gets(): get a string of character
+fgets(): means file get string, input a series of characters
+puts(): print out a string of charcters
+scanf(): read any input
+
+printf(): used to print any types of variables
+
+types of variables it accpts:
+- integer
+- Floting
+- Characters
+- Double
+
+```
+
+```C
+//Use of getchar()
+int main () {
+   char c;
+   printf("Enter character: ");
+   c = getchar();
+   printf("Character entered: ");
+   putchar(c);
+```
+
+
+```C
+//Structure of fget
+fgets(char *str, int n, FILE *stream)
+str - It is the variable in which the string is going to be stored
+n - It is the maximum length of the string that should be read
+stream - It is the filehandle, from where the string is to be read.
+char str[20];
+  fgets(str, 20, stdin); // read from stdin
+  puts(str); // print read content out to stdout
+
+```
+
+```c
+//Structure of scanf
+
+int main(){
+int a,b,c;
+printf("input a value");
+scanf("%d %d %d"&a,&b,&c);
+
+prinf("The value for a is %d"a);
+prinf("The value for b is %d"b);
+prinf("The value for c is %d"c);
+
+}
+```
+
+
+```c
+#include <stdio.h>
+int main(){
+    char a[5];
+    printf("Input a value for a \n");
+    scanf("%s",a);
+    printf("Your input is %s",a);
+    return 0;   
+}
+```
+
+### Classwork
+```c
+//A program that accepts three integers and the sum of the intergers
+
+#include <stdio.h>
+int main(){
+	int sum, a, b,c;4 our
+	printf("Input your a b c \n");
+	scanf("%d %d %d",&a,&b,&c);
+
+	sum = a + b + c;
+
+	printf("The sum is %d ", sum);
+	return 0;
+}
+```
+
+Write a program which accepts matric number first name  and first semester score in 4 courses to find the average score of the student
+
+print and appropriate output for to your program
+
+```c
+#include <stdio.h>
+
+int main(){
+    char name[9];
+    char matric[9];
+    float score1, score2, score3, score4, average;
+
+    printf("Input your first name \n");
+    scanf("%s",name);
+    printf("Input your matric number \n");
+    scanf("%s",matric);
+
+    printf("What is your score for the first subject \n");
+    scanf("%f",&score1);
+    printf("What is your score for the second subject \n");
+    scanf("%f",&score2);
+    printf("What is your score for the third subject \n");
+    scanf("%f",&score3);
+    printf("What is your score for the fourth subject \n");
+    scanf("%f",&score4);
+
+    average =(score1+ score2 +score3 +score4)/4;
+
+    printf("The average is %5.3f",average);
+return 0;
+}
+
+
+```

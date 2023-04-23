@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"18efb242a943acc6","x":-260,"y":-100,"width":85,"height":60,"type":"text","text":"CPU"},
+		{"type":"text","text":"Memory","id":"7f87f0ed45db94db","x":-95,"y":-100,"width":85,"height":60},
+		{"id":"80066f4379f4371f","x":45,"y":-100,"width":120,"height":60,"type":"text","text":"I/O"},
+		{"id":"bbc9d33c68342a85","x":-260,"y":70,"width":425,"height":60,"type":"text","text":"BUS"}
+	],
+	"edges":[
+		{"id":"dc59f5ce30bee6f1","fromNode":"18efb242a943acc6","fromSide":"bottom","toNode":"bbc9d33c68342a85","toSide":"left","fromEnd":"arrow"},
+		{"id":"b372c636362f3b18","fromNode":"7f87f0ed45db94db","fromSide":"bottom","toNode":"bbc9d33c68342a85","toSide":"top","fromEnd":"arrow"},
+		{"id":"a8c682ee62d95286","fromNode":"80066f4379f4371f","fromSide":"bottom","toNode":"bbc9d33c68342a85","toSide":"right","fromEnd":"arrow"}
+	]
+}

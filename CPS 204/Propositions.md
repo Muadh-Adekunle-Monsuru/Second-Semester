@@ -27,7 +27,7 @@ Axiomatic concepts in mathematics:
 - Collections
 
 
-Types of propositions:
+### Types of propositions:
 - **Atomic Propositions;** It is made up of singe statements
 - **Compound Propositions**; It is made up of two or more atomic proposition using logical connectives or logical operators 
 
