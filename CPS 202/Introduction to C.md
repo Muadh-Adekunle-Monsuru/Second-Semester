@@ -67,7 +67,7 @@ Examples of C compilers:
 - Bloodshed
 - CodeBlock
 - MINGW
-![](Process%20of%20Program%20Compilation.canvas)
+![](images/Process%20of%20Program%20Compilation.canvas)
 
 ---
 ### Types of Input

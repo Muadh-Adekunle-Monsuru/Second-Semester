@@ -115,15 +115,14 @@ Application Programming Interface: API
 ---
 ### Process Concepts:
 
-1. Submit a job to be processed
-
-waiting/ready list/queue
-
 **Process**: When processors work on instruction, an entity which has its own address space, ==it is  generally know as a program in execution,== it can also be called and animate object. It is a dispatchable, it is an asynchronous activity.  
 	Stored in an address space consists of:
-		- Text: Where the code is
-		- Data: The data to be use
-		- Stack: Where the instruction 
+		- Text: The text region stores the code that the processor executes.
+		- Data: The data region stores variables and dynamically allocated memory that the process that the process use during execution 
+		- Stack: The stack region stores instructions and local variables for active procedure calls.
+		
+<mark style="background: #D2B3FFA6;">
+Second, a process is a "program in execution." A program is an inanimate entity; only when a processor "breathes life" into a program does it become the active entity we call a process. </mark>
 
 ### Process States
 - New state
@@ -131,27 +130,33 @@ waiting/ready list/queue
 - Running
 - Blocked
 - Terminated
+
+- A process is said to be running if it is executing on a processor.
+- A process is said to be ready if it could execute on a processor if one were available.
+- A process is said to be blocked if it is waiting for some event to happen before it can proceed. Event such as I/O Completion event. 
+- When a thread completes its instruction it enters the terminated state.
+
+
+
 ![](Process%20States%20&%20Transitions.canvas)
 ### Process Transition:
 The movement of a process from one state to another.
 1. **New to Ready:** A process is being admitted to the system.  
-2. **Ready to running:** A process is being dispatched due to the availability of processor
+2. **Ready to running:** A process is being **dispatched** due to the availability of processor
 3. **Running to Block:** A processed is being blocked waiting for an input output event to occur
 4. **Blocked to Ready:** Occur when the input/output or external event has occurred, also called wake up
 5. **Running to Ready**: When the time given to run has expired, also called the quantum time. 
-6. Running to Terminate: Also called exit. When the process has finished its execution.
+6. **Running to Terminate:** Also called exit. When the process has finished its execution.
 
 ### PCB:
-PCB: Process Control Block, it mains data about each process, those information include, 
-- **process counter:** Is a value that determines which instruction the process will execute next.
+The operating system identifies each process by assigning it a process identification number (PID). 
+PCB: Process Control Block, it maintains information about each process that the operating system needs to manage the process. , those information include, 
+- PID
+- **process/process counter:** Is a value that determines which instruction the process will execute next.
 - **Execution context:** These are the register content when the process was last running, it enables a process execution context to be restored, when the process is returned to running state.
-
-Other information maintained in the PCB:
+- Schedule priority
 - Process state
 - address space
-- priority
-- process parent
-- process children
- 
-
-Read more about PCB on page 175
+- pointer to the parent process (process that created the process) 
+- pointers to the child process (process created by this process)
+when a process transitions from one state to another, the operating 

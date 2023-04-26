@@ -39,7 +39,7 @@ example
  
 	(p ∧ q) -> r
  
-p -> (q->r) | (p ∧ q) -> r | P = Q
+p -> (q->r) | $(p ∧ q) -> r$ | P = Q
 ---- | ---- | ----
 	T | T  | T
 	F | F | T
@@ -54,14 +54,30 @@ p -> (q->r) | (p ∧ q) -> r | P = Q
 
  A proposition P is said to logically imply proposition Q if, whenever P is true Q is also true 
  Note the converse is not true
-  P ⊢ Q 
-	does not mean Q ⊢ P
+  $P ⊢ Q$ 
+	does not mean $Q ⊢ P$
  For logical implication Q is never false when P is true
 
-Given p -> q
-	- the converse is q -> p
-	- Inersere: ¬ p -> ¬ q
-	- Contrapositive: ¬ q -> ¬ p
+Given $p -> q$
+	- the converse is $q -> p$
+	- Inverse: $¬ p -> ¬ q$
+	- Contrapositive: $¬ q -> ¬ p$
 
 
 ---
+**Given**
+If I dream then I don't drive
+p -> q
+
+**Converse**:
+If I don't drive then I dream
+$q -> p$
+
+**Inverse:**
+If I don't dream I drive
+$¬ p -> ¬ q$
+
+**Contrapositive:**
+If I drive then I don't dream
+$¬ q -> ¬ p$
+

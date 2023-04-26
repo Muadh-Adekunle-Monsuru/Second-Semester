@@ -20,14 +20,14 @@
 5. Paper Storage
 
 **Examples of Magnetic Storage Device**
-1. Floppy Disk (diskette): This is a data storage medium that is composed of a disk of thin, flexible magnetic storage medium. It is read by a floppy drive and is mostly seen in desktop
+1. Floppy Disk (diskette): This is a data storage medium that is composed of a disk of thin, flexible magnetic storage medium. It is read by a floppy disk drive FDD and is mostly seen in desktop. It combine magnetic and optical technologies.
 2. Hard disk drive (HDD): Commonly reffered to as hard drive. It is a permanent storage device for large amount of data. 
-		Hard-disk drive and hard disk are not the same thing. The hard disk is a set of stacked disks each of which can record data electromagnetically in concentric circles or tracks on the disk
+		Hard-disk drive and hard disk are not the same thing. The hard drive is a set of stacked 'hard disks' each of which can record data electromagnetically in concentric circles or tracks on the disk
 3. Removable hard disk: Variation of hard disk that is easily removable. They provide large economical, fast and portable storage facility.
-		 Two types of hard disksL
+		 Two types of hard disks
 							1. Internal HHDs
 							2. External/Removable HHD
-4. Magnetic Tape: Data is stored on flexible nylon tape covered with magnetic oxide. Dataa on tapes are acessed sequencially. Cheaper and larger capacity disks caused the discline of magnetic tape
+4. Magnetic Tape: Data is stored on flexible Mylar tape covered with magnetic oxide. Data on tapes are accessed sequentially. Cheaper and larger capacity disks caused the decline of magnetic tape
 5. Floptical: Combination of floppy and optical
 
 Factors to consider:
@@ -51,6 +51,7 @@ Optical media are more durable than tape and less vulnerable to environmental co
 However, presently optical media are slower than typical hard drive speeds, and offer lower storage capacities. 
 Digital Versatile Disk (DVD).
 
-Flash Storage Devices: A USB flash drive It is a NAND type flash memory data storaage device integrated with a USB (Universal Serial Bus) connector. They have 10 years of data retention. They are compact, faster, hold more data and more reliable for the lack of moving parts and more durable design. 
+Flash Storage Devices: A USB flash drive It is a NAND type flash memory data storage device integrated with a USB (Universal Serial Bus) connector. They have 10 years of data retention. They are compact, faster, hold more data and more reliable for the lack of moving parts and more durable design. 
+
 NAND flash memory is a type of non-volatile storage technology that do not require power to retain data.
 

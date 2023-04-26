@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dd230c0c45b9916b",
+        "id": "283ccb8b9796d495",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e594034f2187ed",
+            "id": "92f40043168ca00c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNS 206/Indigene Settlers in Nigeria.md",
+                "file": "CPS 208/CPS 208.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -33,16 +34,6 @@
         "id": "ea935a5fd4238867",
         "type": "tabs",
         "children": [
-          {
-            "id": "65a4f2e519be34e5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "b16bc42f1b142025",
             "type": "leaf",
@@ -65,12 +56,24 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "feddc9c6504da124",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "9431c1a2ecf4186d",
@@ -81,29 +84,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e791168f7a01492",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "GNS 206/Indigene Settlers in Nigeria.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "5d55c233be2b33e1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNS 206/Indigene Settlers in Nigeria.md",
+                "file": "CPS 208/CPS 208.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +112,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNS 206/Indigene Settlers in Nigeria.md"
+                "file": "CPS 208/CPS 208.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,54 +129,57 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e594034f2187ed",
+  "active": "92f40043168ca00c",
   "lastOpenFiles": [
-    "GNS 206/Historical Evolution of Nigeria.md",
-    "CPS 208/CPS 208.md",
+    "GNS 104/A HISTORY OF SCIENCE-1.pdf",
+    "GNS 104/Unconfirmed 431629.crdownload",
+    "GNS 104/GST 105 HISTORY AND PHILOSOPHY OF SCIENCE.pdf",
+    "GNS 104/Unconfirmed 119619.crdownload",
+    "GNS 104/Richard DeWitt - Worldviews_ An Introduction to the History and Philosophy of Science-Wiley-Blackwell (2010).pdf",
+    "GNS 104/Unconfirmed 626789.crdownload",
+    "GNS 104/Assignment for Philo2.pdf",
+    "GNS 104/Unconfirmed 104124.crdownload",
+    "GNS 104",
+    "New folder",
     "CPS 206/Operating System I.md",
     "CPS 206/Assignment 3.md",
     "CPS 204/Tautology.md",
-    "CPS 204/Untitled 1.md",
-    "CPS 204/Untitled.md",
     "CPS 204/Propositions.md",
+    "CPS 202/Untitled.md",
+    "CPS 202/Setting Up Compiler Instructions.md",
+    "CPS 202/Introduction to C.md",
+    "CPS 202/Header Files.md",
+    "CPS 202/images/Process of Program Compilation.canvas",
+    "CPS 202/Assignment 1 CPS 202.md",
     "CPS 108/CPS 108.md",
     "CPS 106/Module 2.md",
+    "CPS 106/CPS 106 Documents/cps106.pdf",
     "CPS 106/CPS 106.md",
-    "CPS 106/Assignment 4.md",
+    "CPS 106/assignments/Assignment 4.md",
+    "CPS 206/images/Pasted image 20230426115102.png",
+    "CPS 206/images/Pasted image 20230426111356.png",
+    "CPS 206/Process States & Transitions.canvas",
+    "CPS 206/images/Pasted image 20230426101753.png",
+    "CPS 206/assignments/Assignment 2.md",
+    "GNS 206/Indigene Settlers in Nigeria.md",
+    "GNS 206/Historical Evolution of Nigeria.md",
+    "CPS 208/CPS 208.md",
+    "CPS 204/Untitled 1.md",
+    "CPS 204/Untitled.md",
     "CPS 102/CPS 102.md",
     "CPS 102/Class 3.md",
-    "CPS 106/CPS 106 Documents/cps106.pdf",
-    "CPS 106/CPS 106 Documents/Unit 4.pdf",
     "CPS 106/Unit 1 - 4.md",
     "CPS 106/assignments/Assignment 3.md",
-    "CPS 106/assignments",
     "GNS 206/GNS 206.md",
-    "GNS 206/Indigene Settlers in Nigeria.md",
     "CPS 208/BuildingBlock.canvas",
     "CPS 208/Untitled.md",
     "CPS 208/Computer Performance.canvas",
-    "GNS 206/Docs/Indigene Settlers in Nigeria.pdf",
-    "GNS 206/Docs",
-    "GNS 206/New folder",
-    "CPS 102/CPS102 Documents/Section2.pdf",
-    "CPS 102/Class 2.md",
-    "GNS 206",
-    "CPS 204/CPS 204 Documents/1819_204Q.docx",
-    "CPS 204/CPS 204 Documents/Unconfirmed 862952.crdownload",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "CPS 108/Untitled 1.md",
-    "CPS 108/Untitled.md",
-    "CPS 202/Introduction to C.md",
-    "CPS 208/Assignment 1.md",
-    "CPS 202/Process of Program Compilation.canvas",
-    "CPS 206/Process States & Transitions.canvas",
-    "CPS 206/Assignment 2.md",
     "Images/Pasted.png",
     "CPS 106/images/Pasted image 20230411074222.png",
     "CPS 202/images/Pasted image 20230407171653.png",
@@ -199,9 +188,6 @@
     "STA210/Learning R/Untitled.canvas",
     "STA210/Learning R/Pasted image 20230227113911.png",
     "STA210/Learning R/Pasted image 20230228150443.png",
-    "STA210/Learning R/Pasted image 20230301193545.png",
-    "STA210/Learning R/Pasted image 20230301193606.png",
-    "CPS 202/Learning C/Pasted image 20230309113214.png",
     "CPS 202/Learning C/C.canvas",
     "Arduino/Display.canvas"
   ]
