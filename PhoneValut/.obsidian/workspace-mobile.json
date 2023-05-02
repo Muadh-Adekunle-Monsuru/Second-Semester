@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "9ab4b1fd4cc7ef5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f313e69376822dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a217d96fb5e5b020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "329fbfb2d1e87f40",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0d35b527d692fad2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "93c4c656830e42c6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "69f44f8e316371be",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "72c544d8e52e10b6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "61bf67b0c761c55a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "41c4543746b26280",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "API.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d58b0703bf7d3d72",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "API.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b3eb14cbe549cf8f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "API.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a217d96fb5e5b020",
+  "lastOpenFiles": [
+    "Instructions.md",
+    "GNS 103.md",
+    "Dsp.md",
+    "Resume.md",
+    "Formulas.md",
+    "203.md",
+    "Quickly.md",
+    "Math Topics.md",
+    "Jobberman.md",
+    "205.md"
+  ]
+}

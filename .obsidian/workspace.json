@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "283ccb8b9796d495",
+        "id": "52e3c9b59063d888",
         "type": "tabs",
         "children": [
           {
-            "id": "92f40043168ca00c",
+            "id": "b6717929794bde59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 204/Tautology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
+      },
+      {
+        "id": "9b7f30e96542ba98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f83e3a2986c3cee",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 204/CPS 204 Documents/CPS 204 - Logical Proposition .pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
+    "width": 219.5,
     "collapsed": true
   },
   "right": {
@@ -89,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 204/Tautology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 208/CPS 208.md"
+                "file": "CPS 204/Tautology.md"
               }
             }
           }
@@ -133,22 +148,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92f40043168ca00c",
+  "active": "b6717929794bde59",
   "lastOpenFiles": [
-    "GNS 104/A HISTORY OF SCIENCE-1.pdf",
-    "GNS 104/Unconfirmed 431629.crdownload",
-    "GNS 104/GST 105 HISTORY AND PHILOSOPHY OF SCIENCE.pdf",
-    "GNS 104/Unconfirmed 119619.crdownload",
-    "GNS 104/Richard DeWitt - Worldviews_ An Introduction to the History and Philosophy of Science-Wiley-Blackwell (2010).pdf",
-    "GNS 104/Unconfirmed 626789.crdownload",
-    "GNS 104/Assignment for Philo2.pdf",
-    "GNS 104/Unconfirmed 104124.crdownload",
-    "GNS 104",
-    "New folder",
-    "CPS 206/Operating System I.md",
-    "CPS 206/Assignment 3.md",
+    "CPS 204/CPS 204 Documents/CPS 204 - Logical Proposition .pdf",
     "CPS 204/Tautology.md",
+    "CPS 204/CPS 204 Documents/chapter 3.pdf",
+    "CPS 204/CPS 204 Documents/chapter 2.pdf",
+    "GNS 104/GNS 104 Assignment.md",
+    "GNS 104/Assignment for Philo2.pdf",
+    "STA210/sta 202 - Random variable.pdf",
+    "STA210/STA210.md",
+    "GNS 102/Untitled.md",
+    "GNS 102/GNS 102 latest-1.pdf",
+    "GNS 102/GNS 104 Assignment.pdf",
+    "GNS 104/Philosophy Assignment.md",
+    "GNS 102/GNS 102 Assignment 1.md",
+    "GNS 102/GNS 102 Assignment 1.pdf",
+    "GNS 102/Assignment 102.pdf",
+    "GNS 104/GST 105 HISTORY AND PHILOSOPHY OF SCIENCE.pdf",
+    "CPS 206/Operating System I.md",
     "CPS 204/Propositions.md",
+    "CPS 206/Assignment 3.md",
+    "CPS 208/CPS 208.md",
+    "CPS 102/Assignment 2.md",
+    "CPS 102/Assignment 1.md",
+    "Arduino/Display.canvas",
+    "Arduino/Pasted image 20230224201212.png",
+    "JavaScript/Functions.md",
+    "GNS 206/Indigene Settlers in Nigeria.md",
+    "GNS 206/Historical Evolution of Nigeria.md",
     "CPS 202/Untitled.md",
     "CPS 202/Setting Up Compiler Instructions.md",
     "CPS 202/Introduction to C.md",
@@ -157,7 +185,6 @@
     "CPS 202/Assignment 1 CPS 202.md",
     "CPS 108/CPS 108.md",
     "CPS 106/Module 2.md",
-    "CPS 106/CPS 106 Documents/cps106.pdf",
     "CPS 106/CPS 106.md",
     "CPS 106/assignments/Assignment 4.md",
     "CPS 206/images/Pasted image 20230426115102.png",
@@ -165,18 +192,7 @@
     "CPS 206/Process States & Transitions.canvas",
     "CPS 206/images/Pasted image 20230426101753.png",
     "CPS 206/assignments/Assignment 2.md",
-    "GNS 206/Indigene Settlers in Nigeria.md",
-    "GNS 206/Historical Evolution of Nigeria.md",
-    "CPS 208/CPS 208.md",
-    "CPS 204/Untitled 1.md",
-    "CPS 204/Untitled.md",
-    "CPS 102/CPS 102.md",
-    "CPS 102/Class 3.md",
-    "CPS 106/Unit 1 - 4.md",
-    "CPS 106/assignments/Assignment 3.md",
-    "GNS 206/GNS 206.md",
     "CPS 208/BuildingBlock.canvas",
-    "CPS 208/Untitled.md",
     "CPS 208/Computer Performance.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -187,8 +203,6 @@
     "CPS 202/images/Pasted image 20230407171153.png",
     "STA210/Learning R/Untitled.canvas",
     "STA210/Learning R/Pasted image 20230227113911.png",
-    "STA210/Learning R/Pasted image 20230228150443.png",
-    "CPS 202/Learning C/C.canvas",
-    "Arduino/Display.canvas"
+    "CPS 202/Learning C/C.canvas"
   ]
 }

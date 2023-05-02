@@ -67,11 +67,11 @@ Given $p -> q$
 ---
 **Given**
 If I dream then I don't drive
-p -> q
+$p -> q$
 
 **Converse**:
 If I don't drive then I dream
-$q -> p$
+$q  -> p$
 
 **Inverse:**
 If I don't dream I drive
@@ -81,3 +81,28 @@ $¬ p -> ¬ q$
 If I drive then I don't dream
 $¬ q -> ¬ p$
 
+---
+[2/5/2023]
+### Algebraic Laws:
+Domination laws: $p ∨ T ≡ T, p ∧ F ≡ F$ 
+Identity laws: $p ∧ T ≡ p, p ∨ F ≡ p$ 
+Idempotent laws: $p ∧ p ≡ p, p ∨ p ≡ p$ 
+Double negation law: $¬(¬p) ≡ p$ 
+Negation laws: $p ∨ ¬p ≡ T, p ∧ ¬p ≡ F$ 
+Commutative laws: $p ∧ q ≡ q ∧ p, p ∨ q ≡ q ∨ p$  Associative laws: $(p ∧ q) ∧ r ≡ p ∧ (q ∧ r)$ 
+									$(p ∨ q) ∨ r ≡ p ∨ (q ∨ r)$
+Distributive laws: $p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (p ∨ r)$
+$p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (p ∧ r)$ 
+Absorption laws: $p ∨ (p ∧ q) ≡ p, p ∧ (p ∨ q) ≡ p$ 
+
+Transposition  Law: p ->q ≡¬q -> ¬p
+
+Material equivalence law: p <-> q ≡ (p->q) ∧ (q->p)
+
+##### Duality Principle
+If two propositions are equivalent then their duals are equivalent:
+the dual proposition **or** with **and**
+and true with false,  can be **replaced** and vice versa
+
+---
+## Arguments:

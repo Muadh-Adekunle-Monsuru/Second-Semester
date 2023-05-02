@@ -50,14 +50,13 @@ Negation | ¬ | not
 Conjunction | ∧ | and  
 Disjunction | V | or 
 Exclusive OR | ⊕  | xor 
-Conditional | -> | if then 
-Biconditional | <-> | If and only if iff 
+Conditional | -> →| if then 
+Biconditional | <-> ↔| If and only if iff 
 
 #### Negation
 All students are intelligent, it is an atomic proposition since there is no connectives. 
 Its negation is ==Not all students are intelligent. ==
-
-P |  ¬P
+ P |  ¬P
 -|-
 T | F
 F | T
