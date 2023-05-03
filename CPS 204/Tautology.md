@@ -106,3 +106,37 @@ and true with false,  can be **replaced** and vice versa
 
 ---
 ## Arguments:
+An argument in logic are propositions which consists of premises and conclusion 
+
+An argument consists of a set of propositions called premises together with another proposition purported to follow from the premises called the conclusion. 
+
+In logic, an argument is valid if the conjunction of the premises logically implies the conclusion otherwise the argument is invalid 
+
+(p1  ∧ p2  ∧ p3....pn) |- Q 
+(p1  ∧ p2  ∧ p3...pn) -> Q is a tautology 
+
+This means that whenever p1 ,p2,p3 ... pn are all true then Q must be true
+
+
+E.gl
+If you are computer scientist then you are clever.
+You are clever and rich.
+Therefore if you are rich then you are a computer scientist.
+
+p = you are a computer scientist
+q = you are clever
+r = you are rich
+
+P1: p -> q
+P2: q∧r 
+Q: r -> p
+
+If you find the cps204 exam difficult then you have not being coming to class or you havent done you assignment.
+ You have done your assignment and you have been coming to class there for you wont find the cps204 examination difficult. 
+
+p = you find the exam difficult
+q = not being coming to class
+r = havent done your assignment
+
+P1: p -> q V r
+P2: notr and 

@@ -13,26 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 204/Tautology.md",
+                "file": "CPS 208/CPS 208.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9b7f30e96542ba98",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5f83e3a2986c3cee",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CPS 204/CPS 204 Documents/CPS 204 - Logical Proposition .pdf"
               }
             }
           }
@@ -104,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 204/Tautology.md",
+                "file": "CPS 208/CPS 208.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 204/Tautology.md"
+                "file": "CPS 208/CPS 208.md"
               }
             }
           }
@@ -150,8 +134,13 @@
   },
   "active": "b6717929794bde59",
   "lastOpenFiles": [
-    "CPS 204/CPS 204 Documents/CPS 204 - Logical Proposition .pdf",
+    "CPS 208/Canvas",
+    "CPS 102/Class 4.md",
+    "CPS 102/images/Pasted image 20230502130049.png",
+    "CPS 102/images",
+    "CPS 102/CPS102 Documents/Section2.pdf",
     "CPS 204/Tautology.md",
+    "CPS 204/CPS 204 Documents/CPS 204 - Logical Proposition .pdf",
     "CPS 204/CPS 204 Documents/chapter 3.pdf",
     "CPS 204/CPS 204 Documents/chapter 2.pdf",
     "GNS 104/GNS 104 Assignment.md",
@@ -164,8 +153,6 @@
     "GNS 104/Philosophy Assignment.md",
     "GNS 102/GNS 102 Assignment 1.md",
     "GNS 102/GNS 102 Assignment 1.pdf",
-    "GNS 102/Assignment 102.pdf",
-    "GNS 104/GST 105 HISTORY AND PHILOSOPHY OF SCIENCE.pdf",
     "CPS 206/Operating System I.md",
     "CPS 204/Propositions.md",
     "CPS 206/Assignment 3.md",
@@ -191,9 +178,8 @@
     "CPS 206/images/Pasted image 20230426111356.png",
     "CPS 206/Process States & Transitions.canvas",
     "CPS 206/images/Pasted image 20230426101753.png",
-    "CPS 206/assignments/Assignment 2.md",
-    "CPS 208/BuildingBlock.canvas",
-    "CPS 208/Computer Performance.canvas",
+    "CPS 208/Canvas/BuildingBlock.canvas",
+    "CPS 208/Canvas/Computer Performance.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Images/Pasted.png",
@@ -202,7 +188,6 @@
     "CPS 202/images/Pasted image 20230407171544.png",
     "CPS 202/images/Pasted image 20230407171153.png",
     "STA210/Learning R/Untitled.canvas",
-    "STA210/Learning R/Pasted image 20230227113911.png",
     "CPS 202/Learning C/C.canvas"
   ]
 }
