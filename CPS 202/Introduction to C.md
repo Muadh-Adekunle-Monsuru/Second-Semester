@@ -113,6 +113,18 @@ char str[20];
 ```
 
 ```c
+Use puts to output a string with space
+
+char text[50] = "Hello There"; //Double quotes
+puts(text); //output: Hello There
+
+```
+
+
+
+
+
+```c
 //Structure of scanf
 
 int main(){
@@ -190,3 +202,49 @@ return 0;
 
 
 ```
+
+---
+[3/5/2023]
+## Control Structure
+
+1. Simple if statement
+```C
+if(condition){
+	[code block]
+}
+```
+2. If else statement
+```c
+if(condition){
+	[code block]
+}	
+else{
+
+}
+```
+3. Nested If-else 
+	```C 
+	if(condition){
+	[code block]
+}	
+else if(condition2){
+	[code block]
+}else if(condition2){
+	[code block]
+}else if(condition2){
+	[code block]
+}
+else{
+
+}
+```
+
+
+```c
+#include <stdio.h>
+int main(){
+
+}
+```
+---
+Classwork 1

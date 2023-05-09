@@ -4,16 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "52e3c9b59063d888",
+        "id": "bea3cc637cd5063d",
         "type": "tabs",
         "children": [
           {
-            "id": "b6717929794bde59",
+            "id": "725faa2308f13ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 108/Introduction to Computer Networking.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5e82c763fe2166d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5fcf36ff65c668fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d86c484c12a49302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 108/CPS108 Assignment 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "indig",
+                "query": "maintaince",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +92,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4d92d30f71815f02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -88,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "CPS 108/Introduction to Computer Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 208/CPS 208.md"
+                "file": "CPS 108/Introduction to Computer Networking.md"
               }
             }
           }
@@ -132,61 +167,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6717929794bde59",
+  "active": "725faa2308f13ab6",
   "lastOpenFiles": [
-    "CPS 208/Canvas",
-    "CPS 102/Class 4.md",
-    "CPS 102/images/Pasted image 20230502130049.png",
-    "CPS 102/images",
-    "CPS 102/CPS102 Documents/Section2.pdf",
-    "CPS 204/Tautology.md",
-    "CPS 204/CPS 204 Documents/CPS 204 - Logical Proposition .pdf",
-    "CPS 204/CPS 204 Documents/chapter 3.pdf",
-    "CPS 204/CPS 204 Documents/chapter 2.pdf",
-    "GNS 104/GNS 104 Assignment.md",
-    "GNS 104/Assignment for Philo2.pdf",
-    "STA210/sta 202 - Random variable.pdf",
-    "STA210/STA210.md",
-    "GNS 102/Untitled.md",
-    "GNS 102/GNS 102 latest-1.pdf",
-    "GNS 102/GNS 104 Assignment.pdf",
-    "GNS 104/Philosophy Assignment.md",
-    "GNS 102/GNS 102 Assignment 1.md",
-    "GNS 102/GNS 102 Assignment 1.pdf",
-    "CPS 206/Operating System I.md",
-    "CPS 204/Propositions.md",
-    "CPS 206/Assignment 3.md",
-    "CPS 208/CPS 208.md",
-    "CPS 102/Assignment 2.md",
-    "CPS 102/Assignment 1.md",
-    "Arduino/Display.canvas",
-    "Arduino/Pasted image 20230224201212.png",
-    "JavaScript/Functions.md",
-    "GNS 206/Indigene Settlers in Nigeria.md",
-    "GNS 206/Historical Evolution of Nigeria.md",
-    "CPS 202/Untitled.md",
-    "CPS 202/Setting Up Compiler Instructions.md",
-    "CPS 202/Introduction to C.md",
-    "CPS 202/Header Files.md",
-    "CPS 202/images/Process of Program Compilation.canvas",
-    "CPS 202/Assignment 1 CPS 202.md",
+    "CPS 108/Introduction to Computer Networking.md",
+    "CPS 108/CPS108 Assignment 1.md",
+    "CPS 108/Documents/network assignment Ass 1.pdf",
+    "CPS 108/Documents/1 Computer-Networks--Introduction_Computer_Networking.pdf",
+    "CPS 108/Documents/2 CPS_108.pdf",
+    "CPS 204/CPS 204 Documents/CPS204Assignment3.pdf",
     "CPS 108/CPS 108.md",
+    "CPS 108/Network Topology.md",
+    "CPS 202/Classwork 5.md",
+    "CPS 202/Loops in C.md",
+    "CPS 202/Classwork 4.md",
+    "CPS 202/increments.md",
+    "CPS 206/Assignement 3.md",
+    "CPS 202/Learning C/For Loop in C.md",
+    "CPS 206/Operating System I.md",
+    "CPS 206/Untitled.md",
+    "CPS 206/Untitled 1.md",
+    "CPS 206/Assignment 3.md",
+    "CPS 106/File Organization.md",
+    "CPS 106/Unit 1 - 4.md",
     "CPS 106/Module 2.md",
     "CPS 106/CPS 106.md",
-    "CPS 106/assignments/Assignment 4.md",
-    "CPS 206/images/Pasted image 20230426115102.png",
-    "CPS 206/images/Pasted image 20230426111356.png",
+    "CPS 108/images/Pasted image 20230508042009.png",
+    "CPS 108/images/Pasted image 20230508041703.png",
+    "CPS 108/images",
+    "GNS 104/Richard DeWitt - Worldviews_ An Introduction to the History and Philosophy of Science-Wiley-Blackwell (2010).pdf",
+    "GNS 104/IslamicEra-1.pdf",
+    "GNS 104/GST 105 HISTORY AND PHILOSOPHY OF SCIENCE.pdf",
+    "GNS 104/GNS 104 Assignment.pdf",
+    "GNS 104/Assignment for Philo2.pdf",
+    "CPS 202/Assignment 2.md",
+    "CPS 204/Predicate Logic.md",
+    "CPS 204/Tautology.md",
+    "Arduino/Pasted image 20230224201539.png",
+    "Arduino/Pasted image 20230224201350.png",
+    "Arduino/Pasted image 20230224201212.png",
+    "Arduino/Display.canvas",
+    "CPS 102/Arduino/Pasted image 20230224201539.png",
+    "CPS 102/Arduino/Pasted image 20230224201350.png",
+    "CPS 102/Arduino/Pasted image 20230224201212.png",
+    "CPS 102/Arduino/Display.canvas",
+    "CPS 204/Propositions.md",
+    "CPS 208/Assignment 1.md",
+    "CPS 202/Classwork 1.md",
+    "CPS 202/Introduction to C.md",
+    "CPS 202/Assignment 1 CPS 202.md",
+    "CPS 208/images/Pasted image 20230506081554.png",
+    "CPS 208/images/Pasted image 20230506081517.png",
+    "CPS 202/images/Process of Program Compilation.canvas",
     "CPS 206/Process States & Transitions.canvas",
-    "CPS 206/images/Pasted image 20230426101753.png",
     "CPS 208/Canvas/BuildingBlock.canvas",
     "CPS 208/Canvas/Computer Performance.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Images/Pasted.png",
-    "CPS 106/images/Pasted image 20230411074222.png",
-    "CPS 202/images/Pasted image 20230407171653.png",
-    "CPS 202/images/Pasted image 20230407171544.png",
-    "CPS 202/images/Pasted image 20230407171153.png",
     "STA210/Learning R/Untitled.canvas",
     "CPS 202/Learning C/C.canvas"
   ]

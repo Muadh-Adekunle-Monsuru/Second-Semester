@@ -1,3 +1,0 @@
-- Discipline
-- Learning Agility
-- Self awareness 

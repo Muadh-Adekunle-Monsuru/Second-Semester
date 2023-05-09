@@ -160,3 +160,41 @@ PCB: Process Control Block, it maintains information about each process that the
 - pointer to the parent process (process that created the process) 
 - pointers to the child process (process created by this process)
 when a process transitions from one state to another, the operating 
+
+---
+## Context Switching
+The operating system performs a context switch to stop executing a running process and begin executing a previously ready process. To perform a context switch, the kernel must first save the execution context of the running process to its PCB. then load the ready process's previous execution context from its PCB.
+It happens when a previously blocked process receives an input/output event it becomes ready to be process.
+
+Interrupts halts the execution of a running process to respond to a signal.
+Interrupt is a hardware or software signal that tells the CPU that the device and process and attend to the particular attention
+
+Interrupts  enable software to respond to signals from hardware. The operating system specify a set of instructions, called an interrupt handler, to be executed in response to each type of interrupt. 
+	Types of interrupt:
+	- Synchronous: occurs when a process attempts to perform an illegal actions, such as dividing by zero or referencing a protected memory location.
+	- Asynchronous: Hardware devices issue asynchronous interrupts to communicate a status change to the processor. For example, the keyboard generates an interrupt when a user presses a key;
+ 
+Steps of interrupt handling
+1. Stops execution of running process
+2. Performs context switching
+3. Transfers the control to the interrupt handling to the interrupt handler
+4. Processes the signal to determine what to do
+5. The interrupt handler may then restore the state of the previously executing process (P1) or call the operating system processor scheduler to determine the "next" process to run. In this case, the handler calls the process scheduler, which decides that process P2, the highest-priority waiting process, should obtain the processor 
+6. The context for process P2 is then loaded from its PCB in main memory, and process P1's execution context is saved to its PCB in main memory.
+
+Within the time of interrupt handling the processor is idle which reduces the throughput of the cpu.
+On the other hand, interrupt allows blocked processes to become ready
+
+
+Operations that can occur on a process:
+• create a process • destroy a process • suspend a process • resume a process • change a process's priority • block a process • wake up a process • dispatch a process
+
+### Interproccess Communication Manager
+
+Concurrent processes: Processes that run together, non communication of processes can lead to clashes when requesting a location. 
+Processes communicate message passing and sending signals to each other. 
+
+<mark style="background: #FFB86CA6;">Race conditinion</mark>
+
+### Threads
+Thread is similar to a process but lightweight, when a process is divided into smaller tasks which are called threads. The output of the threads are joined together to form the actual output of the process. They use processor to execute and other resources processes use, such as address space and open file. They have their individual thread IDs, threads also have their own states, ready, blocked and terminated, dead(once its done executing), asleep. Operations that can be performed on a process can also be performed on a thread.  

@@ -9,10 +9,10 @@ GNS 102
 
 1.  The security and reliability of transmitting election results electronically from polling units in real time.
 
-2.  The validity of using  electronic device for accreditation of voters appears to be questionable as it does not appear as if the BVAS is 100 percent accurate and cannot be manipulated through calculated human error.
+2.  The validity of using  electronic device for accreditation of voters as it is not certain the BVAS is always accurate .
  
 3. A large number of Nigerians face challenges in obtaining their PVCs.
 
-4.  The logistics of transporting electoral material and devices have often been a major obstacle for elections in Nigeria.
+4.  The logistics of transporting electoral material and devices across the country.
 
-5.  Violence and threat of violence are major challenges to credible election in 2023, with the rising attacks on INEC facilities, materials and staff raising even more concern.
+5.  Violence and threat of violence against individuals and personnel.
