@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c3fddbbf2d5f3df0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a77a98c0ce0748f1","x":324,"y":-123,"width":250,"height":60,"type":"text","text":"N Output"},
+		{"id":"00073f1cb0d650a0","x":341,"y":50,"width":250,"height":60,"type":"text","text":"N Output"},
+		{"id":"814893dc5e7b817e","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e70dd62b8498070d","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"392f8715fa647e9d","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"762a5440e70412f9","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Encoder"},
+		{"id":"6067e5b006455c0b","x":-540,"y":30,"width":250,"height":60,"type":"text","text":"$2^N$ Input"},
+		{"id":"09c722098e336de4","x":-540,"y":-153,"width":250,"height":60,"type":"text","text":" $2^N$Input"}
+	],
+	"edges":[
+		{"id":"dc8ee9c17b9d6420","fromNode":"c3fddbbf2d5f3df0","fromSide":"right","toNode":"a77a98c0ce0748f1","toSide":"left"},
+		{"id":"182d76b0867bb172","fromNode":"c3fddbbf2d5f3df0","fromSide":"right","toNode":"00073f1cb0d650a0","toSide":"left"},
+		{"id":"fef78d10e5ea68b3","fromNode":"09c722098e336de4","fromSide":"right","toNode":"c3fddbbf2d5f3df0","toSide":"left"},
+		{"id":"71aae61ba1c1f6c8","fromNode":"6067e5b006455c0b","fromSide":"right","toNode":"c3fddbbf2d5f3df0","toSide":"left"}
+	]
+}

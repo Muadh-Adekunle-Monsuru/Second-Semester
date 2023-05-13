@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"Input","id":"eb3a225d9596118e","x":-360,"y":-30,"width":130,"height":60},
+		{"type":"text","text":"CU","id":"1382de275a7e07f2","x":-63,"y":140,"width":126,"height":60},
+		{"type":"text","text":"ALU","id":"3bbcf60602a666ce","x":-62,"y":-30,"width":125,"height":60},
+		{"type":"text","text":"Storage Device","id":"141406aad498669b","x":-63,"y":-200,"width":126,"height":60},
+		{"type":"text","text":"Output","id":"6b27e05463f59414","x":240,"y":-30,"width":110,"height":60}
+	],
+	"edges":[
+		{"id":"25cd5d8b7dd7291b","fromNode":"eb3a225d9596118e","fromSide":"top","toNode":"141406aad498669b","toSide":"left"},
+		{"id":"3b066e3f4221f62c","fromNode":"eb3a225d9596118e","fromSide":"right","toNode":"3bbcf60602a666ce","toSide":"left"},
+		{"id":"1bbf9a696056f0b8","fromNode":"1382de275a7e07f2","fromSide":"left","toNode":"141406aad498669b","toSide":"left"},
+		{"id":"d4bec98193d6ae10","fromNode":"3bbcf60602a666ce","fromSide":"right","toNode":"6b27e05463f59414","toSide":"left"},
+		{"id":"4485f7d55a22cdbe","fromNode":"141406aad498669b","fromSide":"right","toNode":"6b27e05463f59414","toSide":"top"},
+		{"id":"3c8a2032f172f8ef","fromNode":"3bbcf60602a666ce","fromSide":"top","toNode":"141406aad498669b","toSide":"bottom","fromEnd":"arrow"}
+	]
+}

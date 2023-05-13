@@ -34,12 +34,33 @@ Doesnt require a server | Requires a server running a server operating system
 10BaseT: It cannot exceed 325feet in length. Because all the cables from all the clients converge at a common point, a 10BaseT network forms a star configuration.
 
 #### Network Interface Card
-Also knownas a network card. It connects the computer to the cabling, which links the computers together. Computers with a wireless connection to a network also use a network card.
+Also known as a network card.It provices the physical interface between computer and cabling. It connects the computer to the cabling, which links the computers together. Computers with a wireless connection to a network would use a wireless network card. It prepares data, sends data and controls the flow of data. It also receives and translate data into bytes for the CPU to understand
 
+#### Repeaters
+Simple devices which allow a cabling system to extend beyond its maximum allowed length, by amplifying the network  voltage.
+Disadvantage:
+- Since they just amplify signals they also amplify the noise, therefore a network with multiple repeaters can 'drown' out the actual signal
 #### Hub and Switch
 A hub is used to join different computers on a network, it is to direct information around the network, facilitating communication between all connected devices. 
+Types:
+- Passive Hub: Simply connect all ports together electrically and are usually not powered
+- Active Hub: Use electronics to amplify and clean up the signal before it is broadcast to the other ports
+-
+A network switch is a networking device that connects network segments.
+Switches are capable of inspecting data packets a they are received, and forwarding it to the destination.
 
 A switch is often termed a smart hub, With switching, each connection gets "dedicated bandwidth" and can operate at full speed. In contrast, a hub shares bandwidth across multiple connections such that the activity from one PC slows down the speed of other connections.
+
+### Bridges
+They join similar topologies and are used to divide network segments, they can filter out noise.
+Disadvantage:
+They can't connect dissimilar network types.
+
+### Routers:
+Highly Intelligent devices that connect multiple network types and determine the best path for sending data.
+They can segment large networks and can filter out noise.
+Slower and more expensive than bridges.
+
 
 #### Wireless Network
 The term wireless network refers to two or more computers communicating using standard network rules or protocoles, but withtout the use of cabling to connect the computers together.
