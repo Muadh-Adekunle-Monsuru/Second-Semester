@@ -18,6 +18,17 @@ A telecommunication system refers to a collection of compatible hardware and sof
 
 - Transaction
 
-- Distributed: A distrib
+- Distributed: A distributed system allows the components of data processing system to be made available at multiple locations in a computer network. The computers, storage devices and other components may be distributed to separate locations throughout the organization for efficiency
 
+Advantages of a distributed system:
+- Modularity
+- Better response time, data processing center is from a location close to the end user
+- Ability to share data
+- Greater reliability
+- Lower cost
 
+Disadvantages:
+- Technical problem of connecting and maintaining dissimilar systems
+- Sophisticated communication system which incurs additional cost
+- Data integrity and security
+- Requires skilled professional for system support

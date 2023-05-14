@@ -26,8 +26,8 @@ int main(){
 	do{
 	print("%d \n",i);
 	i++;
-	while(i<=40)
-	}
+	
+	}while(i<=40);
 	
 }
 

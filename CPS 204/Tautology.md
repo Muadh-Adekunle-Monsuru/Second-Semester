@@ -17,7 +17,7 @@ F | T | F
 
 two propositions are said to be logically equivalent if they have identical truth values for every set of truth values of their components
 
-Note that if two compound proportions are logically equivalent, then the compound proposition formed by joining them using the bi-conditional connective may be a tautology. 
+Note that if two compound proportions are logically equivalent, then the compound proposition formed by joining them using the bi-conditional connective must be a tautology. 
 
 Using capital P meaning it is not an atomic proposition
  P ≡ Q implies  P <-> Q

@@ -3,6 +3,7 @@
 
  
 A predicate describes the properties of objects and individual. 
+A predicate is a property that some object has
 In knowledge representation an individual is an object, and an object can be groups of individuals
 Adjective are used to represent a predicate. 
 
@@ -68,8 +69,9 @@ N(s): s thinks of no one but himself
 ∃(p) [S(s)  ∧ N(s)]
 
 
-
-
+¬∀x [Px] : Not every x is P which is Some x is not P
+¬∃x[Px] : No x is P, All x is not P
+![](images/Pasted%20image%2020230514101735.png)
 Predicate logic, also known as first-order logic, is a formal system that extends propositional logic by allowing quantification over variables. This means that predicate logic can express statements about sets of objects, rather than just individual objects.
 
 For example, the propositional logic statement "Socrates is a man" can be expressed in predicate logic as "∃x(Man(x) ∧ Socrates(x))", which means "There exists an object x such that x is a man and x is Socrates."
