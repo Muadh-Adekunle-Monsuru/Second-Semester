@@ -23,6 +23,7 @@ int main(){
 		printf('%d',i);
 		i++;
 	}
+	
 	do{
 	print("%d \n",i);
 	i++;
@@ -32,3 +33,5 @@ int main(){
 }
 
 ```
+
+Read about switch and case statement

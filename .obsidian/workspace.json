@@ -4,29 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "6be1e10f424bfe37",
+        "id": "791edf2a170e7434",
         "type": "tabs",
         "children": [
           {
-            "id": "156ac992ac11e097",
+            "id": "7d18fcb807ebcc70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CPS 204/Revision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "CPS 106/CPS 106 Documents/CPS106 TEST(20_21).pdf"
               }
             }
           },
           {
-            "id": "a30dbfc6835e53e7",
+            "id": "6e26fe7a1394a538",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 106/CPS 106 Documents/Main.pdf"
+              }
+            }
+          },
+          {
+            "id": "853aa8827fe8c1e3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 106/CPS 106 Documents/20192020 CPS106 DATA PROCESSING.docx.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5cabbbf0d66d6a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a053b4af704185",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 204/Tautology.md",
+                "file": "CPS 106/Test solution.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maintaince",
+                "query": "response time",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 211.51103591918945
   },
   "right": {
     "id": "9431c1a2ecf4186d",
@@ -109,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 204/Revision.md",
+                "file": "CPS 106/Test solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 204/Revision.md"
+                "file": "CPS 106/Test solution.md"
               }
             }
           }
@@ -153,59 +176,59 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "156ac992ac11e097",
+  "active": "72a053b4af704185",
   "lastOpenFiles": [
-    "CPS 204/Tautology.md",
+    "CPS 106/CPS 106 Documents/20192020 CPS106 DATA PROCESSING.docx.pdf",
+    "CPS 106/CPS 106 Documents/Main.pdf",
+    "CPS 106/Test solution.md",
+    "CPS 106/CPS 106 Documents/CPS106 TEST(20_21).pdf",
+    "CPS 106/CPS 106.md",
+    "CPS 106/CPS 106 Documents/Unit 1.pdf",
+    "CPS 204/Untitled.md",
+    "CPS 208/CPS 208.md",
+    "CPS 208/Organization VS Architecture.md",
+    "CPS 106/Module 2 Unit 3.md",
+    "CPS 106/Module 2 Unit 2.md",
+    "CPS 106/Module 2 Unit 1.md",
+    "CPS 106/CPS 106 Documents/CPS 106 2021_2022.pdf",
+    "CPS 208/DOcuments/Copy of CPS208 2019_2020Q.pdf",
+    "CPS 208/DOcuments/CPS208 2021_2022.pdf",
+    "CPS 106/Module 1 Unit 1 - 4.md",
+    "FUC202/(FUC_202)_200_LEVEL_FIQH_MATERIALS_FOR_SECOND_SEMESTER_18-19[1].pdf",
+    "FUC202/lu94161ogom.tmp",
+    "FUC202/(FUC 202) 200 LEVEL FIQH MATERIALS FOR SECOND SEMESTER 18-19.docx",
+    "FUC202",
     "CPS 204/Revision.md",
-    "CPS 204/Propositions.md",
+    "CPS 102/Communication Technology Fundamental.md",
+    "CPS 102/Movement of Information Via Networks.md",
+    "CPS 102/Assignment 4.md",
+    "CPS 102/Class 4.md",
+    "CPS 102/Class 2.md",
+    "CPS 102/Assignment 3.md",
+    "CPS 102/Assignment 2.md",
+    "CPS 206/Process  Scheduling.md",
+    "CPS 206/assignments/Assignment 4.md",
+    "CPS 206/Operating System I.md",
+    "CPS 206/Untitled 1.md",
+    "CPS 206/Untitled.md",
+    "CPS 206/assignments/Assignment 3.md",
     "CPS 204/Predicate Logic.md",
+    "CPS 204/Propositions.md",
+    "CPS 202/images/Pasted image 20230515111352.png",
+    "CPS 208/Canvas/Computer Performance.canvas",
+    "GNS 102/summary.jpeg",
     "CPS 204/images/Pasted image 20230514101735.png",
     "CPS 204/images/Pasted image 20230514093315.png",
     "CPS 204/images/Pasted image 20230514093232.png",
-    "CPS 204/CPS 204 Documents/PQ/2022.pdf",
-    "CPS 204/CPS 204 Documents/PQ/Unconfirmed 954963.crdownload",
     "CPS 204/images/Pasted image 20230514093057.png",
     "CPS 204/images/Pasted image 20230514093037.png",
     "CPS 204/images/Pasted image 20230514093007.png",
-    "CPS 204/CPS 204 Documents/PQ/2020((2).pdf",
-    "CPS 204/CPS 204 Documents/PQ/Unconfirmed 59520.crdownload",
-    "CPS 204/CPS 204 Documents/PQ/2020.pdf",
     "CPS 204/images/Pasted image 20230514092801.png",
-    "CPS 204/CPS 204 Documents/PQ/2019.pdf",
-    "CPS 204/CPS 204 Documents/PQ/2018.pdf",
     "CPS 204/images/Pasted image 20230514092322.png",
-    "CPS 204/images/Pasted image 20230514092231.png",
-    "CPS 204/images/Pasted image 20230514092216.png",
-    "CPS 204/CPS 204 Documents/PQ Solution 2.pdf",
-    "CPS 204/CPS 204 Documents/PQ/2017.pdf",
-    "CPS 204/CPS 204 Documents/PQ",
-    "CPS 108/Network Topology.md",
-    "CPS 108/Introduction to Computer Networking.md",
-    "CPS 108/CPS108 Assignment 2.md",
-    "CPS 108/CPS108 Assignment 1.md",
-    "CPS 202/Factorial.md",
-    "CPS 202/Assignment 2.md",
-    "CPS 202/Header Files.md",
-    "CPS 202/increments.md",
-    "CPS 202/Introduction to C.md",
-    "CPS 202/Loops in C.md",
-    "CPS 202/Setting Up Compiler Instructions.md",
-    "CPS 202/Classwork 5.md",
-    "CPS 202/Classwork 4.md",
-    "CPS 202/Classwork 1.md",
-    "CPS 202/Assignment 1 CPS 202.md",
-    "CPS 106/assignments/Assignment 6.md",
-    "CPS 106/assignments/Assignment 5.md",
-    "CPS 106/Module 2 Unit 3.md",
-    "CPS 106/File Organization.md",
-    "CPS 106/Module 1 Unit 1 - 4.md",
-    "CPS 106/Module 2 Unit 1.md",
-    "CPS 106/CPS 106.md",
     "CPS 208/Canvas/Computer Basic.canvas",
-    "CPS 208/Canvas/Computer Performance.canvas",
     "CPS 208/Canvas/BuildingBlock.canvas",
     "CPS 208/Canvas/Encoder & Decoder.canvas",
-    "CPS 206/Process States & Transitions.canvas",
+    "CPS 206/canva/Process States & Transitions.canvas",
     "Arduino/Display.canvas",
     "CPS 102/Arduino/Display.canvas",
     "CPS 202/images/Process of Program Compilation.canvas",

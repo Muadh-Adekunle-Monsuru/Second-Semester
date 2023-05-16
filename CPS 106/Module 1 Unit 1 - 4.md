@@ -26,6 +26,15 @@ The method of processing data electronically is called electronic data processin
 
 It is any computer **automated** process that converts raw facts i.e data into output i.e useful information. 
 
+---
+
+<mark style="background: #D2B3FFA6;">Data processing consists of activities concerned with the systematic rerecording, sorting, computing, modifying, reporting and displaying details of business transactions.
+The ultimate goal of data processing is to obtain information with which to control financial and administrative aspect of the business.</mark>
+
+A data processing system can be view as an administrative system imposed upon the physical business systems.
+
+---
+
 ## Scope of data processing
 Looking at the areas data processing covers:
 - Algorithm deductions

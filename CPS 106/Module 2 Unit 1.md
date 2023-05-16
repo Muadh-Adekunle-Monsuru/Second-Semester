@@ -55,3 +55,19 @@ Flash Storage Devices: A USB flash drive It is a NAND type flash memory data sto
 
 NAND flash memory is a type of non-volatile storage technology that do not require power to retain data.
 
+---
+<mark style="background: #FF5582A6;">NEW</mark>
+
+Disks contains concentric tracks, tracks are divided into sectors. A sector is the smallest addressable unit in a disk.
+
+A disk head reads and writes bits of data as they pass under the head. 
+When a program reads a byte from the disk, the operating system locates the surface, track and sector containing that byte, and reads the entire sector into a special area in main memory called buffer.
+
+A cylinder is the set of tracks at a given radius of a disk pack. A cylinder is the set of tracks that can be accessed without moving the disk arm
+
+## Measuring Disk Performance:
+a. **Rotational delay/Latency:** This is the time it takes to position the proper sector under the read/write head. Latency is wasted time.
+
+b. **Throughput:** The rate at which information can be read from or written to the storage. It is expressed in terms of megabytes per second. 
+
+c. **Seek time:** This is the amount of time between when the CPU requests a file and when the first byte of the file is sent to the CPU. 

@@ -1,0 +1,7 @@
+- Bandwidth: Refers to the range of frequency, that can be transmitted over a communcation channel, eg: wireless
+- Modulation
+- Multiplexing
+- Network Topologies
+- Routing
+- Latency
+- Security

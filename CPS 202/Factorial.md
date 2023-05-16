@@ -11,7 +11,7 @@ int main(){
         fact =1;
     }else{
             for(i=1;i<n;i++){
-                    fact += i*fact;
+                    fact *= i;
             }
     }
 

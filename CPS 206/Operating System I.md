@@ -138,7 +138,7 @@ Second, a process is a "program in execution." A program is an inanimate entity;
 
 
 
-![](Process%20States%20&%20Transitions.canvas)
+![](canva/Process%20States%20&%20Transitions.canvas)
 ### Process Transition:
 The movement of a process from one state to another.
 1. **New to Ready:** A process is being admitted to the system.  
@@ -167,10 +167,10 @@ The operating system performs a context switch to stop executing a running proce
 It happens when a previously blocked process receives an input/output event it becomes ready to be process.
 
 Interrupts halts the execution of a running process to respond to a signal.
-Interrupt is a hardware or software signal that tells the CPU that the device and process and attend to the particular attention
+Interrupt is a hardware or software signal that tells <mark style="background: #D2B3FFA6;">the</mark> CPU that the device and process and attend to the particular attention
 
 Interrupts  enable software to respond to signals from hardware. The operating system specify a set of instructions, called an interrupt handler, to be executed in response to each type of interrupt. 
-	Types of interrupt:
+	<mark style="background: #FFF3A3A6;">Types of interrupt</mark>:
 	- Synchronous: occurs when a process attempts to perform an illegal actions, such as dividing by zero or referencing a protected memory location.
 	- Asynchronous: Hardware devices issue asynchronous interrupts to communicate a status change to the processor. For example, the keyboard generates an interrupt when a user presses a key;
  

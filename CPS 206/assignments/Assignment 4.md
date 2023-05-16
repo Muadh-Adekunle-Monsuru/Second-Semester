@@ -1,0 +1,55 @@
+[13/5/2023]
+**Extensive reading about process scheduling and the algorithm involved in scheduling processes**
+
+Process scheduling is  a strategy a process manager has for deciding which process to run at a given time.
+Process scheduling is a key function of an operating system that manages the allocation of CPU time to processes. The scheduling mechanism may take into account factors such as process priority levels, the amount of time each process has already been running, and the resources required by each process. 
+
+<mark style="background: #ABF7F7A6;">Activity of the process manager, which removes running process, and selects another ready process based on a strategy.</mark>
+
+**Aims of process scheduling:**
+- Throughput: Maximizing number of processes that complete per unit time
+- Latency: Minimizing the time each process waits before executing
+- Preventing indefinite postponement of processes
+- Ensuring that each process completes before its deadline
+- Maximizing processor utilization
+- Fairness
+- Policy enforcement
+
+**Three scheduling levels:**
+- High-level scheduling / Job scheduling
+- Intermediate-level scheduling/ Medium term 
+- Low-level scheduling
+
+**High-level scheduling:** Determines which jobs gain admission to the system. Jobs can be a group of processes. All the instructions needed for the dispatched process in the memory is moved to a memory closer to the processor.
+
+**Intermediate scheduling:** Determines which processes shall be allowed to compete for processors. It temporarily suspends and resumes processes to achieve smooth system operation and to help realize certain systemwide performance goals. The intermediate-level scheduler acts as a buffer between the admission of jobs to the system and the assignment of processors to the processes representing these jobs. places blocked processes in other memory location
+
+**Low-level:** Determines which active process the system will assign to a processor when one next becomes available. Also blocks events and sends them to ready queue.
+
+
+
+**Scheduling disciplines are either:**
+- preemptive 
+- nonpreemptive scheduling
+
+**Preemptive**: If the system can remove the processor from the process it is running. 
+
+**Nonpreemptive**: If once the system assigned a processor to a process, the system cannot remove that processor from that process
+
+
+**Scheduling Algorithms**
+These algorithms is a policy that decides when and for how long each process runs; they make choices about preemptibility, priorities, running time, time-to-completion, fairness and other process characteristics
+
+1. First-Come, First-Served (FCFS): In this algorithm, the OS assigns CPU time to processes in the order that they arrive. This algorithm is simple to implement, but it can lead to long wait times for processes that arrive later. 
+	- It is non-preemptive,
+	- it is fair for most processes, but unfair to short processes that joined later.
+	- yes, the turn around time would be minimal for both batch and real-time
+	- Used within other algorithms
+
+2. **Shortest Job First (SJF)/Shortest Process Next (SPN)**: In this algorithm, the OS assigns CPU time to the process with the shortest estimated processing time. This algorithm minimizes the average wait time for all processes, but it requires accurate estimations of each process's processing time. It is <mark style="background: #FFB86CA6;">non-preemptive.</mark> Not good in a time sharing environment.
+	- Similar to **Shortest Remaining Time:** it is preemptive, if a process is currently executing and a shorter process arrives, the SRT would remove the currently executing process for the shorter one, 
+
+3. Priority Scheduling: In this algorithm, each process is assigned a priority level based on its importance or urgency. The OS then allocates CPU time to processes with higher priority levels first. This algorithm can ensure that critical processes receive CPU time first, but it can also lead to lower-priority processes being starved of CPU time.
+
+4. **Round-Robin Scheduling:** In this algorithm, the OS assigns each process a fixed time slice called a quantum, and then rotates through all processes, allocating one time slice to each process in turn. This algorithm ensures that no process is starved of CPU time, but it can also lead to long wait times for processes with large time requirements. It is the fairest. It is preemptive.
+

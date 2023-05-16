@@ -1,0 +1,5 @@
+Computer architecture is the conceptual design of a computer system. It defines the overall structure of the system, including the components that make it up and how they interact with each other. Computer architecture is concerned with the big picture, and it is typically described in terms of high-level concepts such as the instruction set architecture (ISA), the memory hierarchy, and the processor pipeline.
+
+Computer organization is the physical implementation of computer architecture. It describes how the components of the system are actually built and how they interact with each other in the real world. Computer organization is concerned with the details, and it is typically described in terms of low-level concepts such as the circuit design of the processor, the layout of the memory, and the implementation of the ISA.
+
+In short, computer architecture is concerned with what a computer system is, while computer organization is concerned with how a computer system is built.
