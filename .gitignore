@@ -2,3 +2,7 @@
 CPS 102/CPS102 Documents/Invitation To Comp Sci.pdf
 CPS 106/CPS 106 Documents/cps106.pdf
 *.pdf
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections

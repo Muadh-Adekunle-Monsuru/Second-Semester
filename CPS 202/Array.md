@@ -39,6 +39,19 @@ int main(){
 }
 ```
 
+>[!NOTE]
+>```C
+>	char name[a][b]
+>	a means the number of elements in the array
+>	b is the character length of each element 
+> Alternatively if character length is not knowns then
+> char *name[a]
+> would be used instead, the * tells the comiler to leave a space of 4bytes for each element and the a would just the be number of elements in the array
+>```
+
+
+
+
 
 ```c
 Sure, here is a simple code for iterating through a simple array which contains 10 names in C:
@@ -80,7 +93,33 @@ B = $$ \begin{bmatrix}
 \end{bmatrix} $$
 
 
-
+```C
+#include <stdio.h>
+int main(){
+    int mA[3][3] = {{1,2,3},{2,1,3},{4,1,6}};
+    int mB[3][3] = {{1,0,6},{3,2,1},{1,2,4}};
+    int mC[3][3];
+    int i,j;
+    //Adding the matrices
+    for(i=0;i<3;i++){
+        for(j=0;j<3;j++){
+        mC[i][j]= mA[i][j] + mB[i][j];
+        }
+    }
+    //Printing Out
+    for(i=0;i<3;i++){
+        for(j=0;j<3;j++){
+        printf("%d  ",mC[i][j]);
+        }
+        printf("\n");
+    }
+    //Output
+    // 2  2  9  
+    // 5  3  4
+    // 5  3  10
+    return 0;
+}
+```
 
 what value is in the array[n+1]
 

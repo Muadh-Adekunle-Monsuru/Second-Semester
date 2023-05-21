@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5cabbbf0d66d6a95",
+        "id": "2dd9ea7f96dc0e21",
         "type": "tabs",
         "children": [
           {
-            "id": "72a053b4af704185",
+            "id": "79e9a7e8d2c55181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 106/Past Question Solutions.md",
+                "file": "GNS 104/GNS104 Summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "c361f6b1ebcd577e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 208/CPS 208.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "response time",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 208/CPS 208.md",
+                "file": "GNS 104/GNS104 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 208/CPS 208.md"
+                "file": "GNS 104/GNS104 Summary.md"
               }
             }
           }
@@ -153,43 +139,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c361f6b1ebcd577e",
+  "active": "79e9a7e8d2c55181",
   "lastOpenFiles": [
-    "CPS 106/Past Question Solutions.md",
-    "CPS 106/CPS 106 Documents/CPS 106 2021_2022.pdf",
-    "CPS 106/CPS 106 Documents/Main.pdf",
-    "CPS 106/CPS 106 Documents/CPS106 TEST(20_21).pdf",
-    "CPS 106/CPS 106 Documents/20192020 CPS106 DATA PROCESSING.docx.pdf",
-    "CPS 106/CPS 106.md",
-    "CPS 106/CPS 106 Documents/Unit 1.pdf",
-    "CPS 204/Untitled.md",
-    "CPS 208/CPS 208.md",
-    "CPS 208/Organization VS Architecture.md",
-    "CPS 106/Module 2 Unit 3.md",
-    "CPS 106/Module 2 Unit 2.md",
-    "CPS 106/Module 2 Unit 1.md",
-    "CPS 208/DOcuments/Copy of CPS208 2019_2020Q.pdf",
-    "CPS 208/DOcuments/CPS208 2021_2022.pdf",
-    "CPS 106/Module 1 Unit 1 - 4.md",
+    "GNS 104/Week 3-4.md",
+    "GNS 104/Dark ages.md",
+    "GNS 104/GST 105.pdf",
+    "GNS 104/Course Outline.pdf",
+    "GNS 104/GNS104 Summary.md",
+    "GNS 104/IslamicEra-1.pdf",
+    "GNS 104/A HISTORY OF SCIENCE-1.pdf",
+    "Practice Exercises.md",
+    "Practice Exercises.docx",
+    "GNS 206/Conflicts.md",
+    "GNS 206/Conflicts.tex",
+    "GNS 206/Historical Evolution of Nigeria.md",
+    "GNS 206/Indigene Settlers in Nigeria.md",
+    "GNS 206/State-Citizen Relation.md",
+    "Practice Exercises.html",
+    "STA210/STA210.md",
+    "FUC202/FUC202.md",
     "FUC202/(FUC_202)_200_LEVEL_FIQH_MATERIALS_FOR_SECOND_SEMESTER_18-19[1].pdf",
-    "FUC202/lu94161ogom.tmp",
-    "FUC202/(FUC 202) 200 LEVEL FIQH MATERIALS FOR SECOND SEMESTER 18-19.docx",
-    "CPS 204/Revision.md",
-    "CPS 102/Communication Technology Fundamental.md",
-    "CPS 102/Movement of Information Via Networks.md",
-    "CPS 102/Assignment 4.md",
-    "CPS 102/Class 4.md",
-    "CPS 102/Class 2.md",
-    "CPS 102/Assignment 3.md",
-    "CPS 102/Assignment 2.md",
-    "CPS 206/Process  Scheduling.md",
-    "CPS 206/assignments/Assignment 4.md",
-    "CPS 206/Operating System I.md",
-    "CPS 206/Untitled 1.md",
-    "CPS 206/Untitled.md",
-    "CPS 206/assignments/Assignment 3.md",
-    "CPS 204/Predicate Logic.md",
-    "CPS 204/Propositions.md",
+    "GNS 104/Assignment",
+    "GNS 104/Richard DeWitt - Worldviews_ An Introduction to the History and Philosophy of Science-Wiley-Blackwell (2010).pdf",
+    "GNS 104/GNS 104 Assignment.md",
+    "GNS 206/GNS 206.md",
+    "CPS 202/Array.md",
+    "CPS 202/Introduction to C.md",
+    "CPS 202/Classwork 1.md",
+    "CPS 202/Assignment 2.md",
+    "CPS 202/Assignment 1 CPS 202.md",
+    "CPS 202/Loops in C.md",
+    "CPS 202/increments.md",
+    "CPS 202/Header Files.md",
+    "CPS 202/Classwork 5.md",
+    "CPS 202/Factorial.md",
+    "CPS 208/CPS 208.md",
+    "CPS 208/Digital Logic Circuits.md",
+    "GNS 106/GNS 106.md",
     "CPS 202/images/Pasted image 20230515111352.png",
     "CPS 208/Canvas/Computer Performance.canvas",
     "GNS 102/summary.jpeg",

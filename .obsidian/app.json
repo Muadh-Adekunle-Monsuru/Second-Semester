@@ -13,5 +13,17 @@
   "attachmentFolderPath": "./images",
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list"
+  ]
 }
