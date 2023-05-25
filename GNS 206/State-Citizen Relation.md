@@ -59,7 +59,7 @@ Their are deviants in every society, though they have become more rampant today.
 2. Hopelessness
 3. Material depravation
 
-**Measures to curb anti-social behaviour**
+**Measures to curb ``anti-social`` behaviour**
 1. Jail term
 2. Capital punishment
 3. Provision of basic amenities

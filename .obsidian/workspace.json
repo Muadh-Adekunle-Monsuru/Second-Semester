@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2dd9ea7f96dc0e21",
+        "id": "ae72d9a36a2dcf00",
         "type": "tabs",
         "children": [
           {
-            "id": "79e9a7e8d2c55181",
+            "id": "ac9bd3b5d290490b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNS 104/GNS104 Summary.md",
+                "file": "GNS 206/State-Citizen Relation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNS 104/GNS104 Summary.md",
+                "file": "GNS 206/State-Citizen Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNS 104/GNS104 Summary.md"
+                "file": "GNS 206/State-Citizen Relation.md"
               }
             }
           }
@@ -139,43 +139,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79e9a7e8d2c55181",
+  "active": "ac9bd3b5d290490b",
   "lastOpenFiles": [
+    "GNS 206/Docs/State-Citizen Relation.pdf",
+    "GNS 206/Historical Evolution of Nigeria.md",
+    "GNS 206/Docs/Historical Evolution of Nigeria.pdf",
+    "GNS 206/Conflicts Among Nations.md",
+    "GNS 206/Docs/Conflicts Among Nations.pdf",
+    "GNS 206/Conflicts.md",
+    "GNS 206/Docs/Conflicts.pdf",
+    "GNS 102/2022 GNS 102.docx",
+    "GNS 102/2021 SUMMER GNS 102.docx",
+    "CPS 106/Module 2 Unit 4.md",
+    "CPS 106/Assignment 7.md",
+    "CPS 106/CPS 106 Documents/Unit 1.pdf",
+    "CPS 106/CPS 106 Documents/Unit 2.pdf",
+    "CPS 106/CPS 106 Documents/Unit 3.pdf",
+    "CPS 106/CPS 106 Documents/Unit 4.pdf",
+    "CPS 106/CPS 106 Documents/20192020 CPS106 DATA PROCESSING.docx.pdf",
+    "GNS 206/GNS 206.md",
+    "CPS 102/Logic Gate.md",
+    "CPS 204/Predicate Logic.md",
+    "CPS 204/images/Pasted image 20230523120439.png",
+    "CPS 204/images/Pasted image 20230523120411.png",
+    "CPS 204/images/Pasted image 20230523113705.png",
+    "CPS 204/Tautology.md",
+    "CPS 204/Revision.md",
+    "CPS 108/CPS108 Assignment 2.md",
+    "CPS 108/CPS108 Assignment 1.md",
+    "CPS 108/CPS 108.md",
+    "CPS 202/Unsolved Classwork.md",
+    "CPS 202/Loops in C.md",
+    "CPS 202/Array.md",
+    "CPS 206/Process  Scheduling.md",
+    "CPS 206/Operating System I.md",
+    "GNS 104/GNS104 Summary.md",
     "GNS 104/Week 3-4.md",
     "GNS 104/Dark ages.md",
-    "GNS 104/GST 105.pdf",
-    "GNS 104/Course Outline.pdf",
-    "GNS 104/GNS104 Summary.md",
-    "GNS 104/IslamicEra-1.pdf",
-    "GNS 104/A HISTORY OF SCIENCE-1.pdf",
     "Practice Exercises.md",
-    "Practice Exercises.docx",
-    "GNS 206/Conflicts.md",
-    "GNS 206/Conflicts.tex",
-    "GNS 206/Historical Evolution of Nigeria.md",
     "GNS 206/Indigene Settlers in Nigeria.md",
     "GNS 206/State-Citizen Relation.md",
-    "Practice Exercises.html",
     "STA210/STA210.md",
-    "FUC202/FUC202.md",
-    "FUC202/(FUC_202)_200_LEVEL_FIQH_MATERIALS_FOR_SECOND_SEMESTER_18-19[1].pdf",
-    "GNS 104/Assignment",
-    "GNS 104/Richard DeWitt - Worldviews_ An Introduction to the History and Philosophy of Science-Wiley-Blackwell (2010).pdf",
-    "GNS 104/GNS 104 Assignment.md",
-    "GNS 206/GNS 206.md",
-    "CPS 202/Array.md",
-    "CPS 202/Introduction to C.md",
-    "CPS 202/Classwork 1.md",
-    "CPS 202/Assignment 2.md",
-    "CPS 202/Assignment 1 CPS 202.md",
-    "CPS 202/Loops in C.md",
-    "CPS 202/increments.md",
-    "CPS 202/Header Files.md",
-    "CPS 202/Classwork 5.md",
-    "CPS 202/Factorial.md",
-    "CPS 208/CPS 208.md",
-    "CPS 208/Digital Logic Circuits.md",
-    "GNS 106/GNS 106.md",
     "CPS 202/images/Pasted image 20230515111352.png",
     "CPS 208/Canvas/Computer Performance.canvas",
     "GNS 102/summary.jpeg",
@@ -184,9 +188,6 @@
     "CPS 204/images/Pasted image 20230514093232.png",
     "CPS 204/images/Pasted image 20230514093057.png",
     "CPS 204/images/Pasted image 20230514093037.png",
-    "CPS 204/images/Pasted image 20230514093007.png",
-    "CPS 204/images/Pasted image 20230514092801.png",
-    "CPS 204/images/Pasted image 20230514092322.png",
     "CPS 208/Canvas/Computer Basic.canvas",
     "CPS 208/Canvas/BuildingBlock.canvas",
     "CPS 208/Canvas/Encoder & Decoder.canvas",

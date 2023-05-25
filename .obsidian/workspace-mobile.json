@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 202/Array.md",
-                "mode": "source",
+                "file": "CPS 202/Unsolved Classwork.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CPS 202/Array.md",
+            "file": "CPS 202/Unsolved Classwork.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CPS 202/Array.md"
+            "file": "CPS 202/Unsolved Classwork.md"
           }
         }
       }
@@ -110,15 +110,15 @@
   },
   "active": "5e30e469647c8e52",
   "lastOpenFiles": [
-    "Practice Exercises.md",
-    "CPS 202/Array.md",
+    "FUC202/FUC202.md",
+    "GNS 106/GNS 106.md",
     "GNS 206/State-Citizen Relation.md",
+    "GNS 106/GNS 106.pdf",
+    "CPS 206/Process  Scheduling.md",
+    "CPS 202/Array.md",
+    "Practice Exercises.md",
     "GNS 206/State-Citizen Relation.pdf",
     "CPS 102/Class 1.md",
-    "CPS 102/Assignment 4.md",
-    "CPS 202/Factorial.md",
-    "STA210/sta 202 - Random variable.pdf",
-    "STA210/STA210.md",
-    "FUC202/FUC202.md"
+    "CPS 102/Assignment 4.md"
   ]
 }

@@ -49,7 +49,39 @@ These algorithms is a policy that decides when and for how long each process run
 2. **Shortest Job First (SJF)/Shortest Process Next (SPN)**: In this algorithm, the OS assigns CPU time to the process with the shortest estimated processing time. This algorithm minimizes the average wait time for all processes, but it requires accurate estimations of each process's processing time. It is <mark style="background: #FFB86CA6;">non-preemptive.</mark> Not good in a time sharing environment.
 	- Similar to **Shortest Remaining Time:** it is preemptive, if a process is currently executing and a shorter process arrives, the SRT would remove the currently executing process for the shorter one, 
 
-3. Priority Scheduling: In this algorithm, each process is assigned a priority level based on its importance or urgency. The OS then allocates CPU time to processes with higher priority levels first. This algorithm can ensure that critical processes receive CPU time first, but it can also lead to lower-priority processes being starved of CPU time.
+3. **Priority Scheduling:** In this algorithm, each process is assigned a priority level based on its importance or urgency. The OS then allocates CPU time to processes with higher priority levels first. This algorithm can ensure that critical processes receive CPU time first, but it can also lead to lower-priority processes being starved of CPU time. An integer number is attached to every process that would be different from the execution time, the number is a measure of the processes priority. can be used in batch system. If a process has a lowpriority and high priority processes keeps coming the process would be waiting for a long time, the system should find a way to increase the priority of said process.  
+	1. can be used in hostpital settings 
+	2. It is both preemptive and non-preemptive. 
 
-4. **Round-Robin Scheduling:** In this algorithm, the OS assigns each process a fixed time slice called a quantum, and then rotates through all processes, allocating one time slice to each process in turn. This algorithm ensures that no process is starved of CPU time, but it can also lead to long wait times for processes with large time requirements. It is the fairest. It is preemptive.
+5. **Round-Robin Scheduling:** In this algorithm, the OS assigns each process a fixed time slice called a quantum, and then rotates through all processes, allocating one time slice to each process in turn. This algorithm ensures that no process is starved of CPU time, but it can also lead to long wait times for processes with large time requirements. It is the fairest. It is preemptive.
 
+6. Multilevel Queue: Queues are divided into multiple queues based on different criteria's such as wait time, priority and soon. Each of the queues then have different algorithms. If it a single processor, then the processor has to know how to share time among all the queues had.  
+	1. It is fair.
+	2. It is both preemptive and nonpreemptive
+ 7. Multilevel feedback queues: It is similar to multilevel queue. Processes can move from one queue to another queue based on their executing time. It is a combination of priority scheduling  and round-robin scheduling. 
+	 1. It is fair
+	 2.   Multiple queues: Processes are divided into multiple queues based on their priority.
+	3.    Priorities assigned: Priorities are assigned to processes based on their type, characteristics, and importance.
+	4.  Preemption: Processes can be preempted from a lower-priority queue to run a process in a higher-priority queue
+
+Burst Time: <mark style="background: #ABF7F7A6;">Time a process needs to execute</mark>
+
+### CPU Scheduling Evaluation
+Consider the following processes that arrived with the priority  shown in the table 
+1. Draw the Gannt chart to illustrate the execution of the processes based on 
+	1. First come first server
+	2. SJF
+	3. Priority Scheduling (<mark style="background: #BBFABBA6;">Lower number means higher priority</mark>)
+	4. Round-robin (Quantum size = 3)
+2. The average waiting time from each algorithm and waiting time for each process
+
+Process | Burst time | pritority 
+---|---|---
+P1 |8 |4
+P2 | 6  | 1
+P3 | 1 | 2
+P4 | 9 | 2
+P5 | 3 | 3
+
+
+synchronization 
