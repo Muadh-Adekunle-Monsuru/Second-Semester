@@ -37,24 +37,12 @@ It  comprises 36 states and one FCT located in Abuja.
 - Kwali
 - Abeji
 - Bwari
-- Gwagwalada
-
 
 **6 Geopolitical Zone**:
-North Central:
-Consisting of Benue, Kogi, Kwara, Nasarawa, Niger, and Plateau States, as well as the Federal Capital Territory.
+1. North Central:Kogi
+2. South West:Oyo
+3. North West: Jigawa, Kaduna
+4. South South: Rivers
+5. South East:: Abia
+6. North East :Bauchi
 
-North East:
-Consisting of Adamawa, Bauchi, Borno, Gombe, Taraba, and Yobe States.
-
-North West:
-Consisting of Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, and Zamfara States.
-	
-South East:
-Consisting of Abia, Anambra, Ebonyi, Enugu, and Imo States.
-
-South South (also known as Niger Delta region)
-Consisting of Akwa Ibom, Bayelsa, Cross River, Delta, Edo, and Rivers States.
-
-South West:
-Consisting of Ekiti, Lagos, Ogun, Ondo, Osun, and Oyo States

@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "ae72d9a36a2dcf00",
+        "id": "7d7db86c0d693b0d",
         "type": "tabs",
         "children": [
           {
-            "id": "ac9bd3b5d290490b",
+            "id": "8d7de425f41417d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNS 206/State-Citizen Relation.md",
+                "file": "CPS 106/Module 2 Unit 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5afa6f8998e9195f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 106/assignments/Assignment 7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -39,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.51103591918945
+    "width": 200
   },
   "right": {
     "id": "9431c1a2ecf4186d",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNS 206/State-Citizen Relation.md",
+                "file": "CPS 106/Module 2 Unit 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNS 206/State-Citizen Relation.md"
+                "file": "CPS 106/Module 2 Unit 5.md"
               }
             }
           }
@@ -139,47 +153,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac9bd3b5d290490b",
+  "active": "8d7de425f41417d6",
   "lastOpenFiles": [
-    "GNS 206/Docs/State-Citizen Relation.pdf",
-    "GNS 206/Historical Evolution of Nigeria.md",
-    "GNS 206/Docs/Historical Evolution of Nigeria.pdf",
-    "GNS 206/Conflicts Among Nations.md",
-    "GNS 206/Docs/Conflicts Among Nations.pdf",
-    "GNS 206/Conflicts.md",
-    "GNS 206/Docs/Conflicts.pdf",
-    "GNS 102/2022 GNS 102.docx",
-    "GNS 102/2021 SUMMER GNS 102.docx",
+    "CPS 106/assignments/Assignment 7.md",
+    "CPS 106/Module 2 Unit 5.md",
     "CPS 106/Module 2 Unit 4.md",
-    "CPS 106/Assignment 7.md",
-    "CPS 106/CPS 106 Documents/Unit 1.pdf",
-    "CPS 106/CPS 106 Documents/Unit 2.pdf",
-    "CPS 106/CPS 106 Documents/Unit 3.pdf",
-    "CPS 106/CPS 106 Documents/Unit 4.pdf",
-    "CPS 106/CPS 106 Documents/20192020 CPS106 DATA PROCESSING.docx.pdf",
-    "GNS 206/GNS 206.md",
-    "CPS 102/Logic Gate.md",
+    "CPS 106/CPS 106 Documents/UNIT7INTRODUCTION TO BASIC SQL.pdf",
+    "CPS 106/CPS 106 Documents/Past Question Solutions.md",
+    "CPS 204/Propositions.md",
+    "CPS 208/CPS 208.md",
+    "CPS 102/Basic.md",
+    "CPS 102/Running Basic.md",
+    "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf",
+    "CPS 204/Sets.md",
+    "CPS 204/Untitled.md",
+    "CPS 204/CPS 204 Documents/chapter 4.pdf",
+    "CPS 204/CPS 204 Documents/chapter 3.pdf",
+    "CPS 204/CPS 204 Documents/Untitled.md",
+    "CPS 204/LATEX.md",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/L05.pdf",
+    "CPS 204/Predicate Arguments.md",
+    "GNS 206/Historical Evolution of Nigeria.md",
+    "GNS 206/State-Citizen Relation.md",
+    "GNS 206/Indigene Settlers in Nigeria.md",
     "CPS 204/Predicate Logic.md",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/inferencee2.pdf",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/04InferenceRulesProofMethods.pdf",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/Unconfirmed 963685.crdownload",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/lecture07.pdf",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/Unconfirmed 843990.crdownload",
+    "CPS 204/Predicate Function Questions.md",
+    "CPS 204/Rules of Inference.md",
+    "CPS 204/Revision.md",
+    "FUC202/FUC202.md",
+    "GNS 104/GNS104 Summary Incomplete.md",
+    "GNS 104/Week 3-4.md",
+    "GNS 102/Paragraphing.md",
+    "GNS 102/Summary.md",
+    "GNS 206/Conflicts Among Nations.md",
     "CPS 204/images/Pasted image 20230523120439.png",
     "CPS 204/images/Pasted image 20230523120411.png",
     "CPS 204/images/Pasted image 20230523113705.png",
-    "CPS 204/Tautology.md",
-    "CPS 204/Revision.md",
-    "CPS 108/CPS108 Assignment 2.md",
-    "CPS 108/CPS108 Assignment 1.md",
-    "CPS 108/CPS 108.md",
-    "CPS 202/Unsolved Classwork.md",
-    "CPS 202/Loops in C.md",
-    "CPS 202/Array.md",
-    "CPS 206/Process  Scheduling.md",
-    "CPS 206/Operating System I.md",
-    "GNS 104/GNS104 Summary.md",
-    "GNS 104/Week 3-4.md",
-    "GNS 104/Dark ages.md",
-    "Practice Exercises.md",
-    "GNS 206/Indigene Settlers in Nigeria.md",
-    "GNS 206/State-Citizen Relation.md",
-    "STA210/STA210.md",
     "CPS 202/images/Pasted image 20230515111352.png",
     "CPS 208/Canvas/Computer Performance.canvas",
     "GNS 102/summary.jpeg",

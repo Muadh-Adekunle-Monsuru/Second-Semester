@@ -1,7 +1,6 @@
 [9/5/2023]
 #### Predicate & Quantifier
 
- 
 A predicate describes the properties of objects and individual. 
 A predicate is a property that some object has
 In knowledge representation an individual is an object, and an object can be groups of individuals
@@ -103,7 +102,9 @@ It can bee quantified with universal or existential
 ∃y∀x
 Malaria is MIlder than Typhoid M(x,y)
 
-Propositional Function:
+---
+
+check the validity of the following predicate functions
 P(x,y): x + y =7
 Universe of Discourse: Real Numbers
 1. ∀x∃yP(x,y) = TRUE 
@@ -115,6 +116,7 @@ Universe of Discourse: Real Numbers
 7. ∃x∃yP(x,y)= TRUE
 8. ∃y∃xP(x,y) = TRUE
 
+Let M(x) denote "x is male", F(x) denote "x is female", L(x) denote "x is a student in this class" and K(x,y) denote "x knows y." Then the statement "every female student in this class knows at least one male student in this class" can be translated as $∀x((F(x)∧L(x))→∃y(M(y)∧L(y)∧K(x,y))).$
 
 ### Arguments in predicate logic
 <mark style="background: #FFB86CA6;">Rules of inferences</mark>

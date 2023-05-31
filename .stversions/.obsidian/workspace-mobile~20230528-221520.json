@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Exercises.md",
+                "file": "GNS 206/Historical Evolution of Nigeria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Practice Exercises.md",
+            "file": "GNS 206/Historical Evolution of Nigeria.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Practice Exercises.md"
+            "file": "GNS 206/Historical Evolution of Nigeria.md"
           }
         }
       }
@@ -110,15 +110,15 @@
   },
   "active": "5e30e469647c8e52",
   "lastOpenFiles": [
-    "Practice Exercises.md",
-    "CPS 202/Array.md",
     "GNS 206/State-Citizen Relation.md",
-    "GNS 206/State-Citizen Relation.pdf",
-    "CPS 102/Class 1.md",
-    "CPS 102/Assignment 4.md",
-    "CPS 202/Factorial.md",
-    "STA210/sta 202 - Random variable.pdf",
-    "STA210/STA210.md",
-    "FUC202/FUC202.md"
+    "GNS 206/Conflicts.md",
+    "GNS 206/Indigene Settlers in Nigeria.md",
+    "GNS 206/Historical Evolution of Nigeria.md",
+    "GNS 206/Conflicts Among Nations.md",
+    "GNS 206/GNS 206.md",
+    "FUC202/(FUC_202)_200_LEVEL_FIQH_MATERIALS_FOR_SECOND_SEMESTER_18-19[1].pdf",
+    "CPS 204/Predicate Logic.md",
+    "CPS 204/CPS 204 Documents/rulesofinference.pdf",
+    "CPS 204/CPS 204 Documents/inferencee2.pdf"
   ]
 }

@@ -11,12 +11,9 @@
             "id": "5e30e469647c8e52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CPS 202/Array.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "CPS 204/CPS 204 Documents/inferencee2.pdf"
               }
             }
           }
@@ -86,7 +83,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CPS 202/Array.md",
+            "file": "CPS 204/CPS 204 Documents/inferencee2.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +95,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CPS 202/Array.md"
+            "file": "CPS 204/CPS 204 Documents/inferencee2.pdf"
           }
         }
       }
@@ -110,15 +107,15 @@
   },
   "active": "5e30e469647c8e52",
   "lastOpenFiles": [
-    "Practice Exercises.md",
-    "CPS 202/Array.md",
+    "GNS 106/GNS 106.md",
+    "GNS 104/Course Outline.pdf",
+    "CPS 206/Process  Scheduling.md",
+    "CPS 206/Operating System I.md",
+    "CPS 204/CPS 204 Documents/rulesofinference.pdf",
+    "CPS 202/Sorting Classwork.md",
+    "FUC202/FUC202.md",
     "GNS 206/State-Citizen Relation.md",
-    "GNS 206/State-Citizen Relation.pdf",
-    "CPS 102/Class 1.md",
-    "CPS 102/Assignment 4.md",
-    "CPS 202/Factorial.md",
-    "STA210/sta 202 - Random variable.pdf",
-    "STA210/STA210.md",
-    "FUC202/FUC202.md"
+    "GNS 106/GNS 106.pdf",
+    "CPS 202/Array.md"
   ]
 }

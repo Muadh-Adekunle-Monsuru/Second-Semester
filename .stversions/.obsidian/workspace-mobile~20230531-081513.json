@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d19c61fd7f0efc7e",
+        "id": "4bf9987ed4ed7032",
         "type": "tabs",
         "children": [
           {
-            "id": "499cfde9e78d8691",
+            "id": "5e30e469647c8e52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 102/Class 1.md",
+                "file": "CPS 204/Sets.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CPS 102/Class 1.md",
+            "file": "CPS 204/Sets.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CPS 102/Class 1.md"
+            "file": "CPS 204/Sets.md"
           }
         }
       }
@@ -108,14 +108,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "499cfde9e78d8691",
+  "active": "5e30e469647c8e52",
   "lastOpenFiles": [
-    "CPS 102/Assignment 4.md",
-    "CPS 202/Factorial.md",
-    "STA210/sta 202 - Random variable.pdf",
-    "STA210/STA210.md",
-    "FUC202/FUC202.md",
-    "CPS 208/Assignment 1.md",
-    "CPS204 Assignment.pdf"
+    "CPS 204/LATEX.md",
+    "GNS 206/State-Citizen Relation.md",
+    "GNS 206/Indigene Settlers in Nigeria.md",
+    "GNS 206/Conflicts.md",
+    "GNS 206/Historical Evolution of Nigeria.md",
+    "GNS 206/GNS 206 Past Question.md",
+    "GNS 206/GNS 206.md",
+    "GNS 206/Conflicts Among Nations.md",
+    "CPS 204/CPS 204 Documents/rulesofinference.pdf",
+    "CPS 204/Rules of Inference.md"
   ]
 }

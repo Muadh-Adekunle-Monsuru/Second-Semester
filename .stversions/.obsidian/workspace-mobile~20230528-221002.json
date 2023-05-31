@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FUC202/FUC202.md",
-                "mode": "preview",
+                "file": "CPS 204/Predicate Logic.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "FUC202/FUC202.md",
+            "file": "CPS 204/Predicate Logic.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "FUC202/FUC202.md"
+            "file": "CPS 204/Predicate Logic.md"
           }
         }
       }
@@ -110,15 +110,15 @@
   },
   "active": "5e30e469647c8e52",
   "lastOpenFiles": [
+    "CPS 204/CPS 204 Documents/rulesofinference.pdf",
+    "CPS 204/CPS 204 Documents/inferencee2.pdf",
     "GNS 106/GNS 106.md",
-    "GNS 206/State-Citizen Relation.md",
-    "GNS 106/GNS 106.pdf",
+    "GNS 104/Course Outline.pdf",
     "CPS 206/Process  Scheduling.md",
-    "CPS 202/Array.md",
-    "Practice Exercises.md",
-    "GNS 206/State-Citizen Relation.pdf",
-    "CPS 102/Class 1.md",
-    "CPS 102/Assignment 4.md",
-    "CPS 202/Factorial.md"
+    "CPS 206/Operating System I.md",
+    "CPS 202/Sorting Classwork.md",
+    "FUC202/FUC202.md",
+    "GNS 206/State-Citizen Relation.md",
+    "GNS 106/GNS 106.pdf"
   ]
 }

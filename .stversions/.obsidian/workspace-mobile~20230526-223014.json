@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "GNS 106/GNS 106.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -108,17 +108,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5e30e469647c8e52",
+  "active": "647c967cf3fcff64",
   "lastOpenFiles": [
-    "GNS 106/GNS 106.pdf",
-    "GNS 106/GNS 106.md",
+    "GNS 104/Course Outline.pdf",
     "CPS 206/Process  Scheduling.md",
-    "CPS 202/Array.md",
-    "Practice Exercises.md",
+    "CPS 206/Operating System I.md",
+    "CPS 204/CPS 204 Documents/rulesofinference.pdf",
+    "CPS 202/Sorting Classwork.md",
+    "FUC202/FUC202.md",
+    "GNS 106/GNS 106.md",
     "GNS 206/State-Citizen Relation.md",
-    "GNS 206/State-Citizen Relation.pdf",
-    "CPS 102/Class 1.md",
-    "CPS 102/Assignment 4.md",
-    "CPS 202/Factorial.md"
+    "GNS 106/GNS 106.pdf",
+    "CPS 202/Array.md"
   ]
 }
