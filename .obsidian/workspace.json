@@ -1,77 +1,40 @@
 {
   "main": {
-    "id": "851ac1f480aae0e1",
+    "id": "e4d337303e6c45e0",
     "type": "split",
     "children": [
       {
-        "id": "7d7db86c0d693b0d",
+        "id": "eda98f16006bd408",
         "type": "tabs",
         "children": [
           {
-            "id": "8d7de425f41417d6",
+            "id": "d494f2a34b0ff0a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 106/Module 2 Unit 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5afa6f8998e9195f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 106/assignments/Assignment 7.md",
+                "file": "GNS 102/Paragraphing Quesions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4dc42d5325e816b3",
+    "id": "93c592c6dd29f9d2",
     "type": "split",
     "children": [
       {
-        "id": "ea935a5fd4238867",
+        "id": "c4a38da96a6207c8",
         "type": "tabs",
         "children": [
           {
-            "id": "b16bc42f1b142025",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "Note",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "7b603e402a153cee",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "feddc9c6504da124",
+            "id": "060fae4a4a6af9fb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,42 +44,56 @@
             }
           },
           {
-            "id": "4d92d30f71815f02",
+            "id": "3a5387904d72b7b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fac1a0a19a3692da",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.50260543823242
   },
   "right": {
-    "id": "9431c1a2ecf4186d",
+    "id": "8a1a062e41c60122",
     "type": "split",
     "children": [
       {
-        "id": "3b66be78edc6d6ae",
+        "id": "cfc25ab82c7a533f",
         "type": "tabs",
         "children": [
           {
-            "id": "5d55c233be2b33e1",
+            "id": "e37855e59c956340",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 106/Module 2 Unit 5.md",
+                "file": "GNS 102/Paragraphing Quesions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "59ab6f4ea33ad3cf",
+            "id": "8fd311446e87f745",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,21 +104,20 @@
             }
           },
           {
-            "id": "51dee09248efde3b",
+            "id": "20ba6cd9714e18e0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 106/Module 2 Unit 5.md"
+                "file": "GNS 102/Paragraphing Quesions.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -153,63 +129,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d7de425f41417d6",
+  "active": "d494f2a34b0ff0a0",
   "lastOpenFiles": [
-    "CPS 106/assignments/Assignment 7.md",
-    "CPS 106/Module 2 Unit 5.md",
-    "CPS 106/Module 2 Unit 4.md",
-    "CPS 106/CPS 106 Documents/UNIT7INTRODUCTION TO BASIC SQL.pdf",
-    "CPS 106/CPS 106 Documents/Past Question Solutions.md",
-    "CPS 204/Propositions.md",
-    "CPS 208/CPS 208.md",
-    "CPS 102/Basic.md",
-    "CPS 102/Running Basic.md",
-    "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf",
-    "CPS 204/Sets.md",
-    "CPS 204/Untitled.md",
-    "CPS 204/CPS 204 Documents/chapter 4.pdf",
-    "CPS 204/CPS 204 Documents/chapter 3.pdf",
-    "CPS 204/CPS 204 Documents/Untitled.md",
-    "CPS 204/LATEX.md",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/L05.pdf",
-    "CPS 204/Predicate Arguments.md",
-    "GNS 206/Historical Evolution of Nigeria.md",
-    "GNS 206/State-Citizen Relation.md",
-    "GNS 206/Indigene Settlers in Nigeria.md",
-    "CPS 204/Predicate Logic.md",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/inferencee2.pdf",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/04InferenceRulesProofMethods.pdf",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/Unconfirmed 963685.crdownload",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/lecture07.pdf",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/Unconfirmed 843990.crdownload",
-    "CPS 204/Predicate Function Questions.md",
-    "CPS 204/Rules of Inference.md",
-    "CPS 204/Revision.md",
-    "FUC202/FUC202.md",
-    "GNS 104/GNS104 Summary Incomplete.md",
-    "GNS 104/Week 3-4.md",
     "GNS 102/Paragraphing.md",
-    "GNS 102/Summary.md",
-    "GNS 206/Conflicts Among Nations.md",
-    "CPS 204/images/Pasted image 20230523120439.png",
-    "CPS 204/images/Pasted image 20230523120411.png",
-    "CPS 204/images/Pasted image 20230523113705.png",
-    "CPS 202/images/Pasted image 20230515111352.png",
-    "CPS 208/Canvas/Computer Performance.canvas",
-    "GNS 102/summary.jpeg",
-    "CPS 204/images/Pasted image 20230514101735.png",
-    "CPS 204/images/Pasted image 20230514093315.png",
-    "CPS 204/images/Pasted image 20230514093232.png",
-    "CPS 204/images/Pasted image 20230514093057.png",
-    "CPS 204/images/Pasted image 20230514093037.png",
-    "CPS 208/Canvas/Computer Basic.canvas",
-    "CPS 208/Canvas/BuildingBlock.canvas",
-    "CPS 208/Canvas/Encoder & Decoder.canvas",
-    "CPS 206/canva/Process States & Transitions.canvas",
-    "Arduino/Display.canvas",
-    "CPS 102/Arduino/Display.canvas",
-    "CPS 202/images/Process of Program Compilation.canvas",
-    "Untitled 1.canvas",
-    "STA210/Learning R/Untitled.canvas"
+    "GNS 102/Paragraphing Quesions.md",
+    "GNS 102/Docs/GNS 102 latest-1.pdf",
+    "GNS 102/Docs/writing_task_2_developing_paragraphs.pdf",
+    "GNS 102/Docs/THE PARAGRAPH PART 2 copia.pdf",
+    "GNS 102/Docs/paragraphing.pdf",
+    "GNS 102/Passages/CP 10.md",
+    "GNS 102/Passages/CP 9.md",
+    "GNS 102/Passages/CP 8.md",
+    "GNS 102/Passages/CP 7.md",
+    "GNS 102/Passages/CP 5.md",
+    "GNS 102/Passages/CP 6.md",
+    "GNS 102/Passages/CP 4.md",
+    "GNS 102/Answered/CP 5 Answered.md",
+    "GNS 102/Answered/CP 4 Answered.md",
+    "GNS 104/Course Outline.pdf",
+    "GNS 104/GNS104 Summary Incomplete.md",
+    "GNS 104/A HISTORY OF SCIENCE-1.pdf",
+    "CPS 106/Intro To SQL.md",
+    "CPS 106/Group.md",
+    "STA210/intro_prob.pdf",
+    "STA210/STA210 2021_2022.pdf",
+    "STA210/STA210.md",
+    "STA210/ch4.pdf",
+    "STA210/lecturenotes3-10.pdf",
+    "CPS 208/DOcuments/Relevant Questions.md",
+    "CPS 102/Assignment 4.md",
+    "CPS 102/Assignment 3.md",
+    "CPS 102/Assignment 2.md",
+    "CPS 102/Assignment 1.md",
+    "CPS 108/CPS108 Assignment 1.md",
+    "CPS 108/Solved Past Question.md",
+    "CPS 108/CPS 108.md",
+    "CPS 108/Network Topology.md",
+    "CPS 108/Introduction to Computer Networking.md",
+    "CPS 108/CPS108 Assignment 2.md",
+    "CPS 208/images/Pasted image 20230605205456.png",
+    "CPS 208/images/Pasted image 20230605205355.png",
+    "CPS 208/images/Pasted image 20230605204757.png",
+    "CPS 206/CPS206 Document/WhatsApp Image 2023-05-14 at 12.23.24.jpg",
+    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_132514.jpg",
+    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_130855.jpg",
+    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_131119.jpg",
+    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_130806.jpg",
+    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_132832.jpg",
+    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_130744.jpg",
+    "CPS 206/canva/Process States & Transitions.canvas"
   ]
 }

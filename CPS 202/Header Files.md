@@ -15,6 +15,6 @@ Also called preprocessor directive
 - **<float.h>** Contains a set of various platform-dependent constants related to floating point values. e()
 - **<math.h>** Contains functions that are used to perform mathematical operations, sqrt(), sine())
 - **<stdio.h>** Used to perform input and output operations. scanf(), printf()
-- **<string.h>** Used to perform various functionalities related to string manipultation. strln(), strcmp()
+- **<string.h>** Used to perform various functionalities related to string manipultation. strlen(), strcmp()
 - **<time.h>** Use to perform functions related to date() and time()
 - <conio.h> console input output

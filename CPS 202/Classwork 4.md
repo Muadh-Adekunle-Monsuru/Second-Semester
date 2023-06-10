@@ -1,4 +1,4 @@
-Write a program to pring all even numbers between 2 and 40
+Write a program to print all even numbers between 2 and 40
 ```c
 
 #include <stdio.h>

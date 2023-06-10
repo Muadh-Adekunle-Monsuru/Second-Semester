@@ -75,7 +75,7 @@ Consider the following processes that arrived with the priority  shown in the ta
 	4. Round-robin (Quantum size = 3)
 2. The average waiting time from each algorithm and waiting time for each process
 
-Process | Burst time | pritority 
+Process | Burst time | priority 
 ---|---|---
 P1 |8 |4
 P2 | 6  | 1
@@ -84,4 +84,11 @@ P4 | 9 | 2
 P5 | 3 | 3
 
 
-synchronization 
+Process | Arrival Time | Burst Time | Priority
+--- | --- | --- | ---
+p1 | 0 | 7 | 2
+p2 | 1 | 5 | 3
+p3 | 2 | 3 | 4
+p4 | 3 | 1 | 5
+p5 | 4 | 2 | 5
+p6 | 5 | 1 | 3

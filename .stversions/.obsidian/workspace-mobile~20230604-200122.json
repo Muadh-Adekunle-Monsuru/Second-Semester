@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNS 206/Historical Evolution of Nigeria.md",
-                "mode": "source",
+                "file": "CPS 206/CPS 206 Past Question Solved.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "GNS 206/Historical Evolution of Nigeria.md",
+            "file": "CPS 206/CPS 206 Past Question Solved.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "GNS 206/Historical Evolution of Nigeria.md"
+            "file": "CPS 206/CPS 206 Past Question Solved.md"
           }
         }
       }
@@ -110,15 +110,15 @@
   },
   "active": "5e30e469647c8e52",
   "lastOpenFiles": [
-    "GNS 206/State-Citizen Relation.md",
-    "GNS 206/Conflicts.md",
-    "GNS 206/Indigene Settlers in Nigeria.md",
-    "GNS 206/Historical Evolution of Nigeria.md",
-    "GNS 206/Conflicts Among Nations.md",
-    "GNS 206/GNS 206.md",
-    "FUC202/(FUC_202)_200_LEVEL_FIQH_MATERIALS_FOR_SECOND_SEMESTER_18-19[1].pdf",
-    "CPS 204/Predicate Logic.md",
-    "CPS 204/CPS 204 Documents/rulesofinference.pdf",
-    "CPS 204/CPS 204 Documents/inferencee2.pdf"
+    "CPS 202/QP/2021-2022.md",
+    "CPS 206/assignments/Assignment 2.md",
+    "CPS 206/assignments/Assignment 1 CPS 206.md",
+    "CPS 202/Array.md",
+    "GNS 104/GNS104 Summary Incomplete.md",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/L05.pdf",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/inferencee2.pdf",
+    "CPS 204/Predicate Arguments.md",
+    "CPS 204/Rules of Inference.md",
+    "CPS 204/Predicate Function Questions.md"
   ]
 }

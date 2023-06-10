@@ -1,12 +1,12 @@
 Array is a (group) of related data items, which common data types which occupies a contiguous location in the computer memory
 Features of an array
-1. They are referreed to with a common name
-2. Each element of the array is differentiated with an attatached subscript
+1. They are referred to with a common name
+2. Each element of the array is differentiated with an attached subscript
 3. They have the same data type
-4. They occupt contiguous memory location when they are stored
+4. They occupy contiguous memory location when they are stored
 
 Types of array
-1. One-dimenstional: Row-wise(one column multiple rows, or  column wise(one row multiple columns)
+1. One-dimensional: Row-wise(one column multiple rows, or  column wise(one row multiple columns)
 2. Two-dimensional array: Has rows and columns![](images/Pasted%20image%2020230515111352.png)
 3. Multi-dimensional arrays;
 

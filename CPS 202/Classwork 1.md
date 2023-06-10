@@ -1,4 +1,5 @@
 Fountain ventures has decided to embark on promo incentives to encourage patronage. The following schedule shows the discount incentives due to its customers
+
 s/n | Description | Discount
 ---|---|---
 1.| Goods withing #5000 range | 10%

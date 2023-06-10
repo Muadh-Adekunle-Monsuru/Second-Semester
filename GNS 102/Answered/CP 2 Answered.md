@@ -10,18 +10,31 @@ It is based on these realities that we draw the conclusion that not everyone wil
 
 Our greatest consolation lies in our deep conviction that true prosperity is in fulfilment through hard work that in intangible acquisitions. There are set roles that some of us have been wired up to paying life but which we are not content enough to pay because society esteems such roles to be inferior. Take the almost sacred office of a teacher for instance, there are people who have the natural gifts and _inclinations to be school teachers._ but the teaching profession, as it is, does not appear to be lucrative. So we have people who would have been fulfilled and effective working as school teachers serving in banks.
 
+According to the passage, balance must be enthroned because it is
+Options
+A)a critical interdependent function
+<mark style="background: #BBFABBA6;">B)an amazing help for conscience</mark>
+<mark style="background: #FF5582A6;">**C)a critical part of fidelity**</mark>
+D)a serious way of ensuring success
+
+The word inclinations, as used in the passage, means
+Options
+A)creeds
+<mark style="background: #BBFABBA6;">**B)tendencies**</mark>
+C)inhibitions
+D)power
+
 
 Which of the following statements is true according to the passage?
 Options
 A)Greatness in life emerges when square pegs are put in round holes
-B)People do certain things in life because they know the repercussion
+<mark style="background: #BBFABBA6;">**B)People do certain things in life because they know the repercussion**</mark>
 C)People agree on all issues and behave the same way for the same reason
-D)Understanding life at different levels gives no account of visible acquisition
+<mark style="background: #FF5582A6;">D)Understanding life at different levels gives no account of visible acquisition</mark>
 
 From the passage, it can be inferred that
 Options
 A)people insincerely discuss facts that govern their behaviour
-B)all managerial decisions are based on assumptions
-C)people make conscious efforts to acquire hidden knowledge
+<mark style="background: #FF5582A6;">**B)all managerial decisions are based on assumptions**</mark>
+<mark style="background: #BBFABBA6;">C)people make conscious efforts to acquire hidden knowledge</mark>
 D)all things in life exist on some beliefs
-

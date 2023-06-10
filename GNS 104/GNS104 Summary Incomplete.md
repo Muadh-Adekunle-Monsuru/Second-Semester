@@ -10,8 +10,8 @@
 **Science as a method of acquiring knowledge:** Science has well-known procedures for obtaining knowledge. 
 The scientific method:
 - Observation
-- Problem Hypothesis
-- Formulation
+- Problem Formulation
+- Hypothesis
 - Experimentation
 - conclusion
 - Theory Formulation
@@ -51,15 +51,6 @@ However, science also has limitations. Science cannot answer moral, aesthetic, o
 ---
 ## Week 3
 ## Egypt
-
-More  important  than  all  else,  our  Egyptian  of  the  earliest  historical period was in possession of the art of writing. He had begun to make those specific records  which  were  impossible  to  the  man  of  the  Stone  Age,  and  thus  he  had entered fully upon the way of historical progress which, as already pointed out, has its very foundation in written records. 
-
-The  evidence  seems  to  suggest  than  an  invasion  of  relatively  cultured people from the East overthrew, and in time supplanted, the Neolithic civilization of  the  Nile  Valley.  It  is  impossible  to  date  this  invasion  accurately,  but  it  cannot well  have been  later  than  the year 5000  B.C
-
-Be the exact dates what they may, we find the Egyptian of the fifth millennium B.C. in full possession of a highly organized civilization
-
-
-They prove that the Egyptian of that  early  day  had  attained  a  knowledge  of  practical  mechanics  which,  even  from the twentieth-century point of view, is not to be spoken of lightly 
 
 
 Each  separate  part  of  Egypt  had  its  own  hierarchy  of  gods, and  more  or  less  its  own  explanations  of  cosmogony.  There  does  not  appear  to have  been  any  one  central  story  of  creation  that  found  universal  acceptance,  any more than there was one specific deity everywhere recognized as supreme among the  gods.
@@ -179,3 +170,38 @@ The history of medicine is rich with contributions from various civilizations an
 - The development of pharmacology and pharmacy as distinct sciences that involved the identification, classification, preparation and testing of drugs. The Arabs were pioneers in extracting and synthesizing chemical compounds from plants, animals and minerals, and they experimented with various methods of drug delivery such as pills, syrups, ointments and inhalations. They also wrote comprehensive manuals on pharmacology and pharmacy, such as The Canon of Medicine by Ibn Sina (Avicenna) and Al-Qanun fi al-Tibb (The Law of Medicine) by Ibn al-Nafis, which were translated into Latin and other languages and used as textbooks in Europe for centuries.
 - The advancement of anatomy and physiology through dissection, observation and experimentation. The Arabs challenged some of the erroneous views of Galen and Aristotle on human anatomy and physiology, and they discovered new facts and phenomena such as the circulation of blood, the function of the lungs, the structure of the eye and the nervous system. They also performed surgical operations such as cauterization, amputation, lithotomy and cataract removal, using instruments such as scalpels, forceps, scissors and needles. They also invented anesthesia by using opium, mandrake and other substances to induce sleep or numbness in patients.
 - The innovation of medical ethics and professionalism that emphasized the moral responsibility and accountability of physicians towards their patients and society. The Arabs followed the Hippocratic oath and added their own principles such as compassion, honesty, confidentiality and beneficence. They also established standards and regulations for medical practice such as licensing, certification, examination and peer review. They also wrote treatises on medical ethics such as Al-Risala al-Dhahabiyya (The Golden Treatise) by Al-Razi (Rhazes) and Al-Tibb al-Nabawi (Prophetic Medicine) by Ibn Qayyim al-Jawziyya.
+
+---
+### Week 9
+Ibn Sina
+Ibn Sina, also known as Avicenna in the West, was a Persian philosopher and physician who lived from 980 to 1037 CE. He is considered one of the most influential thinkers and writers of the Islamic Golden Age, and the father of early modern medicine. He wrote over 450 works on various subjects, of which around 240 have survived. His most famous works are the Kitab al-Shifa (The Book of Healing), a comprehensive encyclopedia of philosophy and science, and the Al-Qanun fi al-Tibb (The Canon of Medicine), a landmark textbook of medicine that was used for centuries in both the Islamic world and Europe.
+
+Ibn Sina was born near Bukhara, in present-day Uzbekistan, to a local governor and a Tajik woman. He was a prodigy who learned the Quran by heart at the age of 10 and mastered logic, mathematics, physics, metaphysics, and medicine by the age of 16. He cured the sultan of Bukhara from a serious illness and gained access to the royal library, where he studied the works of Aristotle, Plato, Galen, Hippocrates, and other ancient philosophers and physicians. He also traveled extensively throughout Central Asia and Persia, serving as a physician, teacher, judge, and vizier for various rulers and patrons. He faced many hardships and dangers during his travels, such as imprisonment, exile, assassination attempts, and political turmoil.
+
+Ibn Sina's philosophy was based on a synthesis of Aristotelianism and Neoplatonism with Islamic theology. He developed a rationalist system that emphasized the role of reason and logic in acquiring knowledge and understanding reality. He also argued for the existence of God as the Necessary Being and the First Cause of all things. He distinguished between essence and existence, potentiality and actuality, substance and accident, and matter and form. He also proposed a theory of emanation that explained how the multiplicity of beings originated from the One. He also discussed topics such as free will, divine providence, predestination, resurrection, prophecy, miracles, and ethics.
+
+Ibn Sina's medicine was based on a holistic approach that integrated theory and practice, observation and experimentation, anatomy and physiology, diagnosis and treatment. He classified diseases into general and specific categories, described their causes, symptoms, complications, and cures. He also introduced many innovations in medicine, such as clinical trials, quarantine, differential diagnosis, evidence-based medicine, pharmacology, anatomy, surgery, dentistry, psychology, and psychiatry. He also wrote about hygiene, nutrition, exercise, cosmetics, geriatrics, pediatrics, gynecology, obstetrics, sexuality, and ethics.
+
+Ibn Sina's legacy is immense and enduring. He influenced many philosophers and scientists in the Islamic world and beyond. His works were translated into Latin, Hebrew, Turkish, Persian,
+
+---
+### Week 10
+Al-Razi (865-925 CE) was a Persian polymath who made significant contributions to various fields of science, medicine, philosophy, and literature. He is regarded as one of the greatest physicians of all time and the father of pediatrics. He wrote over 200 books and treatises, many of which have survived and influenced later generations of scholars.
+
+Al-Razi was born in Rayy, near present-day Tehran, Iran. He showed an early interest in music and alchemy, and studied under a famous alchemist named Abu Bakr al-Khwarizmi. He later became the chief physician of the hospitals in Rayy and Baghdad, where he practiced and taught medicine for over 40 years. He also traveled extensively throughout the Islamic world and visited India and Egypt.
+
+Al-Razi was a pioneer in many aspects of medicine, such as clinical observation, diagnosis, prognosis, experimental medicine, pharmacology, surgery, and ethics. He was the first to use alcohol as an antiseptic and to differentiate between smallpox and measles. He also wrote extensively on anatomy, physiology, pathology, psychology, ophthalmology, dentistry, and nutrition. He was especially interested in pediatrics and wrote a book on the diseases of children.
+
+Al-Razi was also a prolific philosopher and theologian who wrote on logic, metaphysics, ethics, and Islamic law. He was influenced by Greek philosophy, especially by Plato and Aristotle. He also studied the works of Indian and Persian thinkers. He was a rationalist who rejected blind faith and superstition. He advocated for free inquiry and tolerance of different opinions. He also defended the rights of women and the poor.
+
+Al-Razi was a man of immense learning and curiosity who left a lasting legacy in the history of science and civilization. He was admired by his contemporaries and praised by later scholars such as Ibn Sina, Ibn Rushd, and Maimonides. He was also respected by European scholars who translated his works into Latin and other languages. He is considered one of the most original and influential thinkers of the Islamic Golden Age.
+
+---
+## Effects of crusades on Islamic Institutions
+The Crusades were a series of religious wars between Christians and Muslims in the Middle Ages, mainly fought over control of the Holy Land. The Crusades had a significant impact on both Islamic and European civilizations, as they brought about cultural, political, and economic changes.
+
+One of the effects of the Crusades on Islamic civilization was the development of military orders, such as the Assassins and the Mamluks, who played an important role in defending Muslim territories from Christian invaders. The Crusades also stimulated a sense of unity and identity among Muslims, who rallied under the banner of jihad or holy struggle against the infidels. The Crusades also fostered intellectual exchanges between Muslims and Christians, as many European scholars traveled to Muslim lands to learn from their advances in science, medicine, philosophy, and art.
+
+Another effect of the Crusades on Islamic civilization was the disruption of trade and commerce, as the Crusaders looted and destroyed many cities and towns along their routes. The Crusades also caused political instability and fragmentation in the Muslim world, as different dynasties and factions competed for power and influence. The Crusades also weakened the Byzantine Empire, which had been a buffer between Islam and Europe, and paved the way for its eventual collapse at the hands of the Ottoman Turks.
+
+The Crusades had a lasting impact on the relations between Islam and Europe, as they created a legacy of mistrust, hostility, and resentment that still persists today. The Crusades also shaped the modern perception of both civilizations, as they were used to justify colonialism, warfare in later centuries. 

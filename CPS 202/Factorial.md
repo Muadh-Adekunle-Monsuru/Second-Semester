@@ -10,7 +10,7 @@ int main(){
     if(n==0){
         fact =1;
     }else{
-            for(i=1;i<n;i++){
+            for(i=1;i<=n;i++){
                     fact *= i;
             }
     }

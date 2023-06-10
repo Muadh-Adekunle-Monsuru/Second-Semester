@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNS 106/GNS 106.md",
-                "mode": "source",
+                "file": "CPS 206/CPS 206 Past Question Solved.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "GNS 106/GNS 106.md",
+            "file": "CPS 206/CPS 206 Past Question Solved.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "GNS 106/GNS 106.md"
+            "file": "CPS 206/CPS 206 Past Question Solved.md"
           }
         }
       }
@@ -108,17 +108,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "647c967cf3fcff64",
+  "active": "5e30e469647c8e52",
   "lastOpenFiles": [
-    "GNS 104/Course Outline.pdf",
-    "CPS 206/Process  Scheduling.md",
-    "CPS 206/Operating System I.md",
-    "CPS 204/CPS 204 Documents/rulesofinference.pdf",
-    "CPS 202/Sorting Classwork.md",
-    "FUC202/FUC202.md",
-    "GNS 106/GNS 106.md",
-    "GNS 206/State-Citizen Relation.md",
-    "GNS 106/GNS 106.pdf",
-    "CPS 202/Array.md"
+    "CPS 202/QP/2021-2022.md",
+    "CPS 206/assignments/Assignment 2.md",
+    "CPS 206/assignments/Assignment 1 CPS 206.md",
+    "CPS 202/Array.md",
+    "GNS 104/GNS104 Summary Incomplete.md",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/L05.pdf",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/inferencee2.pdf",
+    "CPS 204/Predicate Arguments.md",
+    "CPS 204/Rules of Inference.md",
+    "CPS 204/Predicate Function Questions.md"
   ]
 }

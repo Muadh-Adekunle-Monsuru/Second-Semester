@@ -1,18 +1,17 @@
 {
 	"nodes":[
-		{"id":"0123db38e6fbd822","x":320,"y":-960,"width":1577,"height":420,"type":"group","label":"Untitled group"},
-		{"type":"text","text":"New","id":"66397cc9b1e866ea","x":340,"y":-940,"width":85,"height":60},
-		{"type":"text","text":"Terminated","id":"cde5f919edd9a1f7","x":1700,"y":-790,"width":177,"height":50},
-		{"type":"text","text":"Ready/Waiting","id":"2925d04db547ff49","x":640,"y":-785,"width":120,"height":90},
+		{"type":"text","text":"Terminated","id":"cde5f919edd9a1f7","x":1700,"y":-790,"width":177,"height":50,"color":"4"},
 		{"type":"text","text":"Running","id":"62f2cece9d6d46f9","x":1281,"y":-910,"width":145,"height":60},
-		{"type":"text","text":"Blocked","id":"1db6c0b16abcd2ae","x":1084,"y":-620,"width":197,"height":60}
+		{"type":"text","text":"New Process","id":"66397cc9b1e866ea","x":20,"y":-780,"width":165,"height":60},
+		{"type":"text","text":"Ready/Waiting","id":"2925d04db547ff49","x":540,"y":-830,"width":160,"height":65},
+		{"type":"text","text":"Blocked","id":"1db6c0b16abcd2ae","x":1020,"y":-620,"width":120,"height":60}
 	],
 	"edges":[
-		{"id":"af29b8f9bcae6811","fromNode":"66397cc9b1e866ea","fromSide":"right","toNode":"2925d04db547ff49","toSide":"left","label":"ready to exectute"},
-		{"id":"cb4d4a13441e8611","fromNode":"2925d04db547ff49","fromSide":"right","toNode":"62f2cece9d6d46f9","toSide":"left","label":"availability of processor"},
-		{"id":"b430ed2f83c0e6ed","fromNode":"62f2cece9d6d46f9","fromSide":"bottom","toNode":"1db6c0b16abcd2ae","toSide":"top","label":"Waiting for an input/output event to occur"},
-		{"id":"d7f170f343ed40c8","fromNode":"1db6c0b16abcd2ae","fromSide":"bottom","toNode":"2925d04db547ff49","toSide":"bottom","label":"Input/Output event occured"},
-		{"id":"1aff51f287944601","fromNode":"62f2cece9d6d46f9","fromSide":"top","toNode":"2925d04db547ff49","toSide":"top","label":"Time expired\n\n"},
-		{"id":"71cc04ce79e44ed8","fromNode":"62f2cece9d6d46f9","fromSide":"right","toNode":"cde5f919edd9a1f7","toSide":"left","label":"Finished Execution"}
+		{"id":"af29b8f9bcae6811","fromNode":"66397cc9b1e866ea","fromSide":"right","toNode":"2925d04db547ff49","toSide":"left","color":"5","label":"ready to exectute"},
+		{"id":"cb4d4a13441e8611","fromNode":"2925d04db547ff49","fromSide":"right","toNode":"62f2cece9d6d46f9","toSide":"left","color":"6","label":"availability of processor"},
+		{"id":"b430ed2f83c0e6ed","fromNode":"62f2cece9d6d46f9","fromSide":"bottom","toNode":"1db6c0b16abcd2ae","toSide":"top","color":"3","label":"Waiting for an input/output event to occur"},
+		{"id":"d7f170f343ed40c8","fromNode":"1db6c0b16abcd2ae","fromSide":"bottom","toNode":"2925d04db547ff49","toSide":"bottom","color":"4","label":"Input/Output event occured"},
+		{"id":"1aff51f287944601","fromNode":"62f2cece9d6d46f9","fromSide":"top","toNode":"2925d04db547ff49","toSide":"top","color":"3","label":"Time expired\n\n"},
+		{"id":"71cc04ce79e44ed8","fromNode":"62f2cece9d6d46f9","fromSide":"right","toNode":"cde5f919edd9a1f7","toSide":"left","color":"3","label":"Finished Execution"}
 	]
 }

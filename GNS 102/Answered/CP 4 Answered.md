@@ -9,7 +9,7 @@ According to the passage, the difference between the developing countries and th
 
 Options
 A)A modern sector, the latter does not
-B)Two conflicting sectors, the latter have one
+<mark style="background: #BBFABBA6;">**B)Two conflicting sectors, the latter have one**</mark>
 C)Higher rural unemployment, the latter have higher urban unemployment
 D)Appropriate intermediate technology, the latter adopt inappropriate one
 
@@ -17,27 +17,26 @@ Which of the following statements best explains the meaning of the phrase ‘rev
 Options
 A)Return to the former state of affairs
 B)Reappraise the programme
-C)Improve the situation
+<mark style="background: #BBFABBA6;">**C)Improve the situation**</mark>
 D)Make the rich become poorer
 
 From the way the winter describes the typical condition of the poor in developing countries, one could conclude that
 Options
-A)Rural poverty is a disease
+<mark style="background: #FF5582A6;">**A)Rural poverty is a disease**</mark>
 B)The poor have no hope
 C)Rural poverty is caused by rich
-D)The problems of the poor are temporary
+<mark style="background: #BBFABBA6;">D)The problems of the poor are temporary</mark>
 
 When the writer say ‘ …. literally millions of work places’ he wants the reader to
 Options
-A)Take the million figure literally
-B)Appreciate numerous workplaces
+<mark style="background: #FFB86CA6;">**A)Take the million figure literally**</mark>
+<mark style="background: #BBFABBA6;">B)Appreciate numerous workplaces</mark>
 C)Realize that the million figure is mere exaggeration
 D)Appreciate the size of the work force
 
-
 What is the point made by the writer about solving the problem of unemployment in developing countries?
 Options
-A)Use appropriate intermediate technology
+<mark style="background: #BBFABBA6;">**A)Use appropriate intermediate technology**</mark>
 B)A few people should produce a great deal
 C)Stop migration to cities
 D)Create more work places
