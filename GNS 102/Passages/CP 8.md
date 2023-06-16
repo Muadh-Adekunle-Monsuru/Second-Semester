@@ -7,14 +7,14 @@ Beggars! They are in every conceivable place. At the bank, the supermarket, the 
 An appropriate title for the passage is
 Options
 A)A picture , the young man and the female beggars
-B)Mad men and mendicants
+<mark style="background: #BBFABBA6;">B)Mad men and mendicants</mark>
 C)The problem of mad people in the society
-D)Young men and female beggars
+<mark style="background: #FF5582A6;">**D)Young men and female beggars**</mark>
 
 The writer is describing a
 Options
 A)Picture
-B)Man
+<mark style="background: #BBFABBA6;">**B)Man**</mark>
 C)Picture of man
 D)Manand a picture
 
@@ -23,18 +23,18 @@ _____this assessment’ refers to the man’s
 Options
 A)Face
 B)Hair
-C)Age
+<mark style="background: #BBFABBA6;">**C)Age**</mark>
 D)Naked
 
 ‘beggars’ in the context of the first line of the third paragraph is a
 Options
 A)phrase
 B)sentence
-C)noun
+<mark style="background: #BBFABBA6;">**C)noun**</mark>
 D)modifier
 
 The human waste referred by the writer is brought about by
 A)Over feeding
 B)The irresponsible men who put female beggars in the family way
-C)The mother beggars of tomorrow
+<mark style="background: #BBFABBA6;">**C)The mother beggars of tomorrow**</mark>
 D)The society

@@ -1,5 +1,3 @@
-https://nigerianscholars.com/past-questions/english-language/page/165/
-
 The disease afflicting Western societies have undergone dramatic changes. In the course of a century, so many mass killers have vanished that two-third of all deaths are now associated with the disease of old age. Those who die young are more often than not, the victims of accidents, violence and suicide.
 
 These changes in public health are generally equated with progress and attributed to more or better medical care. In fact there is no evidence of any direct relationship between changing disease pattern and the so-called progress of medicine.
@@ -12,26 +10,26 @@ The author’s attitude to developments in medicine is
 Options
 A)Matter-of-fact
 B)Cautious
-C)Indifferent
-D)cynical
+C)Indifferent<
+<mark style="background: #FFF3A3A6;">D)cynical</mark>✅
 
 The statement, ‘The diseases afflicting Western societies have undergone dramatic change, implies that
 Options
-A)Change have taken place in the mode of diseases affliction
+A)Change have taken place in the mode of diseases affliction✅
 B)Medical services have been important in changing life expectancy
 C)A lot of significant progress has taken place in public health
-D)Death from diseases in western societies are minimal
+<mark style="background: #FFF3A3A6;">D)Death from diseases in western societies are minimal</mark>❌
 
 The writer is of the view that the diseases which prevail in the contemporary Western societies
 Options
-A)Result from modern life styles
-B)Are concentrated among the elderly
+<mark style="background: #FFF3A3A6;">A)Result from modern life styles</mark>❌
+B)Are concentrated among the elderly✅
 C)Kill many people at once
 D)Are resistant to drug
 
 The author thinks that the presence of a large number of doctors in a community
 Options
-A)Does not have much effect on the control of diseases
+<mark style="background: #FFF3A3A6;">A)Does not have much effect on the control of diseases</mark>✅
 B)Disguise the true fact about the diseases
 C)Controls the spread of diseases
 D)Improves the overall quality of life in the community
@@ -41,4 +39,4 @@ Options
 A)Research facilities are available
 B)They are most needed
 C)They can be near colleagues
-D)Conditions are more in their favour
+<mark style="background: #FFF3A3A6;">D)Conditions are more in their favour</mark>✅

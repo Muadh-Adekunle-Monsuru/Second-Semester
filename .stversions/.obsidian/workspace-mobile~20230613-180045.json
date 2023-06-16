@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 206/CPS 206 Past Question Solved.md",
+                "file": "CPS 204/Predicate Arguments.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,6 +72,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "29db77c83b9f9d63",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -86,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CPS 206/CPS 206 Past Question Solved.md",
+            "file": "CPS 204/Predicate Arguments.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,27 +106,55 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CPS 206/CPS 206 Past Question Solved.md"
+            "file": "CPS 204/Predicate Arguments.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
   "active": "5e30e469647c8e52",
   "lastOpenFiles": [
-    "CPS 202/QP/2021-2022.md",
-    "CPS 206/assignments/Assignment 2.md",
-    "CPS 206/assignments/Assignment 1 CPS 206.md",
-    "CPS 202/Array.md",
-    "GNS 104/GNS104 Summary Incomplete.md",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/L05.pdf",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/inferencee2.pdf",
+    "CPS 108/New.md",
+    "CPS 108/Network Topology.md",
+    "GNS 102/Paragraphing Quesions.md",
+    "GNS 102/paragraphs/Describe a positive impact of community service on individuals ..md",
+    "CPS 204/Predicate Function Questions.md",
     "CPS 204/Predicate Arguments.md",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/inferencee2.pdf",
+    "CPS 204/CPS 204 Documents/Rules of Inferencee/04InferenceRulesProofMethods.pdf",
     "CPS 204/Rules of Inference.md",
-    "CPS 204/Predicate Function Questions.md"
+    "CPS 204/Untitled.md",
+    "GNS 102/Answered/CP 7 Answered.md",
+    "GNS 102/Answered/CP 6 Answered.md",
+    "CPS 204/Generalizations.md",
+    "STA210/STA210.md",
+    "STA210/STA210 2021_2022.pdf",
+    "CPS 208/DOcuments/solved.pdf",
+    "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf",
+    "CPS 204/CPS 204 Documents/Untitled.md",
+    "CPS 208/Canvas/Computer Performance.canvas",
+    "CPS 208/CPS 208.md",
+    "CPS 208/Organization VS Architecture.md",
+    "CPS 208/DOcuments/CPS208 2021_2022.pdf",
+    "CPS 102/Communication Technology Fundamental.md",
+    "CPS 102/Movement of Information Via Networks.md",
+    "CPS 102/Basic.md",
+    "CPS 102/Class 4.md",
+    "CPS 102/Running Basic.md",
+    "CPS 102/Logic Gate.md",
+    "CPS 102/Class 3.md",
+    "CPS 102/Class 2.md",
+    "CPS 102/Class 1.md",
+    "CPS 102/Assignment 4.md"
   ]
 }

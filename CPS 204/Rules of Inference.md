@@ -76,7 +76,7 @@ Simplification is a useful rule of inference because it allows us to reduce the 
 Rule: If you have two conditional statements "If P, then Q" and "If Q, then R", you can infer "If P, then R".
 
 > [!Example]
-> Statement > 1: If it is raining, then the ground is wet.
+> Statement  1: If it is raining, then the ground is wet.
 > Statement 2: If the ground is wet, then the grass is green.
 > Inference: Therefore, if it is raining, then the grass is green.
 
@@ -84,3 +84,5 @@ Test the validity Of the argument:
 • If it snows. Paul will miss class.
 • Paul did not miss class.
 • Therefore. it did not snow,
+
+

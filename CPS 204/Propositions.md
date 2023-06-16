@@ -44,6 +44,7 @@ Propositional Logic is a static discipline of statement which lack semantic cont
 Logic is used to establish the validity of arguments
 
 ### Logical Connectives;
+
 Operator | Symbol | Usage 
 -|-|-
 Negation | ¬ | not 
@@ -56,6 +57,7 @@ Biconditional | <-> ↔| If and only if iff
 #### Negation
 All students are intelligent, it is an atomic proposition since there is no connectives. 
 Its negation is ==Not all students are intelligent. ==
+
  P |  ¬P
 -|-
 T | F

@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "eda98f16006bd408",
+        "id": "df4468b22d0d42fb",
         "type": "tabs",
         "children": [
           {
-            "id": "d494f2a34b0ff0a0",
+            "id": "fcd0b8812785ada2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e4afdc58e136d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ebe82630cb1220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNS 102/Paragraphing Quesions.md",
+                "file": "CPS 204/Properties of Relation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "new",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.50260543823242
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8a1a062e41c60122",
@@ -86,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNS 102/Paragraphing Quesions.md",
+                "file": "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNS 102/Paragraphing Quesions.md"
+                "file": "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf"
               }
             }
           }
@@ -129,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d494f2a34b0ff0a0",
+  "active": "fcd0b8812785ada2",
   "lastOpenFiles": [
-    "GNS 102/Paragraphing.md",
-    "GNS 102/Paragraphing Quesions.md",
+    "CPS 204/Properties of Relation.md",
+    "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf",
+    "CPS 204/Propositions.md",
+    "CPS 106/Untitled 1.md",
+    "CPS 106/Untitled 2.md",
+    "CPS 106/Untitled.md",
+    "CPS 106/Intro To SQL.md",
+    "CPS 208/DOcuments/solved.pdf",
+    "CPS 204/Sets.md",
+    "CPS 204/Predicate Function Questions.md",
+    "GNS 104/GNS104 Summary.md",
+    "CPS 204/Predicate Arguments.md",
+    "GNS 102/Passages/CP 8.md",
+    "GNS 102/Passages/CP 9.md",
+    "GNS 102/Passages/CP 7.md",
+    "GNS 102/Passages/CP 6.md",
+    "GNS 102/paragraphs/Describe a positive impact of community service on individuals ..md",
     "GNS 102/Docs/GNS 102 latest-1.pdf",
+    "CPS 204/Predicate Logic.md",
+    "CPS 102/Basic.md",
+    "CPS 202/QP/Untitled.md",
+    "CPS 102/Class 3.md",
+    "CPS 102/Class 1.md",
+    "Images/Pasted.png",
+    "CPS 202/QP/2021-2022.md",
+    "CPS 108/New.md",
+    "CPS 108/~syncthing~New.md.tmp",
+    "GNS 102/~syncthing~Paragraphing Quesions.md.tmp",
+    "GNS 102/Passages/CP 7 1.md",
+    "GNS 102/Passages/CP 6 Answered.md",
+    "CPS 208/Complete CPS 208.md",
+    "STA210/~syncthing~STA210.md.tmp",
+    "GNS 102/paragraphs",
     "GNS 102/Docs/writing_task_2_developing_paragraphs.pdf",
     "GNS 102/Docs/THE PARAGRAPH PART 2 copia.pdf",
     "GNS 102/Docs/paragraphing.pdf",
-    "GNS 102/Passages/CP 10.md",
-    "GNS 102/Passages/CP 9.md",
-    "GNS 102/Passages/CP 8.md",
-    "GNS 102/Passages/CP 7.md",
-    "GNS 102/Passages/CP 5.md",
-    "GNS 102/Passages/CP 6.md",
-    "GNS 102/Passages/CP 4.md",
-    "GNS 102/Answered/CP 5 Answered.md",
-    "GNS 102/Answered/CP 4 Answered.md",
-    "GNS 104/Course Outline.pdf",
-    "GNS 104/GNS104 Summary Incomplete.md",
-    "GNS 104/A HISTORY OF SCIENCE-1.pdf",
-    "CPS 106/Intro To SQL.md",
-    "CPS 106/Group.md",
-    "STA210/intro_prob.pdf",
-    "STA210/STA210 2021_2022.pdf",
-    "STA210/STA210.md",
-    "STA210/ch4.pdf",
-    "STA210/lecturenotes3-10.pdf",
-    "CPS 208/DOcuments/Relevant Questions.md",
-    "CPS 102/Assignment 4.md",
-    "CPS 102/Assignment 3.md",
-    "CPS 102/Assignment 2.md",
-    "CPS 102/Assignment 1.md",
-    "CPS 108/CPS108 Assignment 1.md",
-    "CPS 108/Solved Past Question.md",
-    "CPS 108/CPS 108.md",
-    "CPS 108/Network Topology.md",
-    "CPS 108/Introduction to Computer Networking.md",
-    "CPS 108/CPS108 Assignment 2.md",
     "CPS 208/images/Pasted image 20230605205456.png",
     "CPS 208/images/Pasted image 20230605205355.png",
     "CPS 208/images/Pasted image 20230605204757.png",
@@ -176,7 +193,6 @@
     "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_131119.jpg",
     "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_130806.jpg",
     "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_132832.jpg",
-    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_130744.jpg",
     "CPS 206/canva/Process States & Transitions.canvas"
   ]
 }

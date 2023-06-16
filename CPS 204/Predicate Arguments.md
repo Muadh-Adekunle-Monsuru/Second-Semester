@@ -1,16 +1,17 @@
 Premise: All students who study diligently pass the exam.
 Premise: Some students fail the exam.
 Conclusion: Therefore, some students do not study diligently.
-P(x): x is a student
-Q(x): x study diligently
-R(x): x passes the exam
-∀x[P(x) ∧ Q(x) -> R(x)]
-∃x[P(x) ∧ ¬R(x) ]
-therefore 
+
 
 Premise: All birds have wings.
+All Penguins are birds 
 Premise: Some penguins cannot fly.
 Conclusion: Therefore, some creatures with wings cannot fly.
+
+
+Premise: All cats have tails.
+Premise: Some animals have no tails.
+Conclusion: Therefore, some animals are not cats.
 
 Premise: All mathematicians are logical thinkers.
 Premise: Some philosophers are not mathematicians.
@@ -20,9 +21,6 @@ Premise: All roses are flowers.
 Premise: Some flowers are red.
 Conclusion: Therefore, some red things are roses.
 
-Premise: All cats have tails.
-Premise: Some animals have no tails.
-Conclusion: Therefore, some animals are not cats.
 
 Premise: All politicians make promises.
 Premise: Some politicians are dishonest.
@@ -109,7 +107,7 @@ Since some animals have no tails and all cats have tails, it follows that some a
 Therefore, the conclusion is true: Some animals are not cats.
 
 Premise: All politicians make promises.
-Premise: Some politicians are dishonest.
+PPremise: Some politicians are dishonest.
 Conclusion: Therefore, some dishonest individuals make promises.
 
 Solution:
