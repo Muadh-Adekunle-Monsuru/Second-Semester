@@ -11,9 +11,12 @@
             "id": "5e30e469647c8e52",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CPS 208/DOcuments/solved.pdf"
+                "file": "CPS 208/Organization VS Architecture.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CPS 208/DOcuments/solved.pdf",
+            "file": "CPS 208/Organization VS Architecture.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -103,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CPS 208/DOcuments/solved.pdf"
+            "file": "CPS 208/Organization VS Architecture.md"
           }
         }
       }
@@ -121,10 +124,10 @@
   },
   "active": "5e30e469647c8e52",
   "lastOpenFiles": [
+    "CPS 208/DOcuments/solved.pdf",
+    "CPS 208/Organization VS Architecture.md",
     "CPS 208/DOcuments/208handout.pdf",
     "CPS 208/Complete CPS 208.md",
-    "CPS 208/Organization VS Architecture.md",
-    "CPS 208/DOcuments/solved.pdf",
     "CPS 208/DOcuments/Relevant Questions.md",
     "CPS 204/LATEX.md",
     "CPS 204/CPS 204 Documents/PQ/PQ Solution 2.pdf",
