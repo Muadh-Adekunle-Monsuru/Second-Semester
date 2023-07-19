@@ -28,8 +28,8 @@ Doesnt require a server | Requires a server running a server operating system
 ---
 ### Network Hardware:
 #### Cabling
-- Twisted-pair (10BaseT)
-- Thin Coax (10Base2)
+- Twisted-pair is also called 10BaseT
+- Thin Coax is also called 10Base2
 
 10BaseT: It cannot exceed 325feet in length. Because all the cables from all the clients converge at a common point, a 10BaseT network forms a star configuration.
 
@@ -63,15 +63,11 @@ Slower and more expensive than bridges.
 
 
 #### Wireless Network
-The term wireless network refers to two or more computers communicating using standard network rules or protocoles, but withtout the use of cabling to connect the computers together.
-
-A WLAN(wireless LAN) consists of:
-- An access Point (base station)
-- Wireless Card
+The term wireless network refers to two or more computers communicating using standard network rules or protocols, but without the use of cabling to connect the computers together.
 
 A WLAN can be installed as the sole network, however it can also be used to extend an exisiting wired network to areas where wiring would be too difficult to implement. 
 
-Advantages of WLAN:
+**Advantages of WLAN:**
 - It's easier to add or remove workstations
 - Easy to provide connectivity in difficult to reach areas
 - Access to the network can be from anywhere within the range
@@ -81,13 +77,13 @@ Advantages of WLAN:
 - Useful for environment which cabling is not feasible
 
 
-Disadvantages of WLAN;
+**Disadvantages of WLAN;**
 - As the number of computers on a network increase the date transfer rate to each computer will decrease
 - Lower bandwidth of wlan makes LAN more effective
 - Security is more difficult to guarantee, and requires configuration
 - Wired LAN is usually required to provide a backbone to the Wireless LAN
 
-Wireless Network Components:
+**Wireless Network Components:**
 - Require Network Interface Cards
 - A PC require a wireless NIC, which contains in-built antenna
 - Access Point: Similar function to the hub in a LAN, access point receives and broadcasts signals to and from the surrounding computers
@@ -100,13 +96,12 @@ Wireless Networks Configurations
 Ad-hoc: Using the wireless network cards in computers, computers communicate with each other directly to form the network. The devices must remain within the range of each other.
 
 
-Wireless Network Configurations:
-- Access points are more costly than wired counterparts
+**Disadvantages of ad-hoc configurations:**
 - Wireless networks are usually slower than wired network
 - Wireless Network are less reliable as signal can be affected by mediums such as wall
 - Slower when a group of users are downloading large files
 
-Advantages of Networking Students:
+**Advantages of Networking for schools:**
 - Speed: Fast method for sharing files
 - Cost: Network version of most programs are cheaper than buying individual license copies
 - Centralized Software Management: All software can be loaded on one server. Which eliminates the need to spend time and energy installing updates and tracking files on independent computers
@@ -114,8 +109,8 @@ Advantages of Networking Students:
 - Flexible Access: Student are able to access their files from any computer throughout the school
 - Security: Files and programs can be blocked from being copied
 
-Disadvantages of Networking Students:
-- Costs: Initialy costs of setup and installation is high
+**Disadvantages of Networking for schools:**
+- Costs: Initial costs of setup and installation is high
 - Requires Administrative time: proper maintenance requires time and expertise
 - File Server Failure: When a file server goes down the entire network may come to a half
 

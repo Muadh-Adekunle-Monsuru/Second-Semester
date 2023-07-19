@@ -17,22 +17,6 @@ C)Great women of yesteryears
 D)Electioneering campaigns
 
 
-According to the passage, balance must be enthroned because it is
-Options
-A)a critical interdependent function
-B)an amazing help for conscience
-C)a critical part of fidelity
-D)a serious way of ensuring success
-
-The word _inclinations,_ as used in the passage, means
-
-### Options
-A)creeds
-B)tendencies
-C)inhibitions
-D)power
-
-
 According to the author, electioneering campaign is approach
 Options
 A)Best used in politics

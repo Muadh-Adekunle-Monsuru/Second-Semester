@@ -70,7 +70,7 @@
 User View: What the OS should do for the user
 				- These types are designed for ease of use
 				- Can be a single user or workstation
-System View: The OS view
+System View: The OS view, the operating system is involved in the hardware
 
 ---
 ### Components of OS
@@ -93,7 +93,7 @@ General Overview of a computer system boot sequence
 
 1. POST on the ROM runs to check the system hardware to ensure functionality
 2. Stores the result in a special memory location
-3. Once the POST is succeful the softwaree loaded in ROM/BIOS will begin to activate computer's disk drives
+3. Once the POST is successful the software loaded in ROM/BIOS will begin to activate computer's disk drives
 4. When the disk drive is activated it find the bootstrap loader
 5. The bootstrap loader loads the operating system into memory and allows it to begin operation. 
 6. It then turns the control over to the OS
@@ -150,6 +150,10 @@ The movement of a process from one state to another.
 
 ### PCB:
 The operating system identifies each process by assigning it a process identification number (PID). 
+Process table contains the list of the process id and the corresponding pcb. 
+
+
+
 PCB: Process Control Block, it maintains information about each process that the operating system needs to manage the process. , those information include, 
 - PID
 - **process/process counter:** Is a value that determines which instruction the process will execute next.
@@ -198,3 +202,8 @@ Processes communicate message passing and sending signals to each other.
 
 ### Threads
 Thread is similar to a process but lightweight, when a process is divided into smaller tasks which are called threads. The output of the threads are joined together to form the actual output of the process. They use processor to execute and other resources processes use, such as address space and open file. They have their individual thread IDs, threads also have their own states, ready, blocked and terminated, dead(once its done executing), asleep. Operations that can be performed on a process can also be performed on a thread.  
+
+
+
+**Process in a blocked state:**
+Means the processes cannot execute even if the processor becomes available, until the event the process is waiting for occurs. 

@@ -7,6 +7,7 @@ T | F | T
 F | T | T
 
 A contradiction, is a compound proposition which is false no matter what the truth values of its simple component.$f$
+
 p | ¬ p | p ∧  ¬ p
 --|-- | --
 T | F | F

@@ -1,37 +1,20 @@
 {
   "main": {
-    "id": "e4d337303e6c45e0",
+    "id": "68d5c3279aeb2884",
     "type": "split",
     "children": [
       {
-        "id": "df4468b22d0d42fb",
+        "id": "253b78ea5394718b",
         "type": "tabs",
         "children": [
           {
-            "id": "fcd0b8812785ada2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6e4afdc58e136d94",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "59ebe82630cb1220",
+            "id": "1a2c150373532415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 204/Properties of Relation.md",
+                "file": "CPS 102/CPS 102.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -42,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "93c592c6dd29f9d2",
+    "id": "8e0abb7d4bfe9288",
     "type": "split",
     "children": [
       {
-        "id": "c4a38da96a6207c8",
+        "id": "cc48376f0309f9d2",
         "type": "tabs",
         "children": [
           {
-            "id": "060fae4a4a6af9fb",
+            "id": "4dab6bd11a192ce4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,12 +43,12 @@
             }
           },
           {
-            "id": "3a5387904d72b7b2",
+            "id": "292b5261c6beb7c5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "new",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +58,7 @@
             }
           },
           {
-            "id": "fac1a0a19a3692da",
+            "id": "73a964ed8136ce21",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,31 +69,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 208.5,
     "collapsed": true
   },
   "right": {
-    "id": "8a1a062e41c60122",
+    "id": "bf62ce0ab3152b43",
     "type": "split",
     "children": [
       {
-        "id": "cfc25ab82c7a533f",
+        "id": "9249961dce2236e0",
         "type": "tabs",
         "children": [
           {
-            "id": "e37855e59c956340",
+            "id": "a68abf15f7b51773",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPS 102/CPS 102.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40e62576eedff08d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf",
+                "file": "CPS 102/CPS 102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8fd311446e87f745",
+            "id": "39df7a4f9678779b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +121,12 @@
             }
           },
           {
-            "id": "20ba6cd9714e18e0",
+            "id": "94e7624a6694dd85",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf"
+                "file": "CPS 102/CPS 102.md"
               }
             }
           }
@@ -142,57 +142,67 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcd0b8812785ada2",
+  "active": "1a2c150373532415",
   "lastOpenFiles": [
-    "CPS 204/Properties of Relation.md",
-    "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf",
-    "CPS 204/Propositions.md",
-    "CPS 106/Untitled 1.md",
-    "CPS 106/Untitled 2.md",
-    "CPS 106/Untitled.md",
-    "CPS 106/Intro To SQL.md",
-    "CPS 208/DOcuments/solved.pdf",
-    "CPS 204/Sets.md",
-    "CPS 204/Predicate Function Questions.md",
-    "GNS 104/GNS104 Summary.md",
-    "CPS 204/Predicate Arguments.md",
-    "GNS 102/Passages/CP 8.md",
-    "GNS 102/Passages/CP 9.md",
-    "GNS 102/Passages/CP 7.md",
-    "GNS 102/Passages/CP 6.md",
-    "GNS 102/paragraphs/Describe a positive impact of community service on individuals ..md",
-    "GNS 102/Docs/GNS 102 latest-1.pdf",
-    "CPS 204/Predicate Logic.md",
     "CPS 102/Basic.md",
-    "CPS 202/QP/Untitled.md",
+    "CPS 102/CPS 102.md",
+    "CPS 102/Assignment 1.md",
+    "CPS 102/Assignment 2.md",
+    "CPS 102/Assignment 3.md",
+    "CPS 102/Assignment 4.md",
+    "CPS 102/Communication Technology Fundamental.md",
+    "CPS 102/Movement of Information Via Networks.md",
+    "CPS 102/Logic Gate.md",
+    "CPS 102/Class 4.md",
     "CPS 102/Class 3.md",
-    "CPS 102/Class 1.md",
-    "Images/Pasted.png",
-    "CPS 202/QP/2021-2022.md",
-    "CPS 108/New.md",
-    "CPS 108/~syncthing~New.md.tmp",
-    "GNS 102/~syncthing~Paragraphing Quesions.md.tmp",
-    "GNS 102/Passages/CP 7 1.md",
-    "GNS 102/Passages/CP 6 Answered.md",
-    "CPS 208/Complete CPS 208.md",
-    "STA210/~syncthing~STA210.md.tmp",
-    "GNS 102/paragraphs",
-    "GNS 102/Docs/writing_task_2_developing_paragraphs.pdf",
-    "GNS 102/Docs/THE PARAGRAPH PART 2 copia.pdf",
-    "GNS 102/Docs/paragraphing.pdf",
-    "CPS 208/images/Pasted image 20230605205456.png",
-    "CPS 208/images/Pasted image 20230605205355.png",
-    "CPS 208/images/Pasted image 20230605204757.png",
-    "CPS 206/CPS206 Document/WhatsApp Image 2023-05-14 at 12.23.24.jpg",
-    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_132514.jpg",
-    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_130855.jpg",
-    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_131119.jpg",
-    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_130806.jpg",
-    "200level2ndsemesterpqs/200level2ndsemesterpqs/20230515_132832.jpg",
+    "CPS 102/Class 2.md",
+    "CPS 102/CPS102 Documents/Chapter 2.pdf",
+    "CPS 102/CPS102 Documents/Fields, Records and Files - CSVeda.pdf",
+    "CPS 102/CPS102 Documents/Invitation To Comp Sci.pdf",
+    "CPS 102/CPS102 Documents/Section2.pdf",
+    "CPS 102/CPS102 Documents/Chapter 1.pdf",
+    "CPS 106/assignments/Assignment 7.md",
+    "CPS 106/CPS 106 Documents/Past Question Solutions.md",
+    "CPS 106/Module 1 Unit 1 - 4.md",
+    "CPS 106/assignments/Assignment 6.md",
+    "CPS 106/assignments/Assignment 5.md",
+    "CPS 106/assignments/Assignment 4.md",
+    "CPS 106/assignments/Assignment 3.md",
+    "CPS 106/assignments/Assignment 2 CPS 106.md",
+    "CPS 106/assignments/Assignment 1 CPS 106.md",
+    "CPS 106/Intro To SQL.md",
+    "CPS 106/CPS 106 Documents/SQL QUERY Practical.pdf",
+    "CPS 106/CPS 106 Documents/Unconfirmed 144702.crdownload",
+    "CPS 106/Group.md",
+    "CPS 106/CPS 106.md",
+    "CPS 106/BARD SQL.md",
+    "CPS 204/Tautology.md",
+    "CPS 204/CPS 204 Documents/CPS 204 - Logical Proposition .pdf",
+    "CPS 204/CPS 204 Documents/chapter 5.pdf",
+    "CPS 204/CPS 204 Documents/chapter 2.pdf",
+    "CPS 204/images/Pasted image 20230523120439.png",
+    "CPS 204/images/Pasted image 20230523120411.png",
+    "CPS 204/images/Pasted image 20230514101735.png",
+    "CPS 204/images/Pasted image 20230514093232.png",
+    "CPS 204/images/Pasted image 20230514093057.png",
+    "CPS 204/images/Pasted image 20230514093037.png",
+    "CPS 204/images/Pasted image 20230514092322.png",
+    "CPS 204/images/Pasted image 20230514092231.png",
+    "CPS 202/Learning C/C.canvas",
+    "Pasted image 20230706171509.png",
+    "CPS 202/images/Process of Program Compilation.canvas",
+    "Arduino/Display.canvas",
+    "ENT202/ENT202 Past Question.jpeg",
+    "Untitled.canvas",
+    "CPS 208/Canvas/BuildingBlock.canvas",
+    "CPS 208/Canvas/Encoder & Decoder.canvas",
+    "CPS 208/Canvas/Computer Performance.canvas",
+    "CPS 208/Canvas/Computer Basic.canvas",
     "CPS 206/canva/Process States & Transitions.canvas"
   ]
 }

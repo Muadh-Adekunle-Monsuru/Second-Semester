@@ -205,3 +205,31 @@ One of the effects of the Crusades on Islamic civilization was the development o
 Another effect of the Crusades on Islamic civilization was the disruption of trade and commerce, as the Crusaders looted and destroyed many cities and towns along their routes. The Crusades also caused political instability and fragmentation in the Muslim world, as different dynasties and factions competed for power and influence. The Crusades also weakened the Byzantine Empire, which had been a buffer between Islam and Europe, and paved the way for its eventual collapse at the hands of the Ottoman Turks.
 
 The Crusades had a lasting impact on the relations between Islam and Europe, as they created a legacy of mistrust, hostility, and resentment that still persists today. The Crusades also shaped the modern perception of both civilizations, as they were used to justify colonialism, warfare in later centuries. 
+
+
+---
+
+Types of induction
+- Induction by emumeration: observe some large number of instances then infer that the phenomenon always has that property
+- Induction by Elimination: competitors are eliminated or falsified
+
+The term science is a Latin word for scientia which means Knowledge
+
+Leucippus is known as the father of atomic theory
+
+Dark ages 500A.D to 1000 A.D
+Beginning of Modern Science 1000 A.D to 1500 A.D.
+The Renaissance: The Golden Age of Science 1500 A.D to 1660 A.D.
+The Era of Newton 1660 A.D. to 1735 A.D.
+Industrial Revolution 1735A.D. to 1820 A.D.
+
+Philosophy of science is defined as a branch of philosophy that studies the philosophical assumptions, foundations and implications of science. 
+
+Theories of Philosophy of Science
+Ockham's Razor: make everything as simple as possible, but not simpler
+
+Whorfianism: different languages have different words for different objects. 
+
+Theory of Falsifiability: for something to be science, it must have the potential to be refuted by further experimentation. 
+
+Bayesianism: Bayes rules accepts subjectivism that we can never know anything 100%. 

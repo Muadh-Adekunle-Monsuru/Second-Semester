@@ -1,29 +1,11 @@
 {
-  "promptDelete": false,
-  "newFileLocation": "current",
-  "spellcheck": true,
   "vimMode": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 90
+    "downscalePercent": 100
   },
-  "attachmentFolderPath": "./images",
-  "newLinkFormat": "relative",
-  "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
-  "mobileToolbarCommands": [
-    "editor:undo",
-    "editor:redo",
-    "editor:toggle-bold",
-    "editor:toggle-italics",
-    "editor:toggle-highlight",
-    "editor:toggle-code",
-    "editor:toggle-bullet-list",
-    "editor:toggle-numbered-list",
-    "editor:indent-list",
-    "editor:unindent-list"
-  ]
+  "promptDelete": false
 }

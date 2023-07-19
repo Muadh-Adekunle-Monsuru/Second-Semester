@@ -1,22 +1,31 @@
 {
   "main": {
-    "id": "8fe0b33fe18cfc79",
+    "id": "640f7088d132af5a",
     "type": "split",
     "children": [
       {
-        "id": "4bf9987ed4ed7032",
+        "id": "679d4a6b9fa482d6",
         "type": "tabs",
         "children": [
           {
-            "id": "5e30e469647c8e52",
+            "id": "966c3062af430e95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 208/Organization VS Architecture.md",
+                "file": "CPS 102/Communication Technology Fundamental.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1d7ac6de396af01c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 206/CPS206 Document/OS_slides.pdf"
               }
             }
           }
@@ -26,11 +35,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "da86acdd2902dd48",
+    "id": "45ee804576fb32d3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "647c967cf3fcff64",
+        "id": "618f4fb1b99a35da",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +49,7 @@
         }
       },
       {
-        "id": "a7f0308b352e8888",
+        "id": "42f2281626bb9cee",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +64,7 @@
         }
       },
       {
-        "id": "20e8ac8e1720588c",
+        "id": "cbb5f013ec400203",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,15 +75,7 @@
         }
       },
       {
-        "id": "e9e2b2142e07c01a",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
-        "id": "29db77c83b9f9d63",
+        "id": "214498466698f2d0",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -85,28 +86,45 @@
     "currentTab": 0
   },
   "right": {
-    "id": "688db8c4d8574ce0",
+    "id": "760b9fc185c0606a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "971a7fa740b99358",
+        "id": "e57f740f490e8a28",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CPS 102/Communication Technology Fundamental.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "15dc62d3a66ed015",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CPS 208/Organization VS Architecture.md",
+            "file": "CPS 102/Communication Technology Fundamental.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "11a0dd258af1374f",
+        "id": "0e9a0720f4e39f0c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "CPS 208/Organization VS Architecture.md"
+            "file": "CPS 102/Communication Technology Fundamental.md"
           }
         }
       }
@@ -118,45 +136,41 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e30e469647c8e52",
+  "active": "966c3062af430e95",
   "lastOpenFiles": [
+    "CPS 106/assignments/Assignment 6.md",
+    "CPS 106/assignments/Assignment 7.md",
+    "CPS 106/CPS 106 Documents/Past Question Solutions.md",
+    "CPS 106/Module 2 Unit 5.md",
+    "CPS 106/Module 1 Unit 1 - 4.md",
+    "CPS 202/Learning C/Factorial In C.md",
+    "CPS 202/Swtiches in C.md",
+    "CPS 202/Sorting Classwork.md",
+    "CPS 202/Array.md",
+    "CPS 202/Introduction to C.md",
     "CPS 208/DOcuments/solved.pdf",
-    "CPS 208/Organization VS Architecture.md",
-    "CPS 208/DOcuments/208handout.pdf",
-    "CPS 208/Complete CPS 208.md",
     "CPS 208/DOcuments/Relevant Questions.md",
-    "CPS 204/LATEX.md",
-    "CPS 204/CPS 204 Documents/PQ/PQ Solution 2.pdf",
-    "CPS 204/Predicate Arguments.md",
-    "CPS 108/New.md",
-    "CPS 108/Network Topology.md",
-    "GNS 102/Paragraphing Quesions.md",
-    "GNS 102/paragraphs/Describe a positive impact of community service on individuals ..md",
-    "CPS 204/Predicate Function Questions.md",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/inferencee2.pdf",
-    "CPS 204/CPS 204 Documents/Rules of Inferencee/04InferenceRulesProofMethods.pdf",
-    "CPS 204/Rules of Inference.md",
-    "CPS 204/Untitled.md",
-    "GNS 102/Answered/CP 7 Answered.md",
-    "GNS 102/Answered/CP 6 Answered.md",
-    "CPS 204/Generalizations.md",
-    "STA210/STA210.md",
-    "STA210/STA210 2021_2022.pdf",
-    "CPS 204/CPS 204 Documents/Schaum's Outline of Discrete Mathematics, Third Edition (Schaum's  ( PDFDrive ).pdf",
-    "CPS 204/CPS 204 Documents/Untitled.md",
-    "CPS 208/Canvas/Computer Performance.canvas",
-    "CPS 208/CPS 208.md",
     "CPS 208/DOcuments/CPS208 2021_2022.pdf",
-    "CPS 102/Communication Technology Fundamental.md",
-    "CPS 102/Movement of Information Via Networks.md",
-    "CPS 102/Basic.md",
-    "CPS 102/Class 4.md",
-    "CPS 102/Running Basic.md",
-    "CPS 102/Logic Gate.md",
-    "CPS 102/Class 3.md"
+    "CPS 208/Assignment 1.md",
+    "CPS 208/Complete CPS 208.md",
+    "CPS 108/Introduction to Computer Networking.md",
+    "STA210/STA210.md",
+    "CPS 206/CPS 206 Past Question Solved.md",
+    "CPS 206/Process Synchronization.md",
+    "CPS 206/CPS206 Document/OS_slides.pdf",
+    "GNS 104/GNS104 Summary.md",
+    "GNS 106/GNS-106 Latest.md",
+    "GNS 102/Passages/CP 10 Answered.md",
+    "GNS 102/Passages/CP 11.md",
+    "GNS 102/Passages/CP 12.md",
+    "GNS 102/Passages/CP 13.md",
+    "GNS 102/Passages/CP 14.md",
+    "GNS 102/Summary.md",
+    "GNS 102/Answered/CP 1 Answered.md"
   ]
 }

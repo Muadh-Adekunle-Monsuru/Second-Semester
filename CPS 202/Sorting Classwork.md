@@ -18,17 +18,17 @@ int main(){
     int j=1;
     for(j=1;j<6;j++){
     i=0;
-    do{
-        if(numbers[i]>numbers[i+1]){
-            temp = numbers[i];
-            numbers[i] = numbers[i+1];
-            numbers[i+1] = temp;
-            i++;
-        } 
-        else{
-            i++;
-        }
-    } while(i<5);
+	    do{
+	        if(numbers[i]>numbers[i+1]){
+	            temp = numbers[i];
+	            numbers[i] = numbers[i+1];
+	            numbers[i+1] = temp;
+	            i++;
+	        } 
+	        else{
+	            i++;
+	        }
+	    } while(i<5);
     } 
     for(i=0;i<6;i++){
         printf("%d\n",numbers[i]);

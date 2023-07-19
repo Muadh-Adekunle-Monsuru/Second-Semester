@@ -12,6 +12,7 @@ int main(){
     }else{
             for(i=1;i<=n;i++){
                     fact *= i;
+					
             }
     }
 

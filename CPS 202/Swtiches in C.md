@@ -31,6 +31,3 @@ int main() {
 }
 ```
 
-Source: Conversation with Bing, 05/06/2023(1) Switch Statement in C - GeeksforGeeks. https://www.geeksforgeeks.org/c-switch-statement/ Accessed 05/06/2023.
-(2) switch...case in C Programming. https://www.programiz.com/c-programming/c-switch-case-statement Accessed 05/06/2023.
-(3) Switch Case statements in C - Full explanation with ... - Technobyte. https://technobyte.org/switch-case-statements-c-explanation-examples-tutorials/ Accessed 05/06/2023.

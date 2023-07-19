@@ -227,41 +227,41 @@ A decoder is a combinational circuit that converts binary information from N cod
 An encoder is a digital circuit, which performs the inverse operation of a decoder, an encoder has $2^N$ input lines and $N$ output line, an encoder usually <mark style="background: #CACFD9A6;">converts</mark> octal input to binary digits. 
 
 **Types of encoders:**
-1. Priority Encoders
-2. Decimal to BCD
-3. Octal to Binary
-4. Hexadecimal to Binary
+	1. Priority Encoders
+	2. Decimal to BCD
+	3. Octal to Binary
+	4. Hexadecimal to Binary
 
 **Advantages of Encoders:**
-- Highly reliable and accurate
-- Low-cost feedback
-- High-resolution
-- Integrated electronics
-- Compact Size
-- It can be incorporated into existing applications 
-- It fuses optical and digital technology
+	- Highly reliable and accurate
+	- Low-cost feedback
+	- High-resolution
+	- Integrated electronics
+	- Compact Size
+	- It can be incorporated into existing applications 
+	- It fuses optical and digital technology
 
 **Disadvantages of Encoder:**
-- Subject to magnetic or radio interference
-- It has direct light source interference 
-- It is susceptible to dirt oil and dust contaminants  
+	- Subject to magnetic or radio interference
+	- It has direct light source interference 
+	- It is susceptible to dirt oil and dust contaminants  
 
 ### Multiplexer
 It is a combinational circuit that receives binary information from one of the $2^N$ input lines and direct it to a single output line. 
 
 **Advantages of Multiplexers:**
-- Reduces number of wires used in a circuit
-- It reduces circuit complexity and cost
-- It simplifies logic design
-- It can implement many combinational circuit
-- It does not need K-maps and simplification
+	- Reduces number of wires used in a circuit
+	- It reduces circuit complexity and cost
+	- It simplifies logic design
+	- It can implement many combinational circuit
+	- It does not need K-maps and simplification
 
 **Disadvantages of Multiplexers:**
-- Added delay in switching ports
-- Added delay in input/output signals propagating through the multiplexer
-- Limitations on which ports can be used simultaneously 
-- Extra input/output ports are required to control the multiplexer
-- Added firmware complexity to handle switching ports
+	- Added delay in switching ports
+	- Added delay in input/output signals propagating through the multiplexer
+	- Limitations on which ports can be used simultaneously 
+	- Extra input/output ports are required to control the multiplexer
+	- Added firmware complexity to handle switching ports
 
 
 
@@ -310,7 +310,7 @@ REGISTER: Register is a very fast computer memory, used to store data/instructio
 
 The transfer of new information into a register is referred to as loading the register. 
 
-The symbolic notation used to describe the micro-operation transfers amongst registers is called **Register transfer language**.
+The symbolic notation used to describe the micro-operation transfers amongst registers is called ==**Register transfer language**.==
 The term register transfer means the availability of hardware logic circuits that can perform a stated micro-operation and transfer the result of the operation to the same or another register.
 
 Common Registers

@@ -19,3 +19,26 @@ Concurrent and parallel processing are two techniques for executing multiple tas
   - Enabling parallelism and concurrency
   - Improving performance and efficiency
   - Reducing deadlock and starvation
+
+What is race condition
+Race condition – this situation occurs when
+several threads access and manipulate the
+same data concurrently and where the
+outcome of the execution depends on the
+particular order in which the access takes
+place.
+
+
+Self Review
+1. Which operating system goals correspond to each of the following characteristics?
+	a. Users cannot access services or information without proper authorization.
+	b. The operating system runs on a variety of hardware configurations.
+	c. System performance increases steadily when additional memory and processors areadded.
+	d. The operating system supports devices that were not available at the time of its design.
+	e. Hardware failure does not necessarily cause the system to fail.
+
+2. How does device driver support contribute to an operating system's extensibility?
+3. 
+ANS: 1) a) security; b) portability; c) scalability; d) extensibility; e) robustness.
+
+2) Device drivers enable developers to add support for hardware that did not exist when the operating system was designed. With each new type of device that is added to a system a corresponding device driver must be installed.

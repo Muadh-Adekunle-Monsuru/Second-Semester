@@ -56,7 +56,6 @@ Flash Storage Devices: A USB flash drive It is a NAND type flash memory data sto
 NAND flash memory is a type of non-volatile storage technology that do not require power to retain data.
 
 ---
-<mark style="background: #FF5582A6;">NEW</mark>
 
 Disks contains concentric tracks, tracks are divided into sectors. A sector is the smallest addressable unit in a disk.
 

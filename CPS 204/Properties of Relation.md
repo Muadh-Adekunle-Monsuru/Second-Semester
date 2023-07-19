@@ -15,7 +15,7 @@ $\text{a R a} ∀ \text{ a} \in R$
 - Antisymmetric: Let R be a relation on a set A, then R is antisymmetric if and only if $\text{aRb and bRa implies a = b for ∀ a,b} \in A$ Does not apply to all a 
 
 - Transitive: Let R be a relation on a set A, then R is transitive if and only if $\text{aRb and bRc →  aRc ∀}  \text{ a,b,c} \in A$ 
-- therefor 
+A relation R on a set A is transitive if whenever aRb and bRc then aRc, that is, if whenever (a, b), (b,c) ∈ R then (a, c) ∈ R. Thus R is not transitive if there exist a, b, c ∈ R such that (a, b), (b, c) ∈ R but (a, c)/∈  R. 
 
-- Non-transitive
+
 

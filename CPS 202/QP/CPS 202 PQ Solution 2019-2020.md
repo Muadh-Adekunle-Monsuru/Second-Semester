@@ -94,10 +94,10 @@ scanf("%f %f %f",&rent,&housing,&transport);
 /* Start the computation of salary here*/
 tax = 0.05 * basic_pay;
 allowance = rent + housing + transport;
+deduction= dev_fee + tax;
 netpay = basic_pay + allowance - deduction;
 
 /* Print the   net salary here */
-deduction= dev_fee + tax;
 printf("%f",netpay);
 
 }

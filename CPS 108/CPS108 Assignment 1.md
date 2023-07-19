@@ -1,6 +1,3 @@
-Monsuru Muadh Adekunle
-FUO/22/0353
-[9/5/2023]
 
 1. Define the meaning of Computer Network
 		A computer network is a group of computers that are linked together so that they can share resources, such as files, printers, and software. Computer networks can be small, such as a network of computers in a home or office, or they can be large, such as the Internet.

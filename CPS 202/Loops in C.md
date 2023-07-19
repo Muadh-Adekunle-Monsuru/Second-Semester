@@ -11,12 +11,20 @@ For Loop
 int main(){
 
     int i = 0;
-
+	for(declaration; condition to check;increment){
+	block of code
+	}
+	
     for(i=0;i<=5;i++){
         printf("%d mississipi\n",i);
     }
      return 0;
 ``` 
+
+
+
+
+
 ### While Loop
 ```C
 	while(conditon){

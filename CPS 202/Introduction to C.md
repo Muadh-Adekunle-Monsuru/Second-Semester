@@ -71,6 +71,8 @@ Examples of C compilers:
 
 ---
 ### Types of Input
+
+![](https://studentprojects.in/wp-content/uploads/2022/10/image-6.png)
 ```C
 getchar(): input a single character
 putchar(): output a single character

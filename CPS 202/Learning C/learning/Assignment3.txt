@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+int i;
+double sinenumeric,number;
+for(i=0;i<=10;i++){
+    number = i /10.0;
+    sinenumeric= sin(number);
+printf("\n The Sine of %lf = %f",number,sinenumeric);
+}
+
+
+
+return 0;
+}
